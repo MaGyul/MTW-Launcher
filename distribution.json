@@ -77,7 +77,7 @@
                                 "size": 2432342,
                                 "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.4-49.0.22/forge-1.20.4-49.0.22-universal.jar"
                             },
-                            "classpath": false,
+                            "classpath": true,
                             "id": "net.minecraftforge:forge:1.20.4-49.0.22:universal",
                             "name": "Minecraft Forge (universal jar)",
                             "type": "Library",
@@ -88,7 +88,7 @@
                                 "size": 26341156,
                                 "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/net/minecraftforge/forge/1.20.4-49.0.22/forge-1.20.4-49.0.22-client.jar"
                             },
-                            "classpath": false,
+                            "classpath": true,
                             "id": "net.minecraftforge:forge:1.20.4-49.0.22:client",
                             "name": "Minecraft Forge (client jar)",
                             "type": "Library",
