@@ -8,7 +8,7 @@
     },
     "servers": [
         {
-            "id": "MTW-Server-latest",
+            "id": "MTW",
             "name": "MTW Server",
             "description": "MTW Server",
             "icon": "",
