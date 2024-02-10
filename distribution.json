@@ -433,8 +433,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "5a0f68ecfe167f560ee9774167fb1984",
-                        "size": 121389,
+                        "MD5": "ab5753c44d1c3f1ede097b98fd8360ff",
+                        "size": 121390,
                         "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/mods/mtwmod-1.4.0.jar",
                         "path": "mods/MTWMod-1.20.4-1.4.0.jar"
                     },
