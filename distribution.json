@@ -573,34 +573,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "8ea1fd3d58628003404f3c68176f4169",
-                        "size": 110192,
-                        "url": "https://mediafilez.forgecdn.net/files/5076/791/firstperson-fabric-2.3.3-mc1.20.4.jar",
-                        "path": "mods/firstperson-fabric-2.3.3-mc1.20.4.jar"
+                        "MD5": "4b16eee3f94c7e5a34f27d0110c907ed",
+                        "size": 140305762,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.5.2/mtwmod-1.5.2.jar",
+                        "path": "mods/mtwmod-1.5.2.jar"
                     },
-                    "id": "fabric.mod:firstperson:2.3.3",
-                    "name": "First-person Model",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
-                        "MD5": "2a8506d9c90e95630e9b63d2d19ae2a4",
-                        "size": 507495,
-                        "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/CEwGflAU/Pehkui-3.7.12+1.14.4-1.20.4.jar",
-                        "path": "mods/Pehkui-3.7.12+1.14.4-1.20.4.jar"
-                    },
-                    "id": "fabric.mod:pehkui:3.7.12",
-                    "name": "Pehkui",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
-                        "MD5": "46b4483b3b349ee75e9841882a667147",
-                        "size": 140484864,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.6.0/mtwmod-1.6.0.jar",
-                        "path": "mods/mtwmod-1.6.0.jar"
-                    },
-                    "id": "fabric.mod:mtwmod:1.6.0",
+                    "id": "fabric.mod:mtwmod:1.5.2",
                     "name": "MTW Mod",
                     "type": "File"
                 }
