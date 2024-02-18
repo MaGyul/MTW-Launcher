@@ -177,12 +177,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2d73f3b953cbbd83ec69695d1a6e2490",
-                        "size": 903118,
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/InGKdfel/sodium-fabric-mc1.20.3-0.5.5.jar",
-                        "path": "mods/sodium-fabric-mc1.20.3-0.5.5.jar"
+                        "MD5": "d7753a50ca37f50abb10465a9a425dac",
+                        "size": 949085,
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8+mc1.20.4.jar",
+                        "path": "mods/sodium-fabric-0.5.8+mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:sodium:0.5.5",
+                    "id": "fabric.mod:sodium:0.5.8",
                     "name": "Sodium",
                     "type": "File"
                 },
@@ -298,12 +298,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "ccd09e1ff89f57197fa09002bf595b45",
-                        "size": 2400882,
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Xl7oywRL/iris-mc1.20.4-1.6.14.jar",
-                        "path": "mods/iris-mc1.20.4-1.6.14.jar"
+                        "MD5": "cc391df9e929608c37a04a342c6babb3",
+                        "size": 2421865,
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar",
+                        "path": "mods/iris-mc1.20.4-1.6.17.jar"
                     },
-                    "id": "fabric.mod:iris:1.6.14",
+                    "id": "fabric.mod:iris:1.6.17",
                     "name": "Iris",
                     "type": "File"
                 },
