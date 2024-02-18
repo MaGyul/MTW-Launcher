@@ -559,6 +559,17 @@
                     "id": "fabric.mod:mtwmod:1.5.2",
                     "name": "MTW Mod",
                     "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "1e536c7f98540ade366d427fbf904ffc",
+                        "size": 6007324,
+                        "url": "https://mediafilez.forgecdn.net/files/5077/484/worldedit-mod-7.2.19.jar",
+                        "path": "mods/worldedit-mod-7.2.19.jar"
+                    },
+                    "id": "fabric.mod:worldedit-mod:7.2.19",
+                    "name": "WorldEdit",
+                    "type": "File"
                 }
             ]
         }
