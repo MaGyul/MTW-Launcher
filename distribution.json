@@ -562,12 +562,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "78bc1a537b57d97659c0b527dc711006",
-                        "size": 4783610,
-                        "url": "https://mediafilez.forgecdn.net/files/5079/795/immersive-portals-5.1.4-mc1.20.4-fabric.jar",
-                        "path": "mods/immersive-portals-5.1.4-mc1.20.4-fabric.jar"
+                        "MD5": "aeecab4f9469f821f765ff60c7fa8892",
+                        "size": 4784568,
+                        "url": "https://mediafilez.forgecdn.net/files/5112/224/immersive-portals-5.1.7-mc1.20.4-fabric.jar",
+                        "path": "mods/immersive-portals-5.1.7-mc1.20.4-fabric.jar"
                     },
-                    "id": "fabric.mod:immersive-portals:5.1.4",
+                    "id": "fabric.mod:immersive-portals:5.1.7",
                     "name": "Immersive Portals",
                     "type": "File"
                 },
