@@ -551,17 +551,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "4b16eee3f94c7e5a34f27d0110c907ed",
-                        "size": 140305762,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.5.2/mtwmod-1.5.2.jar",
-                        "path": "mods/mtwmod-1.5.2.jar"
-                    },
-                    "id": "fabric.mod:mtwmod:1.5.2",
-                    "name": "MTW Mod",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "1e536c7f98540ade366d427fbf904ffc",
                         "size": 6007324,
                         "url": "https://mediafilez.forgecdn.net/files/5077/484/worldedit-mod-7.2.19.jar",
@@ -569,6 +558,28 @@
                     },
                     "id": "fabric.mod:worldedit-mod:7.2.19",
                     "name": "WorldEdit",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "78bc1a537b57d97659c0b527dc711006",
+                        "size": 4783610,
+                        "url": "https://mediafilez.forgecdn.net/files/5079/795/immersive-portals-5.1.4-mc1.20.4-fabric.jar",
+                        "path": "mods/immersive-portals-5.1.4-mc1.20.4-fabric.jar"
+                    },
+                    "id": "fabric.mod:immersive-portals:5.1.4",
+                    "name": "Immersive Portals",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "4b16eee3f94c7e5a34f27d0110c907ed",
+                        "size": 140305762,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.5.2/mtwmod-1.5.2.jar",
+                        "path": "mods/mtwmod-1.5.2.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.5.2",
+                    "name": "MTW Mod",
                     "type": "File"
                 }
             ]
