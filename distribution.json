@@ -364,12 +364,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "d84568b4d135f0da2ba7b1c9d89f6641",
-                        "size": 78714,
-                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6ZZnpiKt/dynamic-fps-3.3.3+minecraft-1.20.0.jar",
-                        "path": "mods/dynamic-fps-3.3.3+minecraft-1.20.0.jar"
+                        "MD5": "2ae5136007e0641e71d00c9ea3943f53",
+                        "size": 98796,
+                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/shfvdKKK/dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar",
+                        "path": "mods/dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar"
                     },
-                    "id": "fabric.mod:dynamic-fps:3.3.3",
+                    "id": "fabric.mod:dynamic-fps:3.4.2",
                     "name": "Dynamic Fps",
                     "type": "File"
                 },
@@ -551,12 +551,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "1e536c7f98540ade366d427fbf904ffc",
-                        "size": 6007324,
-                        "url": "https://mediafilez.forgecdn.net/files/5077/484/worldedit-mod-7.2.19.jar",
-                        "path": "mods/worldedit-mod-7.2.19.jar"
+                        "MD5": "30fb2e37c34a6096112468c68bc6dad5",
+                        "size": 6113503,
+                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9TCdUpws/worldedit-mod-7.3.0-beta-04.jar",
+                        "path": "mods/worldedit-mod-7.3.0-beta-04.jar"
                     },
-                    "id": "fabric.mod:worldedit-mod:7.2.19",
+                    "id": "fabric.mod:worldedit-mod:7.3.0-beta-04",
                     "name": "WorldEdit",
                     "type": "File"
                 },
@@ -595,12 +595,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "c07ccfcdff87a02ebaed1baadacc38cf",
-                        "size": 140454297,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.6.0/mtwmod-1.6.0.jar",
-                        "path": "mods/mtwmod-1.6.0.jar"
+                        "MD5": "8325ad0c5b67de1d85503cf00b4ebbcc",
+                        "size": 140528437,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.7.0/mtwmod-1.7.0.jar",
+                        "path": "mods/mtwmod-1.7.0.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.6.0",
+                    "id": "fabric.mod:mtwmod:1.7.0",
                     "name": "MTW Mod",
                     "type": "File"
                 }
