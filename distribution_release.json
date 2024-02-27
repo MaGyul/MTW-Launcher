@@ -595,17 +595,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "532651c6012d74ec207479151b5e05ed",
-                        "size": 39737378,
-                        "url": "https://axiom.moulberry.com/api/downloads/Axiom-2.5.0-for-MC1.20.4.jar",
-                        "path": "mods/Axiom-2.5.0-for-MC1.20.4.jar"
-                    },
-                    "id": "fabric.mod:axiom:2.5.0",
-                    "name": "Axiom",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "3dd60aa8817fb39605c207f42aab9b51",
                         "size": 140539389,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.7.1/mtwmod-1.7.1.jar",
