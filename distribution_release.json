@@ -551,13 +551,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "30fb2e37c34a6096112468c68bc6dad5",
-                        "size": 6113503,
-                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/9TCdUpws/worldedit-mod-7.3.0-beta-04.jar",
-                        "path": "mods/worldedit-mod-7.3.0-beta-04.jar"
+                        "MD5": "467b0373ed50f0c315c5a840e4414284",
+                        "size": 6007736,
+                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/aMUZQKUG/worldedit-mod-7.2.20.jar",
+                        "path": "mods/worldedit-mod-7.2.20.jar"
                     },
-                    "id": "fabric.mod:worldedit-mod:7.3.0-beta-04",
+                    "id": "fabric.mod:worldedit-mod:7.2.20",
                     "name": "WorldEdit",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "3e962da65a7578f5d4d8162a299ff73c",
+                        "size": 1902766,
+                        "url": "https://cdn.modrinth.com/data/WECKae1F/versions/gr53g2LS/dimlib-1.0.2+mc1.20.4.jar",
+                        "path": "mods/dimlib-1.0.2+mc1.20.4.jar"
+                    },
+                    "id": "fabric.mod:dimlib:1.0.2",
+                    "name": "DimLib",
                     "type": "File"
                 },
                 {
@@ -573,12 +584,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "8ea1fd3d58628003404f3c68176f4169",
-                        "size": 110192,
-                        "url": "https://mediafilez.forgecdn.net/files/5076/791/firstperson-fabric-2.3.3-mc1.20.4.jar",
-                        "path": "mods/firstperson-fabric-2.3.3-mc1.20.4.jar"
+                        "MD5": "0a16cf9c8cc40098272cf91a542997fc",
+                        "size": 110490,
+                        "url": "https://cdn.modrinth.com/data/H5XMjpHi/versions/51Nzrb3j/firstperson-fabric-2.3.4-mc1.20.4.jar",
+                        "path": "mods/firstperson-fabric-2.3.4-mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:firstperson:2.3.3",
+                    "id": "fabric.mod:firstperson:2.3.4",
                     "name": "First-person Model",
                     "type": "File"
                 },
@@ -595,12 +606,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3dd60aa8817fb39605c207f42aab9b51",
-                        "size": 140539389,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.7.1/mtwmod-1.7.1.jar",
-                        "path": "mods/mtwmod-1.7.1.jar"
+                        "MD5": "33b8e712d28c3d595f6d40d15138611b",
+                        "size": 140579865,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.8.0/mtwmod-1.8.0.jar",
+                        "path": "mods/mtwmod-1.8.0.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.7.1",
+                    "id": "fabric.mod:mtwmod:1.8.0",
                     "name": "MTW Mod",
                     "type": "File"
                 }
