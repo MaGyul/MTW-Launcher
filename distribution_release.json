@@ -20,21 +20,21 @@
             "modules": [
                 {
                     "artifact": {
-                        "MD5": "744dbc7c568d7e782e6616637a14f6b3",
-                        "size": 1321135,
-                        "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/fabric-loader-0.15.6.jar"
+                        "MD5": "13832fed8b4ba82a4dd000b4c4b2e429",
+                        "size": 1327275,
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.15.6",
+                    "id": "net.fabricmc:fabric-loader:0.15.7",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "9122dd4f139e3df30d35c570d062a496",
+                                "MD5": "650ed10f5882f94cd22048a040d56724",
                                 "size": 2847,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.6-1.20.4/fabric-loader-0.15.6-1.20.4.json"
+                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.7-1.20.4/fabric-loader-0.15.7-1.20.4.json"
                             },
-                            "id": "0.15.6-1.20.4",
+                            "id": "0.15.7-1.20.4",
                             "name": "Minecraft Fabric (version.json)",
                             "type": "VersionManifest"
                         },
@@ -42,7 +42,7 @@
                             "artifact": {
                                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
                                 "size": 123598,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/asm-9.6.jar"
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.6/asm-9.6.jar"
                             },
                             "id": "org.ow2.asm:asm:9.6",
                             "name": "Minecraft Fabric (asm)",
@@ -52,7 +52,7 @@
                             "artifact": {
                                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
                                 "size": 34041,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/asm-analysis-9.6.jar"
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
                             },
                             "id": "org.ow2.asm:asm-analysis:9.6",
                             "name": "Minecraft Fabric (asm-analysis)",
@@ -62,7 +62,7 @@
                             "artifact": {
                                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
                                 "size": 72194,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/asm-commons-9.6.jar"
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
                             },
                             "id": "org.ow2.asm:asm-commons:9.6",
                             "name": "Minecraft Fabric (asm-commons)",
@@ -72,7 +72,7 @@
                             "artifact": {
                                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
                                 "size": 51935,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/asm-tree-9.6.jar"
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
                             },
                             "id": "org.ow2.asm:asm-tree:9.6",
                             "name": "Minecraft Fabric (asm-tree)",
@@ -82,7 +82,7 @@
                             "artifact": {
                                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
                                 "size": 91131,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/asm-util-9.6.jar"
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
                             },
                             "id": "org.ow2.asm:asm-util:9.6",
                             "name": "Minecraft Fabric (asm-util)",
@@ -92,7 +92,7 @@
                             "artifact": {
                                 "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
                                 "size": 1451874,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
                             },
                             "id": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
                             "name": "Minecraft Fabric (sponge-mixin)",
@@ -102,7 +102,7 @@
                             "artifact": {
                                 "MD5": "3a1cade1634c518db6147c9771686ea9",
                                 "size": 608319,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/libraries/intermediary-1.20.4.jar"
+                                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
                             },
                             "id": "net.fabricmc:intermediary:1.20.4",
                             "name": "Minecraft Fabric (intermediary)",
