@@ -661,12 +661,34 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "b17efb5d9295949020170abb54ab27c0",
-                        "size": 140582380,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.8.2/mtwmod-1.8.2.jar",
-                        "path": "mods/mtwmod-1.8.2.jar"
+                        "MD5": "fc03f740b935fd725c2e41780a38e565",
+                        "size": 348426,
+                        "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/EvDx8gEe/carryon-fabric-1.20.4-2.1.3.13.jar",
+                        "path": "mods/carryon-fabric-1.20.4-2.1.3.13.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.8.2",
+                    "id": "fabric.mod:carryon:2.1.3",
+                    "name": "Carry On",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "27daa8b90b7dbff86fc3a716b18a8624",
+                        "size": 139338195,
+                        "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/xlcaznxa/physics-mod-3.0.13-mc-1.20.4-fabric.jar",
+                        "path": "mods/physics-mod-3.0.13-mc-1.20.4-fabric.jar"
+                    },
+                    "id": "fabric.mod:physics-mod:3.0.13",
+                    "name": "Physics Mod",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "1cbb2b8bc08aeeff0df2985ad80c31fa",
+                        "size": 140584537,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.9.0/mtwmod-1.9.0.jar",
+                        "path": "mods/mtwmod-1.9.0.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.9.0",
                     "name": "MTW Mod",
                     "type": "File"
                 }
