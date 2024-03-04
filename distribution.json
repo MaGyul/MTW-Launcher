@@ -562,17 +562,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "0a16cf9c8cc40098272cf91a542997fc",
-                        "size": 110490,
-                        "url": "https://cdn.modrinth.com/data/H5XMjpHi/versions/51Nzrb3j/firstperson-fabric-2.3.4-mc1.20.4.jar",
-                        "path": "mods/firstperson-fabric-2.3.4-mc1.20.4.jar"
-                    },
-                    "id": "fabric.mod:firstperson:2.3.4",
-                    "name": "First-person Model",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "3e962da65a7578f5d4d8162a299ff73c",
                         "size": 1902766,
                         "url": "https://cdn.modrinth.com/data/WECKae1F/versions/gr53g2LS/dimlib-1.0.2+mc1.20.4.jar",
@@ -683,12 +672,67 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "1cbb2b8bc08aeeff0df2985ad80c31fa",
-                        "size": 140584537,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.9.0/mtwmod-1.9.0.jar",
-                        "path": "mods/mtwmod-1.9.0.jar"
+                        "MD5": "3c849e6337ff7c850762c6cc27f607ab",
+                        "size": 568669,
+                        "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4+1.20.4.jar",
+                        "path": "mods/lambdynamiclights-2.3.4+1.20.4.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.9.0",
+                    "id": "fabric.mod:lambdynamiclights:2.3.4",
+                    "name": "LambDynamicLights",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "ae2dfdf04d9b3e721362940381222ba9",
+                        "size": 4708541,
+                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/NjJnkiwb/EnhancedVisuals_FABRIC_v1.6.9_mc1.20.4.jar",
+                        "path": "mods/EnhancedVisuals_FABRIC_v1.6.9_mc1.20.4.jar"
+                    },
+                    "id": "fabric.mod:enhancedvisuals:1.6.9",
+                    "name": "EnhancedVisuals",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "bd892cf0811bdde39a9bd2171eff5599",
+                        "size": 1104894,
+                        "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/kIfhbwdL/CreativeCore_FABRIC_v2.11.16_mc1.20.4.jar",
+                        "path": "mods/CreativeCore_FABRIC_v2.11.16_mc1.20.4.jar"
+                    },
+                    "id": "fabric.mod:creativecore:2.11.16",
+                    "name": "CreativeCore",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "fce9c13a98f7cacdad7710e51ca75b20",
+                        "size": 200750,
+                        "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/SSvudGpI/language-reload-1.5.10+1.20.3.jar",
+                        "path": "mods/language-reload-1.5.10+1.20.3.jar"
+                    },
+                    "id": "fabric.mod:language-reload:3.0.13",
+                    "name": "Language Reload",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "a8461f89d267441752c95beb5448e940",
+                        "size": 49334,
+                        "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17+-1.1.5.jar",
+                        "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+                    },
+                    "id": "fabric.mod:memoryleakfix:1.1.5",
+                    "name": "Memory Leak Fix",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "380ac763007b384c09c195698fe067c2",
+                        "size": 140611674,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.10.0/mtwmod-1.10.0.jar",
+                        "path": "mods/mtwmod-1.10.0.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.10.0",
                     "name": "MTW Mod",
                     "type": "File"
                 }
