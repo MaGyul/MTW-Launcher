@@ -155,12 +155,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2f4bdf53e2f68183d000c5452caee121",
-                        "size": 8125883,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/WB36Vtjp/voicechat-fabric-1.20.4-2.5.7.jar",
-                        "path": "mods/voicechat-fabric-1.20.4-2.5.7.jar"
+                        "MD5": "565edd86c0d64d85937bba2c68cc51ab",
+                        "size": 8127305,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bLTpuwCf/voicechat-fabric-1.20.4-2.5.8.jar",
+                        "path": "mods/voicechat-fabric-1.20.4-2.5.8.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.7",
+                    "id": "fabric.mod:voicechat:2.5.8",
                     "name": "Simple Voice Chat",
                     "type": "File"
                 },
@@ -551,12 +551,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "467b0373ed50f0c315c5a840e4414284",
-                        "size": 6007736,
-                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/aMUZQKUG/worldedit-mod-7.2.20.jar",
-                        "path": "mods/worldedit-mod-7.2.20.jar"
+                        "MD5": "af542558ba94a7e329b53d7c2e373b4d",
+                        "size": 6122896,
+                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZOhVauWn/worldedit-mod-7.3.0.jar",
+                        "path": "mods/worldedit-mod-7.3.0.jar"
                     },
-                    "id": "fabric.mod:worldedit-mod:7.2.20",
+                    "id": "fabric.mod:worldedit-mod:7.3.0",
                     "name": "WorldEdit",
                     "type": "File"
                 },
@@ -712,6 +712,28 @@
                     },
                     "id": "fabric.mod:memoryleakfix:1.1.5",
                     "name": "Memory Leak Fix",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "a3c6c32f346da02df6e4543200e1fe16",
+                        "size": 1790429,
+                        "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/qXgkW0p6/mcw-roofs-2.3.0-mc1.20.4fabric.jar",
+                        "path": "mods/mcw-roofs-2.3.0-mc1.20.4fabric.jar"
+                    },
+                    "id": "fabric.mod:mcw-roofs:mcw-roofs",
+                    "name": "Macaw's Roofs",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "86ecab27bfbf06d82788e152e4bff7ec",
+                        "size": 853323,
+                        "url": "https://cdn.modrinth.com/data/M08ruV16/versions/jGGumR4a/bobby-5.1.0+mc1.20.4.jar",
+                        "path": "mods/bobby-5.1.0+mc1.20.4.jar"
+                    },
+                    "id": "fabric.mod:bobby:5.1.0",
+                    "name": "Bobby",
                     "type": "File"
                 },
                 {
