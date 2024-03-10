@@ -727,17 +727,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "a3c6c32f346da02df6e4543200e1fe16",
-                        "size": 1790429,
-                        "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/qXgkW0p6/mcw-roofs-2.3.0-mc1.20.4fabric.jar",
-                        "path": "mods/mcw-roofs-2.3.0-mc1.20.4fabric.jar"
-                    },
-                    "id": "fabric.mod:mcw-roofs:mcw-roofs",
-                    "name": "Macaw's Roofs",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "86ecab27bfbf06d82788e152e4bff7ec",
                         "size": 853323,
                         "url": "https://cdn.modrinth.com/data/M08ruV16/versions/jGGumR4a/bobby-5.1.0+mc1.20.4.jar",
