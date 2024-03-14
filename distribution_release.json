@@ -122,6 +122,17 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "8204b426c0b59538e06fa440eee2d287",
+                        "size": 140088364,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.0-resource/mtwmod-resource-1.0.0.jar",
+                        "path": "mods/mtwmod-resource-1.0.0.jar"
+                    },
+                    "id": "fabric.mod:mtwmod-resource:1.0.0",
+                    "name": "MTW Mod (resource)",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
                         "MD5": "c825c041b46082dd99f5a1f21ed8217d",
                         "size": 2149865,
                         "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/UgdmocrA/fabric-api-0.96.1+1.20.4.jar",
@@ -199,12 +210,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2744ac9b3e4908c3cfcf4362d1437e0f",
-                        "size": 780572,
-                        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar",
-                        "path": "mods/optigui-2.1.7.jar"
+                        "MD5": "ad0a22fcfb548e182179e4fd506f2ebf",
+                        "size": 613589,
+                        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/cGrREnKA/optigui-2.3.0-alpha.2.jar",
+                        "path": "mods/optigui-2.3.0-alpha.2.jar"
                     },
-                    "id": "fabric.mod:optigui:2.1.7",
+                    "id": "fabric.mod:optigui:2.3.0-alpha.2",
                     "name": "OptiGui",
                     "type": "File"
                 },
@@ -727,12 +738,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "81f5008fdc6ffecdd9beb96d7afc8dad",
-                        "size": 140628145,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.10.1/mtwmod-1.10.1.jar",
-                        "path": "mods/mtwmod-1.10.1.jar"
+                        "MD5": "1b45cbaff5e449633af2363cb921bc41",
+                        "size": 481226,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.10.1-alpha/mtwmod-1.10.1-alpha.jar",
+                        "path": "mods/mtwmod-1.10.1-alpha.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.10.1",
+                    "id": "fabric.mod:mtwmod:1.10.1-alpha",
                     "name": "MTW Mod",
                     "type": "File"
                 }
