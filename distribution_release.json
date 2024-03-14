@@ -199,12 +199,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2476cb3269c5ff2876a1ebb546fc4289",
-                        "size": 6732012,
-                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
-                        "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar"
+                        "MD5": "aa6ae207640288876f5b8551f5e33459",
+                        "size": 6734779,
+                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
+                        "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
                     },
-                    "id": "fabric.mod:fabric-language-kotlin:1.10.17",
+                    "id": "fabric.mod:fabric-language-kotlin:1.10.19",
                     "name": "Fabric Language Kotlin",
                     "type": "File"
                 },
