@@ -738,12 +738,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "9a9c751c02354b9bbb26188f89deedc6",
-                        "size": 484022,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.11.0/mtwmod-1.11.0.jar",
-                        "path": "mods/mtwmod-1.11.0.jar"
+                        "MD5": "92a3cd3e0e28cc38c3d9064c0995dcb4",
+                        "size": 485724,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.11.1/mtwmod-1.11.1.jar",
+                        "path": "mods/mtwmod-1.11.1.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.11.0",
+                    "id": "fabric.mod:mtwmod:1.11.1",
                     "name": "MTW Mod",
                     "type": "File"
                 }
