@@ -166,12 +166,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "565edd86c0d64d85937bba2c68cc51ab",
-                        "size": 8127305,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bLTpuwCf/voicechat-fabric-1.20.4-2.5.8.jar",
-                        "path": "mods/voicechat-fabric-1.20.4-2.5.8.jar"
+                        "MD5": "568eadc242f7ba2994e19115d3d2478d",
+                        "size": 8128239,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/aUuvK0aI/voicechat-fabric-1.20.4-2.5.9.jar",
+                        "path": "mods/voicechat-fabric-1.20.4-2.5.9.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.8",
+                    "id": "fabric.mod:voicechat:2.5.9",
                     "name": "Simple Voice Chat",
                     "type": "File"
                 },
