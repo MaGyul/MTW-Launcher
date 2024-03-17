@@ -749,6 +749,17 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "c444460976f53149c92c04c5c8d8b237",
+                        "size": 153985,
+                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4+1.20.1.jar",
+                        "path": "mods/fallingleaves-1.15.4+1.20.1.jar"
+                    },
+                    "id": "fabric.mod:fallingleaves:1.15.4",
+                    "name": "Falling Leaves",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
                         "MD5": "92a3cd3e0e28cc38c3d9064c0995dcb4",
                         "size": 485724,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.11.1/mtwmod-1.11.1.jar",
