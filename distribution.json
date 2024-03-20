@@ -606,17 +606,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3dae470f0e346c581458a14f9e06975d",
-                        "size": 229440,
-                        "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/mods/mcef-fabric-2.1.2-1.20.4-SNAPSHOT.jar",
-                        "path": "mods/mcef-fabric-2.1.2-1.20.4-SNAPSHOT.jar"
-                    },
-                    "id": "fabric.mod:mcef:2.1.2",
-                    "name": "MCEF",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "a4ab2f13bbb4537dc709a90a45c61211",
                         "size": 161835,
                         "url": "https://cdn.modrinth.com/data/IKARgflD/versions/hIOdxem3/DiagonalFences-v20.4.0-1.20.4-Fabric.jar",
