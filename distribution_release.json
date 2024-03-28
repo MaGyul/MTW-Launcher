@@ -166,12 +166,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "568eadc242f7ba2994e19115d3d2478d",
-                        "size": 8128239,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/aUuvK0aI/voicechat-fabric-1.20.4-2.5.9.jar",
-                        "path": "mods/voicechat-fabric-1.20.4-2.5.9.jar"
+                        "MD5": "3a453c6986c286f947cc0a6fe906313a",
+                        "size": 8129585,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/n4elNcgO/voicechat-fabric-1.20.4-2.5.10.jar",
+                        "path": "mods/voicechat-fabric-1.20.4-2.5.10.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.9",
+                    "id": "fabric.mod:voicechat:2.5.10",
                     "name": "Simple Voice Chat",
                     "type": "File"
                 },
@@ -298,12 +298,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "735c9b0e638b30053f331a2809d132e0",
-                        "size": 222051,
-                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/59UuNTrz/ImmediatelyFast-Fabric-1.2.10+1.20.4.jar",
-                        "path": "mods/ImmediatelyFast-Fabric-1.2.10+1.20.4.jar"
+                        "MD5": "922650e22732801762d1de57bde56393",
+                        "size": 222646,
+                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FEOsWs1E/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar",
+                        "path": "mods/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar"
                     },
-                    "id": "fabric.mod:immediatelyfast:1.2.10",
+                    "id": "fabric.mod:immediatelyfast:1.2.11",
                     "name": "Immediately Fast",
                     "type": "File"
                 },
@@ -342,12 +342,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "d6e39b6d76378817b36d746ee47fceed",
-                        "size": 1055608,
-                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/JiEpJuon/Zoomify-2.13.0.jar",
-                        "path": "mods/Zoomify-2.13.0.jar"
+                        "MD5": "ab3d35b676c34df53199e1d95c3d779c",
+                        "size": 1059619,
+                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/BalILUb7/Zoomify-2.13.2.jar",
+                        "path": "mods/Zoomify-2.13.2.jar"
                     },
-                    "id": "fabric.mod:zoomify:2.13.0",
+                    "id": "fabric.mod:zoomify:2.13.2",
                     "name": "Zoomify",
                     "type": "File"
                 },
@@ -518,23 +518,23 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7b8ca848c5aa010e9280283442145464",
-                        "size": 434857,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0+mc1.20.4.jar",
-                        "path": "mods/modernfix-fabric-5.14.0+mc1.20.4.jar"
+                        "MD5": "0e030ef451ef6c536bf3101e8f0b43b9",
+                        "size": 440683,
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0+mc1.20.4.jar",
+                        "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:modernfix:5.14.0",
+                    "id": "fabric.mod:modernfix:5.15.0",
                     "name": "Modernfix",
                     "type": "File"
                 },
                 {
                     "artifact": {
-                        "MD5": "2c7a04a0e218b9a37c27ebfdf03ebf6e",
-                        "size": 59359,
-                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
-                        "path": "mods/entityculling-fabric-1.6.3.1-mc1.20.4.jar"
+                        "MD5": "7b3ee1a853de2b28906b9840f3cba3ae",
+                        "size": 59582,
+                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar",
+                        "path": "mods/entityculling-fabric-1.6.4-mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:entityculling:1.6.3.1",
+                    "id": "fabric.mod:entityculling:1.6.4",
                     "name": "Entity Culling",
                     "type": "File"
                 },
@@ -595,12 +595,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2a8506d9c90e95630e9b63d2d19ae2a4",
-                        "size": 507495,
-                        "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/CEwGflAU/Pehkui-3.7.12+1.14.4-1.20.4.jar",
-                        "path": "mods/Pehkui-3.7.12+1.14.4-1.20.4.jar"
+                        "MD5": "a5cf95d104ad6e5ec56337df3d81667b",
+                        "size": 488110,
+                        "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/czRgm3k6/Pehkui-3.8.0+1.14.4-1.20.4.jar",
+                        "path": "mods/Pehkui-3.8.0+1.14.4-1.20.4.jar"
                     },
-                    "id": "fabric.mod:pehkui:3.7.12",
+                    "id": "fabric.mod:pehkui:3.8.0",
                     "name": "Pehkui",
                     "type": "File"
                 },
@@ -738,12 +738,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "c444460976f53149c92c04c5c8d8b237",
-                        "size": 153985,
-                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4+1.20.1.jar",
-                        "path": "mods/fallingleaves-1.15.4+1.20.1.jar"
+                        "MD5": "6b30d21c748744af8fc643dc9b62ce88",
+                        "size": 154889,
+                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/PNG0Dp43/fallingleaves-1.15.5+1.20.1.jar",
+                        "path": "mods/fallingleaves-1.15.5+1.20.1.jar"
                     },
-                    "id": "fabric.mod:fallingleaves:1.15.4",
+                    "id": "fabric.mod:fallingleaves:1.15.5",
                     "name": "Falling Leaves",
                     "type": "File"
                 },
