@@ -752,9 +752,9 @@
                         "MD5": "b69fc577083e65d6cb179eb96a5b252a",
                         "size": 499911,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.11.3/mtwmod-1.11.3.jar",
-                        "path": "mods/mtwmod-1.11.2.jar"
+                        "path": "mods/mtwmod-1.11.3.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.11.2",
+                    "id": "fabric.mod:mtwmod:1.11.3",
                     "name": "MTW Mod",
                     "type": "File"
                 }
