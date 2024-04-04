@@ -166,12 +166,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3a453c6986c286f947cc0a6fe906313a",
-                        "size": 8129585,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/n4elNcgO/voicechat-fabric-1.20.4-2.5.10.jar",
-                        "path": "mods/voicechat-fabric-1.20.4-2.5.10.jar"
+                        "MD5": "6358c86535c81e4646d723fe4e2ca9df",
+                        "size": 8125303,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/r7e564VW/voicechat-fabric-1.20.4-2.5.11.jar",
+                        "path": "mods/voicechat-fabric-1.20.4-2.5.11.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.10",
+                    "id": "fabric.mod:voicechat:2.5.11",
                     "name": "Simple Voice Chat",
                     "type": "File"
                 },
@@ -232,12 +232,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7eb06d459405ed6c87b16f4c5be4493d",
-                        "size": 724484,
-                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar",
-                        "path": "mods/modmenu-9.0.0.jar"
+                        "MD5": "1a8b6ee86b5c7b8afbdf1c46115c7e60",
+                        "size": 724448,
+                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar",
+                        "path": "mods/modmenu-9.1.0-beta.1.jar"
                     },
-                    "id": "fabric.mod:modmenu:9.0.0",
+                    "id": "fabric.mod:modmenu:9.1.0-beta.1",
                     "name": "Mod Menu",
                     "type": "File"
                 },
@@ -606,12 +606,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "a4ab2f13bbb4537dc709a90a45c61211",
-                        "size": 161835,
-                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/hIOdxem3/DiagonalFences-v20.4.0-1.20.4-Fabric.jar",
-                        "path": "mods/DiagonalFences-v20.4.0-1.20.4-Fabric.jar"
+                        "MD5": "c9300b3a458fbd7e923e0bfc3e3cddf7",
+                        "size": 163915,
+                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/vRnCnKBa/DiagonalFences-v20.4.1-1.20.4-Fabric.jar",
+                        "path": "mods/DiagonalFences-v20.4.1-1.20.4-Fabric.jar"
                     },
-                    "id": "fabric.mod:diagonalfences:20.4.0",
+                    "id": "fabric.mod:diagonalfences:20.4.1",
                     "name": "DiagonalFences",
                     "type": "File"
                 },
@@ -749,12 +749,45 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "8ed78ba3a789b48b0553b7dc3eca3d4c",
-                        "size": 499855,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.11.3/mtwmod-1.11.3.jar",
-                        "path": "mods/mtwmod-1.11.3.jar"
+                        "MD5": "8aeb9501f749fb06aafc813d4c490716",
+                        "size": 305770,
+                        "url": "https://cdn.modrinth.com/data/Guh4HXen/versions/bvfj63xf/ItemsDisplayed - v1.2.2-1.20.4.jar",
+                        "path": "mods/ItemsDisplayed - v1.2.2-1.20.4.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.11.3",
+                    "id": "fabric.mod:itemsdisplayed:1.2.2",
+                    "name": "Items Displayed",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "ed94a7c0d43a8986c8f58036697cb1cc",
+                        "size": 1193790,
+                        "url": "https://mediafilez.forgecdn.net/files/5061/203/TrueDarknessFork-1.0.2-1.20.x.jar",
+                        "path": "mods/TrueDarknessFork-1.0.2-1.20.x.jar"
+                    },
+                    "id": "fabric.mod:truedarkness:1.0.2",
+                    "name": "True Darkness",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "dc5a58f46919d3b7b0d4ce163ea42a02",
+                        "size": 1164647,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
+                        "path": "mods/mod-loading-screen-1.0.4.jar"
+                    },
+                    "id": "fabric.mod:mod-loading-screen:1.0.4",
+                    "name": "Mod Loading Screen",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "a699a1b654698a1ed481fe3b61aef2a9",
+                        "size": 866762,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.0/mtwmod-1.12.0.jar",
+                        "path": "mods/mtwmod-1.12.0.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.12.0",
                     "name": "MTW Mod",
                     "type": "File"
                 }
