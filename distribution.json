@@ -474,12 +474,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "24675c79b89ef06ddedcd0a357218a45",
-                        "size": 957956,
-                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/4pPSXzLY/PuzzlesLib-v20.4.21-1.20.4-Fabric.jar",
-                        "path": "mods/PuzzlesLib-v20.4.21-1.20.4-Fabric.jar"
+                        "MD5": "2c353fe7a7623b6e43d533204f9ca622",
+                        "size": 1016204,
+                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/tXRgMC8h/PuzzlesLib-v20.4.42-1.20.4-Fabric.jar",
+                        "path": "mods/PuzzlesLib-v20.4.42-1.20.4-Fabric.jar"
                     },
-                    "id": "fabric.mod:puzzleslib:20.4.21",
+                    "id": "fabric.mod:puzzleslib:20.4.42",
                     "name": "Puzzles Lib",
                     "type": "File"
                 },
