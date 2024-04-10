@@ -804,8 +804,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "35291b6c0b03505e832589c4053eb36e",
-                        "size": 867646,
+                        "MD5": "59d5af8cd4a49548782f2c6f2ef84a29",
+                        "size": 867757,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.2/mtwmod-1.12.2.jar",
                         "path": "mods/mtwmod-1.12.2.jar"
                     },
