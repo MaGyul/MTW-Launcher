@@ -122,6 +122,17 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "a0a9cf41df77d55ca303428cac7a6e07",
+                        "size": 931968,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-shaders/Make_The_World_ShadersBSL.zip",
+                        "path": "shaderpacks/Make_The_World_ShadersBSL.zip"
+                    },
+                    "id": "mtw.shaders:Make_The_World_ShadersBSL:1.0.0",
+                    "name": "MTW Shaders (BSL)",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
                         "MD5": "2beeabecccf0fe76066a05b35645a6c0",
                         "size": 140088376,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.1-resource/mtwmod-resource-1.0.1.jar",
@@ -778,6 +789,28 @@
                     },
                     "id": "fabric.mod:mod-loading-screen:1.0.4",
                     "name": "Mod Loading Screen",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "9fd382e88991eb9b208c665c6dd2a6c1",
+                        "size": 185125,
+                        "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/ayMQAgjq/NBTac-FABRIC-1.20.4-1.2.jar",
+                        "path": "mods/NBTac-FABRIC-1.20.4-1.2.jar"
+                    },
+                    "id": "fabric.mod:nbtac:1.2",
+                    "name": "NBT Autocomplete",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "53c2c34b7b12a817c7816ca388081ab9",
+                        "size": 425981,
+                        "url": "https://cdn.modrinth.com/data/h3r1moh7/versions/918HsaTO/cmdkeybind-1.6.3-1.20.4.jar",
+                        "path": "mods/cmdkeybind-1.6.3-1.20.4.jar"
+                    },
+                    "id": "fabric.mod:nbtac:1.2",
+                    "name": "Command Macros",
                     "type": "File"
                 },
                 {
