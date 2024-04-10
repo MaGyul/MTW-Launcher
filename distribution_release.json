@@ -177,12 +177,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "6358c86535c81e4646d723fe4e2ca9df",
-                        "size": 8125303,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/r7e564VW/voicechat-fabric-1.20.4-2.5.11.jar",
-                        "path": "mods/voicechat-fabric-1.20.4-2.5.11.jar"
+                        "MD5": "0fe58d8ccd88eba70814ebb8f14e187a",
+                        "size": 8125595,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/B23zGLmw/voicechat-fabric-1.20.4-2.5.12.jar",
+                        "path": "mods/voicechat-fabric-1.20.4-2.5.12.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.11",
+                    "id": "fabric.mod:voicechat:2.5.12",
                     "name": "Simple Voice Chat",
                     "type": "File"
                 },
@@ -749,12 +749,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "6b30d21c748744af8fc643dc9b62ce88",
-                        "size": 154889,
-                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/PNG0Dp43/fallingleaves-1.15.5+1.20.1.jar",
-                        "path": "mods/fallingleaves-1.15.5+1.20.1.jar"
+                        "MD5": "1d13a592b3c329e2bc10b658161e8429",
+                        "size": 156773,
+                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6+1.20.1.jar",
+                        "path": "mods/fallingleaves-1.15.6+1.20.1.jar"
                     },
-                    "id": "fabric.mod:fallingleaves:1.15.5",
+                    "id": "fabric.mod:fallingleaves:1.15.6",
                     "name": "Falling Leaves",
                     "type": "File"
                 },
