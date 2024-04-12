@@ -804,6 +804,17 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "52053434f7809da459a1a4420e94d563",
+                        "size": 245698,
+                        "url": "https://cdn.modrinth.com/data/IDOSfa6c/versions/JQt2k9W5/command-block-ide-0.4.6.jar",
+                        "path": "mods/command-block-ide-0.4.6.jar"
+                    },
+                    "id": "fabric.mod:command-block-ide:0.4.6",
+                    "name": "Command Block IDE",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
                         "MD5": "59d5af8cd4a49548782f2c6f2ef84a29",
                         "size": 867757,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.2/mtwmod-1.12.2.jar",
