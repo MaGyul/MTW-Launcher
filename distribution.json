@@ -133,8 +133,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2beeabecccf0fe76066a05b35645a6c0",
-                        "size": 140088376,
+                        "MD5": "f06feeb7d9ef77435bb929468b2c3ab7",
+                        "size": 140209768,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.1-resource/mtwmod-resource-1.0.1.jar",
                         "path": "mods/mtwmod-resource-1.0.1.jar"
                     },
@@ -254,12 +254,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7105c0ef569dd1c37d1b36b044351bea",
-                        "size": 269457,
-                        "url": "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar",
-                        "path": "mods/moreculling-1.20.4-0.22.1.jar"
+                        "MD5": "109804ad4b9f14a549f02bf26c98ac44",
+                        "size": 272851,
+                        "url": "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar",
+                        "path": "mods/moreculling-1.20.4-0.24.0.jar"
                     },
-                    "id": "fabric.mod:moreculling:0.22.1",
+                    "id": "fabric.mod:moreculling:0.24.0",
                     "name": "More Culling",
                     "type": "File"
                 },
@@ -342,12 +342,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "30b300e663d4b942b21efaef0eb4f6fd",
-                        "size": 347117,
-                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/bwjbN1G7/entity_model_features_fabric_1.20.4-1.3.jar",
-                        "path": "mods/entity_model_features_fabric_1.20.4-1.3.jar"
+                        "MD5": "6724dd5e2e13fb0c9400930bc10fa2c0",
+                        "size": 383171,
+                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/up2Xg2sy/entity_model_features_fabric_1.20.4-2.0.jar",
+                        "path": "mods/entity_model_features_fabric_1.20.4-2.0.jar"
                     },
-                    "id": "fabric.mod:entity_model_features:1.3",
+                    "id": "fabric.mod:entity_model_features:2.0",
                     "name": "Entity Model Features",
                     "type": "File"
                 },
@@ -529,12 +529,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "0e030ef451ef6c536bf3101e8f0b43b9",
-                        "size": 440683,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0+mc1.20.4.jar",
-                        "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar"
+                        "MD5": "424924e825ccc9410d047fea6c940130",
+                        "size": 458016,
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1+mc1.20.4.jar",
+                        "path": "mods/modernfix-fabric-5.16.1+mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:modernfix:5.15.0",
+                    "id": "fabric.mod:modernfix:5.16.1",
                     "name": "Modernfix",
                     "type": "File"
                 },
@@ -551,12 +551,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e1cf1150b93b238737a73492db69962e",
-                        "size": 449202,
-                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/qMoPCh9Z/entity_texture_features_fabric_1.20.4-5.2.3.jar",
-                        "path": "mods/entity_texture_features_fabric_1.20.4-5.2.3.jar"
+                        "MD5": "34bbed7d0f435db9601b13ada53e85a6",
+                        "size": 535139,
+                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/6QKgVWs7/entity_texture_features_fabric_1.20.4-6.0.jar",
+                        "path": "mods/entity_texture_features_fabric_1.20.4-6.0.jar"
                     },
-                    "id": "fabric.mod:entity_texture_features:5.2.3",
+                    "id": "fabric.mod:entity_texture_features:6.0",
                     "name": "Entity Texture Features",
                     "type": "File"
                 },
@@ -782,8 +782,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "dc5a58f46919d3b7b0d4ce163ea42a02",
-                        "size": 1164647,
+                        "MD5": "ef75da3fcc8223b0ee53753975147ad3",
+                        "size": 1164672,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
                         "path": "mods/mod-loading-screen-1.0.4.jar"
                     },
@@ -837,12 +837,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "731c3cb642b4864bbf402ee5e38fa318",
-                        "size": 1013709,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.3/mtwmod-1.12.3.jar",
-                        "path": "mods/mtwmod-1.12.3.jar"
+                        "MD5": "f752394f1223397bdef54dab35d2d688",
+                        "size": 1026052,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.4/mtwmod-1.12.4.jar",
+                        "path": "mods/mtwmod-1.12.4.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.12.3",
+                    "id": "fabric.mod:mtwmod:1.12.4",
                     "name": "MTW Mod",
                     "type": "File"
                 }
