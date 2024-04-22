@@ -826,6 +826,28 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "8c879a47d77d1dd7e4d8fb25c66a1f06",
+                        "size": 127415,
+                        "url": "https://cdn.modrinth.com/data/HfZKWsjM/versions/u1zZ3s9p/better-suggestions-1.20.4-1.2.4.jar",
+                        "path": "mods/better-suggestions-1.20.4-1.2.4.jar"
+                    },
+                    "id": "fabric.mod:better-suggestions:1.2.4",
+                    "name": "Better Suggestions",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
+                        "MD5": "d9351dfa3e8130d4d80146381b2ce345",
+                        "size": 24939,
+                        "url": "https://cdn.modrinth.com/data/MBLj38R0/versions/RJeuHy76/suggestion-tweaker-1.20-1.5.1-fabric.jar",
+                        "path": "mods/suggestion-tweaker-1.20-1.5.1-fabric.jar"
+                    },
+                    "id": "fabric.mod:suggestion-tweaker:1.5.1",
+                    "name": "Suggestion Tweaker",
+                    "type": "File"
+                },
+                {
+                    "artifact": {
                         "MD5": "0d7d2a80d68a643037af45151d335351",
                         "size": 7605060,
                         "url": "https://cdn.modrinth.com/data/3s19I5jr/versions/hbf3WeoJ/SkinShuffle-1.1.0+1.20.4.jar",
