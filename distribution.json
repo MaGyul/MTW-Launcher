@@ -20,21 +20,21 @@
             "modules": [
                 {
                     "artifact": {
-                        "MD5": "13832fed8b4ba82a4dd000b4c4b2e429",
-                        "size": 1327275,
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.7/fabric-loader-0.15.7.jar"
+                        "MD5": "582b8c44a8afc761c63df88b64e6bb0f",
+                        "size": 1327662,
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.15.7",
+                    "id": "net.fabricmc:fabric-loader:0.15.10",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "650ed10f5882f94cd22048a040d56724",
-                                "size": 2847,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.7-1.20.4/fabric-loader-0.15.7-1.20.4.json"
+                                "MD5": "54f94246b0ba2746881a85a365333462",
+                                "size": 2850,
+                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.10-1.20.4/fabric-loader-0.15.10-1.20.4.json"
                             },
-                            "id": "0.15.7-1.20.4",
+                            "id": "0.15.10-1.20.4",
                             "name": "Minecraft Fabric (version.json)",
                             "type": "VersionManifest"
                         },
@@ -90,11 +90,11 @@
                         },
                         {
                             "artifact": {
-                                "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
-                                "size": 1451874,
-                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
+                                "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
+                                "size": 1458875,
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
                             },
-                            "id": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+                            "id": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
                             "name": "Minecraft Fabric (sponge-mixin)",
                             "type": "Library"
                         },
@@ -166,13 +166,13 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "5886fc2e58ac759d2f7c75981428884e",
-                        "size": 466054,
-                        "url": "https://mediafilez.forgecdn.net/files/5021/36/skinlayers3d-fabric-1.6.2-mc1.20.4.jar",
-                        "path": "mods/skinlayers3d-fabric-1.6.2-mc1.20.4.jar"
+                        "MD5": "21b462c46b9901a99e88b099106b9370",
+                        "size": 471257,
+                        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/UzkRuhNY/skinlayers3d-fabric-1.6.3-mc1.20.4.jar",
+                        "path": "mods/skinlayers3d-fabric-1.6.3-mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:skinlayers3d:1.6.2",
-                    "name": "Skin Layers 3D",
+                    "id": "fabric.mod:skinlayers3d:1.6.3",
+                    "name": "3D Skin Layers",
                     "type": "File"
                 },
                 {
@@ -221,12 +221,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "ad0a22fcfb548e182179e4fd506f2ebf",
-                        "size": 613589,
-                        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/cGrREnKA/optigui-2.3.0-alpha.2.jar",
-                        "path": "mods/optigui-2.3.0-alpha.2.jar"
+                        "MD5": "d1a6c041cf206f5bb1093bc46d92fbda",
+                        "size": 613340,
+                        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/pUVuXS69/optigui-2.3.0-beta.2.jar",
+                        "path": "mods/optigui-2.3.0-beta.2.jar"
                     },
-                    "id": "fabric.mod:optigui:2.3.0-alpha.2",
+                    "id": "fabric.mod:optigui:2.3.0-beta.2",
                     "name": "OptiGui",
                     "type": "File"
                 },
@@ -243,12 +243,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "1a8b6ee86b5c7b8afbdf1c46115c7e60",
-                        "size": 724448,
-                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar",
-                        "path": "mods/modmenu-9.1.0-beta.1.jar"
+                        "MD5": "393d282879a948ec287621ed7e848f33",
+                        "size": 742941,
+                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar",
+                        "path": "mods/modmenu-9.2.0-beta.2.jar"
                     },
-                    "id": "fabric.mod:modmenu:9.1.0-beta.1",
+                    "id": "fabric.mod:modmenu:9.1.0-beta.2",
                     "name": "Mod Menu",
                     "type": "File"
                 },
@@ -320,13 +320,13 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "cc391df9e929608c37a04a342c6babb3",
-                        "size": 2421865,
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar",
-                        "path": "mods/iris-mc1.20.4-1.6.17.jar"
+                        "MD5": "4cd07c5091cc9646ea26f7242a316bbe",
+                        "size": 2671419,
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0+mc1.20.4.jar",
+                        "path": "mods/iris-1.7.0+mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:iris:1.6.17",
-                    "name": "Iris",
+                    "id": "fabric.mod:iris:1.7.0",
+                    "name": "Iris Shaders",
                     "type": "File"
                 },
                 {
@@ -386,12 +386,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "2ae5136007e0641e71d00c9ea3943f53",
-                        "size": 98796,
-                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/shfvdKKK/dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar",
-                        "path": "mods/dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar"
+                        "MD5": "6389125cb5c605300985078ce51a4b3c",
+                        "size": 99715,
+                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/48hFxWw7/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar",
+                        "path": "mods/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar"
                     },
-                    "id": "fabric.mod:dynamic-fps:3.4.2",
+                    "id": "fabric.mod:dynamic-fps:3.4.3",
                     "name": "Dynamic Fps",
                     "type": "File"
                 },
@@ -529,12 +529,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "424924e825ccc9410d047fea6c940130",
-                        "size": 458016,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1+mc1.20.4.jar",
-                        "path": "mods/modernfix-fabric-5.16.1+mc1.20.4.jar"
+                        "MD5": "c988c6a3371040def77a32f3741c9723",
+                        "size": 458056,
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/CV2Vtn5m/modernfix-fabric-5.17.0+mc1.20.4.jar",
+                        "path": "mods/modernfix-fabric-5.17.0+mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:modernfix:5.16.1",
+                    "id": "fabric.mod:modernfix:5.17.0",
                     "name": "Modernfix",
                     "type": "File"
                 },
@@ -672,12 +672,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "27daa8b90b7dbff86fc3a716b18a8624",
-                        "size": 139338195,
-                        "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/xlcaznxa/physics-mod-3.0.13-mc-1.20.4-fabric.jar",
-                        "path": "mods/physics-mod-3.0.13-mc-1.20.4-fabric.jar"
+                        "MD5": "326066947b980f5738fdd88a795ed719",
+                        "size": 139338249,
+                        "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/2x0qld0N/physics-mod-3.0.14-mc-1.20.4-fabric.jar",
+                        "path": "mods/physics-mod-3.0.14-mc-1.20.4-fabric.jar"
                     },
-                    "id": "fabric.mod:physics-mod:3.0.13",
+                    "id": "fabric.mod:physics-mod:3.0.14",
                     "name": "Physics Mod",
                     "type": "File"
                 },
@@ -694,12 +694,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "ae2dfdf04d9b3e721362940381222ba9",
-                        "size": 4708541,
-                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/NjJnkiwb/EnhancedVisuals_FABRIC_v1.6.9_mc1.20.4.jar",
-                        "path": "mods/EnhancedVisuals_FABRIC_v1.6.9_mc1.20.4.jar"
+                        "MD5": "e07e4c1d8846087078dbb631ff759396",
+                        "size": 4723329,
+                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/TYeire2A/EnhancedVisuals_FABRIC_v1.7.0_mc1.20.4.jar",
+                        "path": "mods/EnhancedVisuals_FABRIC_v1.7.0_mc1.20.4.jar"
                     },
-                    "id": "fabric.mod:enhancedvisuals:1.6.9",
+                    "id": "fabric.mod:enhancedvisuals:1.7.0",
                     "name": "EnhancedVisuals",
                     "type": "File"
                 },
