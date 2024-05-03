@@ -17,6 +17,10 @@
             "minecraftVersion": "1.20.6",
             "mainServer": true,
             "autoconnect": true,
+            "javaOptions": {
+                "supported": ">=21",
+                "suggestedMajor": 21
+            },
             "modules": [
                 {
                     "artifact": {
