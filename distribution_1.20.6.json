@@ -8,7 +8,7 @@
     },
     "servers": [
         {
-            "id": "MTW-Fabric",
+            "id": "MTW",
             "name": "MTW Server",
             "description": "MTW Server",
             "icon": "",
