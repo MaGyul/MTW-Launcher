@@ -221,18 +221,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "61e8bd2c97237d33f4d4e306b015eb33",
-                        "size": 121765,
-                        "url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9+1.20.2.jar",
-                        "path": "mods/borderless-mining-1.1.9+1.20.2.jar"
-                    },
-                    "id": "fabric.mod:borderless-mining:1.1.9",
-                    "name": "Borderless Mining",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "db825ac6ef14a4d3e0237785fd73615f",
                         "size": 746627,
                         "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/NgnZx44E/modmenu-10.0.0-beta.1.jar",
@@ -662,6 +650,54 @@
                     "name": "Suggestion Tweaker",
                     "type": "File",
                     "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "ceb70e025e88c803b22e719e4952128d",
+                        "size": 852223,
+                        "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ELPibYhN/bobby-5.2.0+mc1.20.6.jar",
+                        "path": "mods/bobby-5.2.0+mc1.20.6.jar"
+                    },
+                    "id": "fabric.mod:bobby:5.2.0",
+                    "name": "Bobby",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7",
+                        "size": 104805,
+                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30+mc1.20.4.jar",
+                        "path": "mods/indium-1.0.30+mc1.20.4.jar"
+                    },
+                    "id": "fabric.mod:indium:1.0.30",
+                    "name": "Indium",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "8d2707e96eca70d209ffc319e9c7edad",
+                        "size": 142126,
+                        "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/foWdRKRT/puzzle-1.6.2+1.20.6.jar",
+                        "path": "mods/puzzle-1.6.2+1.20.6.jar"
+                    },
+                    "id": "fabric.mod:puzzle:1.6.2",
+                    "name": "Puzzle",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "c2a07ecd90489c2542d7e9e73906ff27",
+                        "size": 66027,
+                        "url": "https://cdn.modrinth.com/data/ZQpQzwWE/versions/oIlYelrb/windowedborderless-v0.4.1_-_1.20.+.jar",
+                        "path": "mods/windowedborderless-v0.4.1_-_1.20.+.jar"
+                    },
+                    "id": "fabric.mod:windowedborderless:0.4.1",
+                    "name": "Windows Borderless",
+                    "type": "File",
+                    "server": false
                 },
                 {
                     "artifact": {
