@@ -677,18 +677,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7",
-                        "size": 104805,
-                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30+mc1.20.4.jar",
-                        "path": "mods/indium-1.0.30+mc1.20.4.jar"
-                    },
-                    "id": "fabric.mod:indium:1.0.30",
-                    "name": "Indium",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "8d2707e96eca70d209ffc319e9c7edad",
                         "size": 142126,
                         "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/foWdRKRT/puzzle-1.6.2+1.20.6.jar",
