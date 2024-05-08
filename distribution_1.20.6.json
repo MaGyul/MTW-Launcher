@@ -593,6 +593,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "8c5cee83e8e0a74356345daece4d8a9b",
+                        "size": 4723722,
+                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/oa15LIzz/EnhancedVisuals_FABRIC_v1.7.1_mc1.20.6.jar",
+                        "path": "mods/EnhancedVisuals_FABRIC_v1.7.1_mc1.20.6.jar"
+                    },
+                    "id": "fabric.mod:enhancedvisuals:1.7.1",
+                    "name": "EnhancedVisuals",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "f06feeb7d9ef77435bb929468b2c3ab7",
                         "size": 140209768,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.1-resource/mtwmod-resource-1.0.1.jar",
@@ -689,13 +701,13 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "c2a07ecd90489c2542d7e9e73906ff27",
-                        "size": 66027,
-                        "url": "https://cdn.modrinth.com/data/ZQpQzwWE/versions/oIlYelrb/windowedborderless-v0.4.1_-_1.20.+.jar",
-                        "path": "mods/windowedborderless-v0.4.1_-_1.20.+.jar"
+                        "MD5": "61e8bd2c97237d33f4d4e306b015eb33",
+                        "size": 121765,
+                        "url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9+1.20.2.jar",
+                        "path": "mods/borderless-mining-1.1.9+1.20.2.jar"
                     },
-                    "id": "fabric.mod:windowedborderless:0.4.1",
-                    "name": "Windows Borderless",
+                    "id": "fabric.mod:borderless-mining:1.1.9",
+                    "name": "Borderless Mining",
                     "type": "File",
                     "server": false
                 },
