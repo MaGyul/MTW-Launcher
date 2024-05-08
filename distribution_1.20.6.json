@@ -538,7 +538,7 @@
                         "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/JMpH3gnj/Axiom-2.8.1-for-MC1.20.6.jar",
                         "path": "mods/Axiom-2.8.1-for-MC1.20.6.jar"
                     },
-                    "id": "fabric.mod:Axiom:2.8.1",
+                    "id": "fabric.mod:axiom:2.8.1",
                     "name": "Axiom",
                     "type": "File",
                     "server": true
