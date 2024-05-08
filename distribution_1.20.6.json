@@ -281,9 +281,9 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "a2dbb6efb248fb2aba2e829e3965c915",
-                        "size": 226955,
-                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Z4sPylCR/ImmediatelyFast-Fabric-1.2.13+1.20.6.jar",
+                        "MD5": "3051e32234f02dc9173b900b2e200d89",
+                        "size": 233489,
+                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14+1.20.6.jar",
                         "path": "mods/ImmediatelyFast-Fabric-1.2.13+1.20.6.jar"
                     },
                     "id": "fabric.mod:immediatelyfast:1.2.13",
@@ -317,9 +317,9 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "6e508185c2e35344cd8aeb251bd95c80",
-                        "size": 949640,
-                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/LIBdkZvZ/Zoomify-2.13.3.jar",
+                        "MD5": "7b56eaafc1e99d9ab4a8221a1deb6bbc",
+                        "size": 1064832,
+                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/FiLFLGIB/Zoomify-2.13.4+1.20.6.jar",
                         "path": "mods/Zoomify-2.13.3.jar"
                     },
                     "id": "fabric.mod:zoomify:2.13.3",
@@ -473,9 +473,9 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "558adf2814f4ebc91527d8f6069bb10f",
-                        "size": 442676,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/mX9P5IWG/modernfix-fabric-5.17.2+mc1.20.6.jar",
+                        "MD5": "36b974fe238efd496ebd3860c7cbdeb8",
+                        "size": 442675,
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/xlt4bcjj/modernfix-fabric-5.17.3+mc1.20.6.jar",
                         "path": "mods/modernfix-fabric-5.17.2+mc1.20.6.jar"
                     },
                     "id": "fabric.mod:modernfix:5.17.2",
