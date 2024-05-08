@@ -24,21 +24,21 @@
             "modules": [
                 {
                     "artifact": {
-                        "MD5": "582b8c44a8afc761c63df88b64e6bb0f",
-                        "size": 1327662,
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.10/fabric-loader-0.15.10.jar"
+                        "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
+                        "size": 1327691,
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.15.10",
+                    "id": "net.fabricmc:fabric-loader:0.15.11",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "0a793579a5767c6df12e625528f2ab58",
+                                "MD5": "c80b36938bbafaab5e22cca4d0cd1240",
                                 "size": 2849,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.10-1.20.6/fabric-loader-0.15.10-1.20.6.json"
+                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.11-1.20.6/fabric-loader-0.15.11-1.20.6.json"
                             },
-                            "id": "0.15.10-1.20.6",
+                            "id": "0.15.11-1.20.6",
                             "name": "Minecraft Fabric (version.json)",
                             "type": "VersionManifest"
                         },
