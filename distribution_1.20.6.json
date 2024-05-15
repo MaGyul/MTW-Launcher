@@ -653,6 +653,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "591abdb5d03451b2a13f52d1c05fc457",
+                        "size": 23557,
+                        "url": "https://cdn.modrinth.com/data/MBLj38R0/versions/mmkX2a1K/suggestion-tweaker-1.20.6-1.5.2-fabric.jar",
+                        "path": "mods/suggestion-tweaker-1.20.6-1.5.2-fabric.jar"
+                    },
+                    "id": "fabric.mod:suggestion-tweaker:1.5.2",
+                    "name": "Suggestion Tweaker",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "ceb70e025e88c803b22e719e4952128d",
                         "size": 852223,
                         "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ELPibYhN/bobby-5.2.0+mc1.20.6.jar",
