@@ -161,12 +161,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "6918034bf978c394c62b6782d47e9f5c",
+                        "MD5": "7dc8a21d04734046dcec3d7c46f65015",
                         "size": 6548416,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iR3YuKHo/voicechat-fabric-1.20.6-2.5.13.jar",
-                        "path": "mods/voicechat-fabric-1.20.6-2.5.13.jar"
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3DlfbtC3/voicechat-fabric-1.20.6-2.5.14.jar",
+                        "path": "mods/voicechat-fabric-1.20.6-2.5.14.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.13",
+                    "id": "fabric.mod:voicechat:2.5.14",
                     "name": "Simple Voice Chat",
                     "type": "File",
                     "server": true
@@ -593,12 +593,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "8c5cee83e8e0a74356345daece4d8a9b",
-                        "size": 4723722,
-                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/oa15LIzz/EnhancedVisuals_FABRIC_v1.7.1_mc1.20.6.jar",
-                        "path": "mods/EnhancedVisuals_FABRIC_v1.7.1_mc1.20.6.jar"
+                        "MD5": "6b5475c9d17008c8506819dd9c0e32e0",
+                        "size": 4723687,
+                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/6ZENgZOT/EnhancedVisuals_FABRIC_v1.7.2_mc1.20.6.jar",
+                        "path": "mods/EnhancedVisuals_FABRIC_v1.7.2_mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:enhancedvisuals:1.7.1",
+                    "id": "fabric.mod:enhancedvisuals:1.7.2",
                     "name": "EnhancedVisuals",
                     "type": "File",
                     "server": true
@@ -617,12 +617,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "de108626b168eb42ead4add829b6d42f",
-                        "size": 157126,
-                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/P5urckC8/fallingleaves-1.15.7+1.20.5.jar",
-                        "path": "mods/fallingleaves-1.15.7+1.20.1.jar"
+                        "MD5": "18690b522329c3be97f4ea5b1e371300",
+                        "size": 159666,
+                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/tdF6zGZX/fallingleaves-1.15.8+1.20.5.jar",
+                        "path": "mods/fallingleaves-1.15.8+1.20.5.jar"
                     },
-                    "id": "fabric.mod:fallingleaves:1.15.7",
+                    "id": "fabric.mod:fallingleaves:1.15.8",
                     "name": "Falling Leaves",
                     "type": "File",
                     "server": false
@@ -648,18 +648,6 @@
                     },
                     "id": "fabric.mod:mod-loading-screen:1.0.4",
                     "name": "Mod Loading Screen",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "d9351dfa3e8130d4d80146381b2ce345",
-                        "size": 24939,
-                        "url": "https://cdn.modrinth.com/data/MBLj38R0/versions/RJeuHy76/suggestion-tweaker-1.20-1.5.1-fabric.jar",
-                        "path": "mods/suggestion-tweaker-1.20-1.5.1-fabric.jar"
-                    },
-                    "id": "fabric.mod:suggestion-tweaker:1.5.1",
-                    "name": "Suggestion Tweaker",
                     "type": "File",
                     "server": true
                 },
@@ -708,6 +696,30 @@
                     },
                     "id": "fabric.mod:borderless-mining:1.1.9",
                     "name": "Borderless Mining",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "88e7bf12122e04e4fcfee125b50c21de",
+                        "size": 69515,
+                        "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/v4nL1BsT/language-reload-1.6.1+1.20.6.jar",
+                        "path": "mods/language-reload-1.6.1+1.20.6.jar"
+                    },
+                    "id": "fabric.mod:language-reload:1.6.1",
+                    "name": "Language Reload",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "36ad54c49157899a0cbc1585f3657429",
+                        "size": 1009234,
+                        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/hI13Vg85/continuity-3.0.0-beta.5+1.20.5.jar",
+                        "path": "mods/continuity-3.0.0-beta.5+1.20.5.jar"
+                    },
+                    "id": "fabric.mod:continuity:3.0.0-beta.5",
+                    "name": "Continuity",
                     "type": "File",
                     "server": false
                 },
