@@ -737,8 +737,20 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "787792f94ae4b46e9185d9d3ceed31a0",
-                        "size": 1496518,
+                        "MD5": "521b41bdbfb5faccd5a6f42c7dbca0a6",
+                        "size": 179751,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/kyrptconfig/kyrptconfig-1.6.0-1.20.6.jar",
+                        "path": "mods/kyrptconfig-1.6.0-1.20.6.jar"
+                    },
+                    "id": "fabric.mod:kyrptconfig:1.6.0",
+                    "name": "Kyrpt Config",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "05076e3d9e115b6c723d8d4d30969ce9",
+                        "size": 1513337,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.5/mtwmod-1.12.5.jar",
                         "path": "mods/mtwmod-1.12.5.jar"
                     },
