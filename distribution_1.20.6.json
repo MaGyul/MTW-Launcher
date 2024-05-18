@@ -34,8 +34,8 @@
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "c80b36938bbafaab5e22cca4d0cd1240",
-                                "size": 2849,
+                                "MD5": "f876d0438502f85c58029d85db88559b",
+                                "size": 3644,
                                 "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.11-1.20.6/fabric-loader-0.15.11-1.20.6.json"
                             },
                             "id": "0.15.11-1.20.6",
@@ -725,12 +725,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "572f0c87d77e6d1f251916404e6d6b89",
-                        "size": 136597,
-                        "url": "https://github.com/MaGyul/better-suggestions/releases/download/temporary/better-suggestions-1.20.6-1.2.5.jar",
-                        "path": "mods/better-suggestions-1.20.6-1.2.5.jar"
+                        "MD5": "e9857000498a6c1c9a162537123f7534",
+                        "size": 135549,
+                        "url": "https://cdn.modrinth.com/data/HfZKWsjM/versions/ljehhIE8/better-suggestions-1.20.6-1.2.6.jar",
+                        "path": "mods/better-suggestions-1.20.6-1.2.6.jar"
                     },
-                    "id": "fabric.mod:better-suggestions:1.2.5",
+                    "id": "fabric.mod:better-suggestions:1.2.6",
                     "name": "Better Suggestions",
                     "type": "File",
                     "server": true
