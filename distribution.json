@@ -30,8 +30,8 @@
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "54f94246b0ba2746881a85a365333462",
-                                "size": 2850,
+                                "MD5": "63dd8213c4c0c9d8d8120f06cc9b8330",
+                                "size": 3566,
                                 "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.10-1.20.4/fabric-loader-0.15.10-1.20.4.json"
                             },
                             "id": "0.15.10-1.20.4",
