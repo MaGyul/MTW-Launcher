@@ -137,6 +137,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "ef75da3fcc8223b0ee53753975147ad3",
+                        "size": 1164672,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
+                        "path": ".agent/mod-loading-screen.jar"
+                    },
+                    "id": "fabric.mod:mod-loading-screen:1.0.4",
+                    "name": "Mod Loading Screen (Agent)",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "a7d78c0329fd085d57e3a4d033387a1d",
                         "size": 2202137,
                         "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/kAQqRNrK/fabric-api-0.97.8+1.20.6.jar",
@@ -626,18 +638,6 @@
                     "name": "True Darkness",
                     "type": "File",
                     "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "ef75da3fcc8223b0ee53753975147ad3",
-                        "size": 1164672,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
-                        "path": "mods/mod-loading-screen-1.0.4.jar"
-                    },
-                    "id": "fabric.mod:mod-loading-screen:1.0.4",
-                    "name": "Mod Loading Screen",
-                    "type": "File",
-                    "server": true
                 },
                 {
                     "artifact": {
