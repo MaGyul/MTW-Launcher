@@ -122,6 +122,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "62cc9702689aca060549c83776c781f5",
+                        "size": 1164742,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
+                        "path": ".agent/mod-loading-screen.jar"
+                    },
+                    "id": "fabric.mod:mod-loading-screen:1.0.4",
+                    "name": "Mod Loading Screen (Agent)",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "a0a9cf41df77d55ca303428cac7a6e07",
                         "size": 931968,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-shaders/Make_The_World_ShadersBSL.zip",
@@ -782,17 +794,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "ef75da3fcc8223b0ee53753975147ad3",
-                        "size": 1164672,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
-                        "path": "mods/mod-loading-screen-1.0.4.jar"
-                    },
-                    "id": "fabric.mod:mod-loading-screen:1.0.4",
-                    "name": "Mod Loading Screen",
-                    "type": "File"
-                },
-                {
-                    "artifact": {
                         "MD5": "9fd382e88991eb9b208c665c6dd2a6c1",
                         "size": 185125,
                         "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/ayMQAgjq/NBTac-FABRIC-1.20.4-1.2.jar",
@@ -859,8 +860,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e62e445cd351c4e8dccdd6b42e748d21",
-                        "size": 1049615,
+                        "MD5": "5d358febe718cebc4254f41420f1c6df",
+                        "size": 1052173,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.4/mtwmod-1.12.4.jar",
                         "path": "mods/mtwmod-1.12.4.jar"
                     },
