@@ -13,7 +13,7 @@
             "description": "MTW Server",
             "icon": "",
             "version": "1.0.0",
-            "address": "mathwor.com:25565",
+            "address": "play.mathwor.com:25565",
             "minecraftVersion": "1.20.6",
             "mainServer": true,
             "autoconnect": true,
