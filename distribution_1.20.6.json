@@ -137,8 +137,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "71e8cec6a54ebf246618042b1fab66d3",
-                        "size": 1164780,
+                        "MD5": "62cc9702689aca060549c83776c781f5",
+                        "size": 1164742,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-mod-loading-screen/mod-loading-screen-1.0.4.jar",
                         "path": ".agent/mod-loading-screen.jar"
                     },
