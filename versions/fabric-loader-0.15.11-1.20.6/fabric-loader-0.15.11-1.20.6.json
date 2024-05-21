@@ -68,8 +68,7 @@
     ],
     "arguments": {
       "jvm": [
-        "-DFabricMcEmu= net.minecraft.client.main.Main ",
-        "-javaagent:.agent/mod-loading-screen.jar"
+        "-DFabricMcEmu= net.minecraft.client.main.Main "
       ],
       "game": []
     },
