@@ -749,18 +749,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7d82b8288eeb9f32bc2ffa2d83953a5c",
-                        "size": 88098,
-                        "url": "https://cdn.modrinth.com/data/2e3UnTf0/versions/1NauhvvX/multiscoreboard-1.2.0+1.20.5.jar",
-                        "path": "mods/multiscoreboard-1.2.0+1.20.5.jar"
-                    },
-                    "id": "fabric.mod:multiscoreboard:1.2.0",
-                    "name": "MultiScoreboard",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
                         "MD5": "9ae19cd4465662e25347590a9bed7fea",
                         "size": 1542024,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.6/mtwmod-1.12.6.jar",
