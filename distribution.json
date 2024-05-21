@@ -34,8 +34,8 @@
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "f876d0438502f85c58029d85db88559b",
-                                "size": 3644,
+                                "MD5": "626537a104d3e5b97499d8035d613889",
+                                "size": 3591,
                                 "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.15.11-1.20.6/fabric-loader-0.15.11-1.20.6.json"
                             },
                             "id": "0.15.11-1.20.6",
@@ -173,12 +173,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7dc8a21d04734046dcec3d7c46f65015",
-                        "size": 6548416,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3DlfbtC3/voicechat-fabric-1.20.6-2.5.14.jar",
-                        "path": "mods/voicechat-fabric-1.20.6-2.5.14.jar"
+                        "MD5": "75d3177c7305187afd53aadf728ac0d9",
+                        "size": 6548434,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar",
+                        "path": "mods/voicechat-fabric-1.20.6-2.5.15.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.14",
+                    "id": "fabric.mod:voicechat:2.5.15",
                     "name": "Simple Voice Chat",
                     "type": "File",
                     "server": true
@@ -509,12 +509,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "f6c27a10dbca7a75d1e90fe0874c6576",
-                        "size": 6252225,
-                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/2BXiy3fP/worldedit-mod-7.3.1.jar",
-                        "path": "mods/worldedit-mod-7.3.1.jar"
+                        "MD5": "f31237aac39fcd293a8b4f65bae22771",
+                        "size": 6223076,
+                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/4tGY0ePl/worldedit-mod-7.3.2.jar",
+                        "path": "mods/worldedit-mod-7.3.2.jar"
                     },
-                    "id": "fabric.mod:worldedit:7.3.1",
+                    "id": "fabric.mod:worldedit:7.3.2",
                     "name": "WorldEdit",
                     "type": "File",
                     "server": true
@@ -749,12 +749,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "52932bf93c12db84c901d86f3da7e528",
-                        "size": 1516238,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.5/mtwmod-1.12.5.jar",
-                        "path": "mods/mtwmod-1.12.5.jar"
+                        "MD5": "7d82b8288eeb9f32bc2ffa2d83953a5c",
+                        "size": 88098,
+                        "url": "https://cdn.modrinth.com/data/2e3UnTf0/versions/1NauhvvX/multiscoreboard-1.2.0+1.20.5.jar",
+                        "path": "mods/multiscoreboard-1.2.0+1.20.5.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.12.5",
+                    "id": "fabric.mod:multiscoreboard:1.2.0",
+                    "name": "MultiScoreboard",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "9ae19cd4465662e25347590a9bed7fea",
+                        "size": 1542024,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.6/mtwmod-1.12.6.jar",
+                        "path": "mods/mtwmod-1.12.6.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.12.6",
                     "name": "MTW Mod",
                     "type": "File",
                     "server": true
