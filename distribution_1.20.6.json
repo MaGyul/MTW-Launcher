@@ -749,6 +749,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "64b09e1fa02cf36e45160fbaaae84336",
+                        "size": 7187775,
+                        "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/Ar2ZAW7e/journeymap-1.20.6-5.9.32-fabric.jar",
+                        "path": "mods/journeymap-1.20.6-5.9.32-fabric.jar"
+                    },
+                    "id": "fabric.mod:journeymap:5.9.32",
+                    "name": "JourneyMap",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "9ae19cd4465662e25347590a9bed7fea",
                         "size": 1542024,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.12.6/mtwmod-1.12.6.jar",
