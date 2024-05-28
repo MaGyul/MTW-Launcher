@@ -557,15 +557,15 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "84b97a33bd2583342c80d006ef425e64",
-                        "size": 139891180,
-                        "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/P0ZHkgEm/physics-mod-3.0.14-mc-1.20.6-fabric.jar",
-                        "path": "mods/physics-mod-3.0.14-mc-1.20.6-fabric.jar"
+                        "MD5": "7aca78608bc8b07296a9d5432a9df45a",
+                        "size": 139948669,
+                        "url": "https://www.patreon.com/file?h=102372581&i=19012127",
+                        "path": "mods/physics-mod-1.20.6-fabric.jar"
                     },
-                    "id": "fabric.mod:physics-mod:3.0.14",
+                    "id": "fabric.mod:physics-mod:1.6.9",
                     "name": "Physics Mod",
                     "type": "File",
-                    "server": false
+                    "server": true
                 },
                 {
                     "artifact": {
