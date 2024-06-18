@@ -281,12 +281,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "1d0af7ea70c54e0dd4105045b86423ae",
-                        "size": 374163,
-                        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/TJDWVdsb/sodium-extra-0.5.5+mc1.20.6-build.118.jar",
-                        "path": "mods/sodium-extra-0.5.5+mc1.20.6-build.118.jar"
+                        "MD5": "3b89d1f8aa90d15a5006cdfdf9f4f61b",
+                        "size": 375407,
+                        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/6ethXWmk/sodium-extra-0.5.6+mc1.20.6.jar",
+                        "path": "mods/sodium-extra-0.5.6+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:sodium-extra:0.5.5",
+                    "id": "fabric.mod:sodium-extra:0.5.6",
                     "name": "Sodium Extra",
                     "type": "File",
                     "server": false
