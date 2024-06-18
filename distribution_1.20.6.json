@@ -161,24 +161,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "329b38b976ed10133132a584b91ef861",
-                        "size": 469485,
-                        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/dBnK6e5u/skinlayers3d-fabric-1.6.5-mc1.20.6.jar",
-                        "path": "mods/skinlayers3d-fabric-1.6.5-mc1.20.6.jar"
+                        "MD5": "209b8f96670a6b86e5d74ce9364d3acc",
+                        "size": 470419,
+                        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/WLODYnWa/skinlayers3d-fabric-1.6.6-mc1.20.6.jar",
+                        "path": "mods/skinlayers3d-fabric-1.6.6-mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:skinlayers3d:1.6.5",
+                    "id": "fabric.mod:skinlayers3d:1.6.6",
                     "name": "3D Skin Layers",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "75d3177c7305187afd53aadf728ac0d9",
-                        "size": 6548434,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar",
-                        "path": "mods/voicechat-fabric-1.20.6-2.5.15.jar"
+                        "MD5": "2cd9c92ded3984bea0c27c44f3cf541b",
+                        "size": 6551985,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Nyr1632r/voicechat-fabric-1.20.6-2.5.17.jar",
+                        "path": "mods/voicechat-fabric-1.20.6-2.5.17.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.15",
+                    "id": "fabric.mod:voicechat:2.5.17",
                     "name": "Simple Voice Chat",
                     "type": "File",
                     "server": true
@@ -197,12 +197,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "71f1650662a552f4e26d2fa79408d6b1",
-                        "size": 964688,
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/IZskON6d/sodium-fabric-0.5.8+mc1.20.6.jar",
-                        "path": "mods/sodium-fabric-0.5.8+mc1.20.6.jar"
+                        "MD5": "ef81276b7d8ed25f031dffa3cb572892",
+                        "size": 988047,
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/qhg37WBD/sodium-fabric-0.5.9+mc1.20.6.jar",
+                        "path": "mods/sodium-fabric-0.5.9+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:sodium:0.5.8",
+                    "id": "fabric.mod:sodium:0.5.9",
                     "name": "Sodium",
                     "type": "File",
                     "server": false
@@ -233,12 +233,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "db825ac6ef14a4d3e0237785fd73615f",
-                        "size": 746627,
-                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/NgnZx44E/modmenu-10.0.0-beta.1.jar",
-                        "path": "mods/modmenu-10.0.0-beta.1.jar"
+                        "MD5": "2571471e3bb5f1c2d63e687d99a63b83",
+                        "size": 966865,
+                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/HLa8flfl/modmenu-10.0.0.jar",
+                        "path": "mods/modmenu-10.0.0.jar"
                     },
-                    "id": "fabric.mod:modmenu:10.0.0-beta.1",
+                    "id": "fabric.mod:modmenu:10.0.0",
                     "name": "Mod Menu",
                     "type": "File",
                     "server": false
@@ -293,24 +293,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "c33ff9bff860b6d75d161c81fa7377b8",
-                        "size": 250941,
-                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/5PNUSQdg/ImmediatelyFast-Fabric-1.2.17+1.20.6.jar",
-                        "path": "mods/ImmediatelyFast-Fabric-1.2.17+1.20.6.jar"
+                        "MD5": "25f24541d035c7a52d25501332364293",
+                        "size": 248628,
+                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/fZXxgmhr/ImmediatelyFast-Fabric-1.2.18+1.20.6.jar",
+                        "path": "mods/ImmediatelyFast-Fabric-1.2.18+1.20.6.jar"
                     },
-                    "id": "fabric.mod:immediatelyfast:1.2.17",
+                    "id": "fabric.mod:immediatelyfast:1.2.18",
                     "name": "ImmediatelyFast",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "3c550fff0aae1331134287230355a0dc",
-                        "size": 2698708,
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0+mc1.20.6.jar",
-                        "path": "mods/iris-1.7.0+mc1.20.6.jar"
+                        "MD5": "0f7a39e0fe3de8e4ba71dec935221560",
+                        "size": 2694628,
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/keLlmlCc/iris-1.7.1+mc1.20.6.jar",
+                        "path": "mods/iris-1.7.1+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:iris:1.7.0",
+                    "id": "fabric.mod:iris:1.7.1",
                     "name": "Iris Shaders",
                     "type": "File",
                     "server": false
@@ -329,12 +329,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "75de21a51d3e41d0666a46acdfa428b2",
-                        "size": 1061972,
-                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/8BIz17tA/Zoomify-2.13.5+1.20.6.jar",
-                        "path": "mods/Zoomify-2.13.5+1.20.6.jar"
+                        "MD5": "87760ada719fdf0a427fffc5ddb6ccc5",
+                        "size": 809454,
+                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/twJQAslW/Zoomify-2.14.0+1.20.6.jar",
+                        "path": "mods/Zoomify-2.14.0+1.20.6.jar"
                     },
-                    "id": "fabric.mod:zoomify:2.13.5",
+                    "id": "fabric.mod:zoomify:2.14.0",
                     "name": "Zoomify",
                     "type": "File",
                     "server": false
@@ -425,24 +425,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "396668582f2219fa2f08419f5d4f1165",
-                        "size": 684119,
-                        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/bAbb09VF/lithium-fabric-mc1.20.6-0.12.3.jar",
-                        "path": "mods/lithium-fabric-mc1.20.6-0.12.3.jar"
+                        "MD5": "3967997cb7d3604448710a8fea2ec846",
+                        "size": 684287,
+                        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fsK2ycFx/lithium-fabric-mc1.20.6-0.12.4.jar",
+                        "path": "mods/lithium-fabric-mc1.20.6-0.12.4.jar"
                     },
-                    "id": "fabric.mod:lithium:0.12.3",
+                    "id": "fabric.mod:lithium:0.12.4",
                     "name": "Lithium",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "d57ba4c6253e84af7ce10719ee1e7a8a",
-                        "size": 69810,
-                        "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6+1.20.jar",
-                        "path": "mods/animatica-0.6+1.20.jar"
+                        "MD5": "0460ff709bd01050116d42aacf94b41a",
+                        "size": 71407,
+                        "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/BFQI2u9u/animatica-0.6.1+1.20.6.jar",
+                        "path": "mods/animatica-0.6.1+1.20.6.jar"
                     },
-                    "id": "fabric.mod:animatica:0.6",
+                    "id": "fabric.mod:animatica:0.6.1",
                     "name": "Animatica",
                     "type": "File",
                     "server": false
@@ -461,36 +461,36 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "36b974fe238efd496ebd3860c7cbdeb8",
-                        "size": 442675,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/xlt4bcjj/modernfix-fabric-5.17.3+mc1.20.6.jar",
-                        "path": "mods/modernfix-fabric-5.17.2+mc1.20.6.jar"
+                        "MD5": "7c1b71059f8f46ecd28b3786519c3c75",
+                        "size": 456037,
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/dUdr6D7I/modernfix-fabric-5.18.0+mc1.20.6.jar",
+                        "path": "mods/modernfix-fabric-5.18.0+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:modernfix:5.17.2",
+                    "id": "fabric.mod:modernfix:5.18.0",
                     "name": "Modernfix",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "55fbdb4f5f9a50c5bc1af8503abe5c06",
-                        "size": 63732,
-                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/92bPVm5F/entityculling-fabric-1.6.5-mc1.20.6.jar",
-                        "path": "mods/entityculling-fabric-1.6.5-mc1.20.6.jar"
+                        "MD5": "715dcb7d192a50f83916a859d31894e7",
+                        "size": 65381,
+                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/6U5rh26a/entityculling-fabric-1.6.6-mc1.20.6.jar",
+                        "path": "mods/entityculling-fabric-1.6.6-mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:entityculling:1.6.5",
+                    "id": "fabric.mod:entityculling:1.6.6",
                     "name": "Entity Culling",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "db8018e19456ea25cc0ef571fa22d146",
-                        "size": 535477,
-                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/LLAlgYfT/entity_texture_features_fabric_1.20.5-6.0.1.jar",
-                        "path": "mods/entity_texture_features_fabric_1.20.5-6.0.1.jar"
+                        "MD5": "7bf2701143186de87dc5dfa4ecab5a5e",
+                        "size": 601359,
+                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/aUpC497W/entity_texture_features_fabric_1.20.6-6.1.1.jar",
+                        "path": "mods/entity_texture_features_fabric_1.20.6-6.1.1.jar"
                     },
-                    "id": "fabric.mod:entity_texture_features:6.0.1",
+                    "id": "fabric.mod:entity_texture_features:6.1.1",
                     "name": "Entity Texture Features",
                     "type": "File",
                     "server": false
@@ -509,12 +509,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "f31237aac39fcd293a8b4f65bae22771",
-                        "size": 6223076,
-                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/4tGY0ePl/worldedit-mod-7.3.2.jar",
-                        "path": "mods/worldedit-mod-7.3.2.jar"
+                        "MD5": "20494dc3988383b387a75bd5a828719b",
+                        "size": 6223045,
+                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/RfIqhcpm/worldedit-mod-7.3.3.jar",
+                        "path": "mods/worldedit-mod-7.3.3.jar"
                     },
-                    "id": "fabric.mod:worldedit:7.3.2",
+                    "id": "fabric.mod:worldedit:7.3.3",
                     "name": "WorldEdit",
                     "type": "File",
                     "server": true
@@ -593,12 +593,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3135b2983de1d591e9452722ef0fed83",
-                        "size": 140876388,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.2-resource/mtwmod-resource-1.0.2.jar",
-                        "path": "mods/mtwmod-resource-1.0.2.jar"
+                        "MD5": "6f1cb2a277849cf6e664d3071345b12a",
+                        "size": 140878736,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.3-resource/mtwmod-resource-1.0.3.jar",
+                        "path": "mods/mtwmod-resource-1.0.3.jar"
                     },
-                    "id": "fabric.mod:mtwmod-resource:1.0.2",
+                    "id": "fabric.mod:mtwmod-resource:1.0.3",
                     "name": "MTW Mod (resource)",
                     "type": "File",
                     "server": true
@@ -629,24 +629,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "ceb70e025e88c803b22e719e4952128d",
-                        "size": 852223,
-                        "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ELPibYhN/bobby-5.2.0+mc1.20.6.jar",
-                        "path": "mods/bobby-5.2.0+mc1.20.6.jar"
+                        "MD5": "7a73d8363a4f07d3ad9f728c9d305e91",
+                        "size": 852358,
+                        "url": "https://cdn.modrinth.com/data/M08ruV16/versions/70sKyIMv/bobby-5.2.1+mc1.20.6.jar",
+                        "path": "mods/bobby-5.2.1+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:bobby:5.2.0",
+                    "id": "fabric.mod:bobby:5.2.1",
                     "name": "Bobby",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7",
-                        "size": 104805,
-                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30+mc1.20.4.jar",
-                        "path": "mods/indium-1.0.30+mc1.20.4.jar"
+                        "MD5": "100082a8527efcac4f0f58ab75c6977c",
+                        "size": 105361,
+                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/XPsoVC5n/indium-1.0.32+mc1.20.1.jar",
+                        "path": "mods/indium-1.0.32+mc1.20.1.jar"
                     },
-                    "id": "fabric.mod:indium:1.0.30",
+                    "id": "fabric.mod:indium:1.0.32",
                     "name": "Indium",
                     "type": "File",
                     "server": false
@@ -749,36 +749,60 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e4cf9d5dab94c4faed0c487a404e3773",
-                        "size": 7207090,
-                        "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bnbmYabb/journeymap-1.20.6-5.9.33-fabric.jar",
-                        "path": "mods/journeymap-1.20.6-5.9.33-fabric.jar"
+                        "MD5": "87266d378b026c399f021c22e81c19f7",
+                        "size": 7207833,
+                        "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/Z3rSg4NJ/journeymap-1.20.6-5.9.35-fabric.jar",
+                        "path": "mods/journeymap-1.20.6-5.9.35-fabric.jar"
                     },
-                    "id": "fabric.mod:journeymap:5.9.33",
+                    "id": "fabric.mod:journeymap:5.9.35",
                     "name": "JourneyMap",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "68e1321a05a7e26a80cb6a8d5fe73657",
-                        "size": 537524,
-                        "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/smQAtVRG/Pehkui-3.8.2+1.14.4-1.20.6.jar",
-                        "path": "mods/pehkui-3.8.2+1.14.4-1.20.6.jar"
+                        "MD5": "c28dbac324e13836c2c15e47bfcd9e45",
+                        "size": 555041,
+                        "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3+1.14.4-1.21.jar",
+                        "path": "mods/pehkui-3.8.3+1.14.4-1.21.jar"
                     },
-                    "id": "fabric.mod:pehkui:3.8.2",
+                    "id": "fabric.mod:pehkui:3.8.3",
                     "name": "Pehkui",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "13824dfa2de058eaf3ec937663e5ed0f",
-                        "size": 5661546,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.13.0/mtwmod-1.13.0.jar",
-                        "path": "mods/mtwmod-1.13.0.jar"
+                        "MD5": "4013405d23e1eb345735fc8202ff5b0b",
+                        "size": 201922,
+                        "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/BKpMtYZB/enhancedblockentities-0.10.1+1.20.6.jar",
+                        "path": "mods/enhancedblockentities-0.10.1+1.20.6.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.13.0",
+                    "id": "fabric.mod:enhancedblockentities:0.10.1",
+                    "name": "Enhanced Block Entities",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "e029d16b85f8f0d7d18fe94e79439ed7",
+                        "size": 252002,
+                        "url": "https://cdn.modrinth.com/data/IDOSfa6c/versions/lRwsRPxd/command-block-ide-0.4.7.jar",
+                        "path": "mods/command-block-ide-0.4.7.jar"
+                    },
+                    "id": "fabric.mod:command-block-ide:0.4.7",
+                    "name": "Command Block IDE",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "6677e41f200f30c8a200350652d9b5af",
+                        "size": 5741163,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.13.1/mtwmod-1.13.1.jar",
+                        "path": "mods/mtwmod-1.13.1.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.13.1",
                     "name": "MTW Mod",
                     "type": "File",
                     "server": true
