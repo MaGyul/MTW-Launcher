@@ -209,12 +209,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "aa6ae207640288876f5b8551f5e33459",
-                        "size": 6734779,
-                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
-                        "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
+                        "MD5": "ac91311ce91421ca52a96d2a4e4f078c",
+                        "size": 7015315,
+                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+                        "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar"
                     },
-                    "id": "fabric.mod:fabric-language-kotlin:1.10.19",
+                    "id": "fabric.mod:fabric-language-kotlin:1.11.0",
                     "name": "Fabric Language Kotlin",
                     "type": "File",
                     "server": true
@@ -353,12 +353,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "c1552647b0dbc311a244e2f7100e6d10",
-                        "size": 1074423,
-                        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/rsM9VY0D/YetAnotherConfigLib-3.4.2+1.20.5-fabric.jar",
-                        "path": "mods/YetAnotherConfigLib-3.4.2+1.20.5-fabric.jar"
+                        "MD5": "cc18f03262cf5b60721f5e9d816c69e9",
+                        "size": 1150514,
+                        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/xiSmTJ03/YetAnotherConfigLib-3.5.0+1.20.6-fabric.jar",
+                        "path": "mods/YetAnotherConfigLib-3.5.0+1.20.6-fabric.jar"
                     },
-                    "id": "fabric.mod:yetanotherconfiglib:3.4.2",
+                    "id": "fabric.mod:yetanotherconfiglib:3.5.0",
                     "name": "YetAnotherConfigLib",
                     "type": "File",
                     "server": false
