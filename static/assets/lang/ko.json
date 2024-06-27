@@ -1,0 +1,347 @@
+{
+    "id": "ko",
+    "welcome": {
+        "header": "MTW 런처에 오신 것을 환영합니다",
+        "description": "조선시대의 아름다움과 풍요로움을 그대로 재현하였으며, 모든 장르의 플레이어가 모여 각자의 방식대로 생활할 수 있는 공간입니다. 현실성을 중시하여, 당시의 건축 양식부터 생활 문화까지 세세한 부분까지 신경 써서 개발되었습니다.<br><br>경험해보지 못한 독특하고 매력적인 여행을 시작해보세요. 당신을 이끌 새로운 이야기가 이미 여기에 펼쳐져 있습니다.",
+        "continue": "계속"
+    },
+    "waiting": {
+        "text": "Microsoft를 기다리는 중..."
+    },
+    "login": {
+        "cancelText": "취소",
+        "subHeader": "마인크래프트 로그인",
+        "email": {
+            "error": "* 유효하지 않은 값",
+            "placeholder": "이메일 또는 사용자 이름"
+        },
+        "password": {
+            "error": "* 필수",
+            "placeholder": "비밀번호"
+        },
+        "forgotPassword": {
+            "link": "https://minecraft.net/password/forgot/",
+            "text": "비밀번호를 잊으셨나요?"
+        },
+        "rememberMeText": "기억하기",
+        "buttonText": "로그인",
+        "needAccount": {
+            "link": "https://minecraft.net/store/minecraft-java-edition/",
+            "text": "계정이 필요하신가요?"
+        },
+        "passwordDisclaimer": {
+            "1": "비밀번호는 모장에게 직접 전송되며 저장되지 않습니다.",
+            "2": "{appName}은 Mojang AB와 제휴하지 않습니다."
+        }
+    },
+    "loginOptions": {
+        "title": "로그인 옵션",
+        "withMicrosoft": "Microsoft 로그인",
+        "withMojang": "Mojang 로그인",
+        "cancel": "취소"
+    },
+    "landing": {
+        "sns": {
+            "youtube": "유튜브",
+            "discord": "디스코드",
+            "kakaotalk": "카카오톡 오픈 채팅",
+            "cafe": "네이버 카페"
+        },
+        "buttons": {
+            "settings": "설정"
+        },
+        "text": {
+            "username": "사용자 이름",
+            "change": "변경",
+            "server": "서버",
+            "online": "온라인 ({online}/{max})",
+            "playercount": "{count} 플레이어",
+            "offline": "오프라인",
+            "play": "플레이",
+            "pleasewait": "잠시만 기다려주세요...",
+            "noAccountSelected": "선택된 계정 없음"
+        },
+        "launch": {
+            "failure": {
+                "title": "실행 중 오류",
+                "text": "{error}"
+            },
+            "loading": "로드 중...",
+            "okay": "확인"
+        },
+        "systemScan": {
+            "checking": "시스템 정보 확인 중...",
+            "noCompatibleJava":  "호환되는 자바가 없습니다.",
+            "install": {
+                "javaMessage": "Minecraft를 시작하려면 64비트의 Java {major} 설치가 필요합니다. 사본을 설치 하시겠습니까?",
+                "java": "Java 설치",
+                "javaManually": "수동으로 설치"
+            },
+            "java": {
+                "download": {
+                    "prepare": "Java 다운로드 준비 중...",
+                    "failureTitle": "Java 다운로드 중 오류",
+                    "failureText": "{error}"
+                },
+                "required": {
+                    "text": "실행하려면 Java가 필요합니다.",
+                    "message" : "실행하려면 Java {major}의 유효한 x64 설치가 필요합니다.<br><br>자바를 수동으로 설치하는 방법에 대한 지침은 <a href=\"https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java\">자바 관리 가이드</a>를 참조하세요.",
+                    "dismiss": "닫기",
+                    "cancel": "뒤로 가기"
+                }
+            }
+        },
+        "downloadJava": {
+            "findJdkFailure": "OpenJDK 배포를 찾지 못했습니다.",
+            "javaDownloadCorruptedError": "다운로드 된 JDK에는 해시가 잘못되며 파일이 손상 될 수 있습니다.",
+            "downloadingJava": "Java 다운로드 중...",
+            "extractingJava": "Java 추출중...",
+            "javaInstalled": "Java가 설치되었습니다!"
+        },
+        "dlAsync": {
+            "loadingServerInfo": "서버 정보 로드 중...",
+            "fatalError": "치명적 오류",
+            "unableToLoadDistributionIndex": "배포 인덱스의 사본을 로드할 수 없습니다. <br>{error}",
+            "pleaseWait": "잠시만 기다려주세요...",
+            "errorDuringLaunchTitle": "실행 중 오류",
+            "seeConsoleForDetails": "자세한 내용은 콘솔 (Ctrl + Shift + I)을 참조하십시오.",
+            "validatingFileIntegrity": "파일 무결성 검증 중...",
+            "errorDuringFileVerificationTitle": "파일 확인 중 오류",
+            "downloadingFiles": "파일 다운로드 중...",
+            "errorDuringFileDownloadTitle": "파일 다운로드 중 오류",
+            "preparingToLaunch": "실행 준비 중...",
+            "gameDuringErrorTitle": "게임이 오류로 인해 종료되었습니다.",
+            "launchingGame": "게임 시작중...",
+            "launchWrapperNotDownloaded": "메인 파일인 런치래퍼를 제대로 다운로드하지 못했습니다. 이 문제를 해결하려면 바이러스 백신 소프트웨어를 일시적으로 끄고 게임을 다시 실행하세요.<br><br>시간이 있으시면 <a href=\"https://github.com/dscalzi/HeliosLauncher/issues\">이슈 제출</a>을 통해 사용 중인 바이러스 백신 소프트웨어를 알려주시기 바랍니다. 해당 업체에 연락하여 문제를 해결하도록 하겠습니다.",
+            "doneEnjoyServer": "완료되었습니다. 클라이언트 응답을 기다리는중...",
+            "checkConsoleForDetails": "자세한 내용은 콘솔 (Ctrl + Shift + I)을 확인하십시오.",
+            "notAccessMods": {
+                "title": "사용이 불가능한 모드가 발견되었습니다!",
+                "desc": "사용이 불가능한 모드는 다음과 같습니다.<br>{mods}<br><br>해당 모드가 필요하다고 생각한다면 <a href=\"{discord}\">Make The World</a>에 알려주세요.",
+                "removeAll": "모두 제거후 재개",
+                "close": "닫기"
+            }
+        }
+    },
+    "settings": {
+        "nav": {
+            "headerText": "설정",
+            "account": "계정",
+            "minecraft": "마인크래프트",
+            "java": "자바",
+            "launcher": "런쳐",
+            "about": "정보",
+            "updates": "업데이트",
+            "done": "완료"
+        },
+        "tab": {
+            "account": {
+                "header": {
+                    "text": "계정 설정",
+                    "desc": "새 계정을 추가하거나 기존 계정을 관리하세요."
+                },
+                "microsoft": {
+                    "text": "Microsoft",
+                    "add": "+ Microsoft 계정 추가"
+                },
+                "mojang": {
+                    "text": "Mojang",
+                    "add": "+ Mojang 계정 추가"
+                },
+                "auth": {
+                    "username": "사용자 이름",
+                    "uuid": "UUID",
+                    "select": "계정 선택",
+                    "selected": "선택된 계정 ✓",
+                    "logout": {
+                        "text": "로그아웃",
+                        "lastAccountWarningTitle": "경고<br>이 계정이 마지막 계정입니다.",
+                        "lastAccountWarningMessage": "런처를 사용하려면 하나 이상의 계정에 로그인해야 합니다. 이후 다시 로그인해야 합니다.<br><br>로그아웃하시겠습니까?",
+                        "confirmButton": "진행",
+                        "cancelButton": "취소"
+                    }
+                }
+            },
+            "minecraft": {
+                "header": {
+                    "text": "마인크래프트 설정",
+                    "desc": "게임 실행과 관련된 옵션입니다."
+                },
+                "gameResolution": "게임 해상도",
+                "launchFullscreen": "전체 화면으로 실행합니다.",
+                "autoConnect": "시작 시 서버에 자동으로 연결됩니다.",
+                "launchDetached": {
+                    "title": "런처에서 게임을 분리하여 실행합니다.",
+                    "desc": "게임이 런쳐에서 분리되지 않으면 런처를 닫으면 게임이 닫힙니다."
+                }
+            },
+            "java": {
+                "header": {
+                    "text": "자바 설정",
+                    "desc": "Java 구성 관리(고급)."
+                },
+                "memory": {
+                    "title": "메모리",
+                    "desc": "권장되는 최소 RAM은 3GB입니다. 최소값과 최대값을 같은 값으로 설정하면 지연이 줄어들 수 있습니다.",
+                    "maxRAM": "최대 RAM",
+                    "minRAM": "최소 RAM",
+                    "total": "총",
+                    "available": "사용 가능"
+                },
+                "executeable": "Java 실행 파일",
+                "execSelDialog": "Java 실행 파일 선택",
+                "execSelButton": "파일을 선택",
+                "execDesc": "Java 실행 파일은 게임 실행 전에 유효성이 검사됩니다.",
+                "pathDesc": "경로는 <strong>{pathSuffix}</strong>로 끝나야 합니다.",
+                "jvm": {
+                    "optsTitle": "추가 JVM 옵션",
+                    "optsDesc": "런타임에 JVM에 제공될 옵션입니다. <em>-Xms</em> 및 <em>-Xmx</em>는 포함되지 않아야 합니다."
+                },
+                "selectedJava": "선택됨: Java {version} ({vendor})",
+                "invalidSelection": "잘못된 선택",
+                "requiresJava": "Java {major} x64가 필요합니다.",
+                "availableOptions": "Java {major} (HotSpot VM)에 사용 가능한 옵션"
+            },
+            "launcher": {
+                "header": {
+                    "text": "런처 설정",
+                    "desc": "런처 자체와 관련된 옵션입니다."
+                },
+                "dataDirectory": {
+                    "title": "데이터 디렉토리",
+                    "desc": "모든 게임 파일과 로컬 Java 설치는 데이터 디렉터리에 저장됩니다.<br>스크린샷과 월드 세이브는 해당 서버 구성의 인스턴스 폴더에 저장됩니다.",
+                    "select": "데이터 디렉터리 선택",
+                    "chooseFolder": "폴더 선택"
+                },
+                "language": {
+                    "title": "언어"
+                },
+                "launcherOpen": {
+                    "title": "게임이 구동 중일 때 런쳐 표시 여부",
+                    "desc": "게임이 실행 후 런쳐가 표시될지 여부를 설정합니다."
+                },
+                "gameLogOpen": {
+                    "title": "게임이 시작될 때 출력 로그 열기",
+                    "desc": "게임이 시작될 때 출력 로그에 대한 설정입니다."
+                },
+                "trayMove": {
+                    "title": "트레이로 이동",
+                    "desc": "런쳐를 닫아도 계속 실행되어 있으며, 트레이에서 종료할 수 있습니다."
+                }
+            },
+            "about": {
+                "header": {
+                    "text": "정보",
+                    "desc": "현재 버전에 대한 정보 및 릴리스 노트를 확인합니다."
+                },
+                "title": "{appName}",
+                "releaseNotes": "릴리즈 노트",
+                "viewReleaseNotes": "GitHub에서 릴리스 노트 보기",
+                "releaseNotesFailed": "Failed to load release notes.",
+                "changeLog": "변경 로그",
+                "poweredBy": "Powered By HeliosLauncher"
+            },
+            "update": {
+                "header": {
+                    "text": "런처 업데이트",
+                    "desc": "런처의 업데이트를 다운로드, 설치 및 검토합니다."
+                },
+                "newReleaseTitle": "새 릴리스 사용 가능",
+                "newPreReleaseTitle": "새로운 사전 릴리스 사용 가능",
+                "downloadingButton": "다운로드 중...",
+                "downloadButton": "GitHub에서 다운로드 <span style=\"font-size: 10px;color: gray;text-shadow: none !important;\">런처를 닫고 dmg를 실행하여 업데이트합니다.</span>.",
+                "latestVersionTitle": "최신 버전을 실행 중입니다.",
+                "checkForUpdatesButton": "업데이트 확인",
+                "checkingForUpdatesButton": "업데이트 확인중...",
+                "installNowButton": "지금 설치하기",
+                "moveMsStore": "스토어로 이동하여 업데이트하기",
+                "unableUpdates": "업데이트를 확인할 수 없습니다.",
+                "downloadComplete": "다운로드 완료"
+            },
+            "updateReleaseNotes": "릴리스 노트 업데이트",
+            "noReleaseNotes": "릴리스 노트가 없습니다",
+            "checkForUpdates": "업데이트 확인",
+            "stableRelease": "안정적인 릴리스",
+            "versionText": "버전 ",
+            "whatsNew": "새로운 것"
+        },
+        "fileSelectors": {
+            "executables": "실행 파일",
+            "allFiles": "모든 파일"
+        },
+        "msft": {
+            "login": {
+                "unknown": {
+                    "title": "로그인 중 알 수 없는 오류",
+                    "desc": "알 수 없는 오류가 발생했습니다.<br><br>{error}"
+                },
+                "errorTitle": "뭔가 잘못되었습니다",
+                "errorMessage": "Microsoft 인증에 실패했습니다. 다시 시도하세요.",
+                "okButton": "확인",
+                "tryAgain": "다시 시도",
+                "windowTitle": "Microsoft 로그인"
+            },
+            "logout": {
+                "errorTitle": "뭔가 잘못되었습니다",
+                "errorMessage": "Microsoft 로그아웃에 실패했습니다. 다시 시도하세요.",
+                "okButton": "확인",
+                "windowTitle": "Microsoft 로그아웃"
+            }
+        },
+        "langs": {
+            "ko": "한국어",
+            "en": "영어 (English)"
+        }
+    },
+    "overlay": {
+        "header": "계정 선택",
+        "confirm": "선택",
+        "cancel": "취소",
+        "dismiss": "닫기",
+        "validateAccount": {
+            "failedMessageTitle": "로그인 새로 고침에 실패했습니다.",
+            "failedMessage": "<strong>{account}</strong>에 대한 로그인을 새로 고칠 수 없습니다. 다른 계정을 선택하거나 다시 로그인하세요.",
+            "failedMessageSelectAnotherAccount": "<strong>{account}</strong>에 대한 로그인을 새로 고칠 수 없습니다. 다시 로그인해 주세요.",
+            "loginButton": "로그인",
+            "selectAnotherAccountButton": "다른 계정 선택"
+        },
+        "startup": {
+            "errorDefault": "배포 인덱스를 로드할 수 없음",
+            "messageDefault": "배포 인덱스를 다운로드하기 위해 서버에 연결할 수 없습니다. 로드할 수 있는 로컬 복사본이 없습니다. <br><br>배포 인덱스는 최신 서버 정보를 제공하는 필수 파일입니다. 이 파일이 없으면 런처를 시작할 수 없습니다. 인터넷에 연결되어 있는지 확인한 후 애플리케이션을 다시 시작하세요.",
+            "messageOther": "런쳐를 로드하는 도중 오류가 발생했습니다. 런쳐를 재설치 후에도 이 오류가 발생하면 Make The World에 제보해 주세요.",
+            "fatalErrorTitle": "치명적 오류: {error}",
+            "fatalErrorMessage": "{error}",
+            "closeButton": "닫기"
+        },
+        "checkInternet": {
+            "title": "인터넷 연결 확인",
+            "desc": "런쳐를 사용하기 위해 인터넷이 필요합니다.<br>인터넷 연결을 확인 해 주세요.",
+            "retry": "재시도"
+        }
+    },
+    "gamelog": {
+        "filter": {
+            "title": "필터",
+            "placeholder": "텍스트로 필터링..."
+        },
+        "level": {
+            "title": "레벨",
+            "debug": "디버그 ({count})",
+            "info": "정보 ({count})",
+            "warn": "경고 ({count})",
+            "error": "오류 ({count})",
+            "fatal": "치명적 ({count})"
+        },
+        "action": {
+            "title": "액션",
+            "logclear": "로그 청소"
+        }
+    },
+    "dialog": {
+        "microphone": {
+            "title": "마이크 권한이 거부됨",
+            "message": "마이크 권한이 거부되어 인게임 마이크를 사용 할 수 없습니다.",
+            "checkbox": "다음부터 표시하지 않습니다."
+        }
+    }
+}

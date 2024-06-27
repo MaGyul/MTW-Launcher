@@ -1,0 +1,10 @@
+{
+    "app": {
+        "title": "MTW Launcher"
+    },
+    "settings": {
+        "blank": "#",
+        "supportLink": "https://mathwor.com/support",
+        "poweredByLink": "https://github.com/dscalzi/HeliosLauncher"
+    }
+}

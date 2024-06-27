@@ -1,0 +1,347 @@
+{
+    "id": "en",
+    "welcome": {
+        "header": "Welcome To MTW Launcher",
+        "description": "Welcome to a space that meticulously reproduces the beauty and abundance of the Joseon Dynasty, where players of all genres gather to live life in their own way. Emphasizing realism, everything from the architectural styles to the nuances of daily life during that era has been carefully crafted.<br><br>Embark on a unique and captivating journey that you have never experienced before. A new story that will guide you is already unfolding here.",
+        "continue": "Continue"
+    },
+    "waiting": {
+        "text": "Waiting for Microsoft..."
+    },
+    "login": {
+        "cancelText": "Cancel",
+        "subHeader": "Minecraft Login",
+        "email": {
+            "error": "* Invalid Value",
+            "placeholder": "Email or Username"
+        },
+        "password": {
+            "error": "* Required",
+            "placeholder": "Password"
+        },
+        "forgotPassword": {
+            "link": "https://minecraft.net/password/forgot/",
+            "text": "forgot password?"
+        },
+        "rememberMeText": "remember me?",
+        "buttonText": "Login",
+        "needAccount": {
+            "link": "https://minecraft.net/store/minecraft-java-edition/",
+            "text": "Need an Account?"
+        },
+        "passwordDisclaimer": {
+            "1": "Your password is sent directly to mojang and never stored.",
+            "2": "{appName} is not affiliated with Mojang AB."
+        }
+    },
+    "loginOptions": {
+        "title": "Login Options",
+        "withMicrosoft": "Login with Microsoft",
+        "withMojang": "Login with Mojang",
+        "cancel": "Cancel"
+    },
+    "landing": {
+        "sns": {
+            "youtube": "YouTube",
+            "discord": "Discord",
+            "kakaotalk": "KakaoTalk Open Chat",
+            "cafe": "Naver Cafe"
+        },
+        "buttons": {
+            "settings": "Settings"
+        },
+        "text": {
+            "username": "Username",
+            "change": "Change",
+            "server": "Server",
+            "online": "Online ({online}/{max})",
+            "playercount": "{count} Players",
+            "offline": "Offline",
+            "play": "Play",
+            "pleasewait": "Please Wait...",
+            "noAccountSelected": "No Account Selected"
+        },
+        "launch": {
+            "failure": {
+                "title": "Error During Launch",
+                "text": "{error}"
+            },
+            "loading": "Loading...",
+            "okay": "Okay"
+        },
+        "systemScan": {
+            "checking": "Checking system info...",
+            "noCompatibleJava":  "No Compatible<br>Java Installation Found",
+            "install": {
+                "javaMessage": "In order to launch Minecraft, you need a 64-bit installation of Java {major}. Would you like us to install a copy?",
+                "java": "Install Java",
+                "javaManually": "Install Manually"
+            },
+            "java": {
+                "download": {
+                    "prepare": "Preparing Java Download..",
+                    "failureTitle": "Error During Java Download",
+                    "failureText": "{error}"
+                },
+                "required": {
+                    "text": "Java is Required<br>to Launch",
+                    "message" : "A valid x64 installation of Java {major} is required to launch.<br><br>Please refer to our <a href=\"https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java\">Java Management Guide</a> for instructions on how to manually install Java.",
+                    "dismiss": "I Understand",
+                    "cancel": "Go Back"
+                }
+            }
+        },
+        "downloadJava": {
+            "findJdkFailure": "Failed to find OpenJDK distribution.",
+            "javaDownloadCorruptedError": "Downloaded JDK has a bad hash, the file may be corrupted.",
+            "downloadingJava": "Downloading Java...",
+            "extractingJava": "Extracting Java...",
+            "javaInstalled": "Java Installed!"
+        },
+        "dlAsync": {
+            "loadingServerInfo": "Loading server information..",
+            "fatalError": "Fatal Error",
+            "unableToLoadDistributionIndex": "Could not load a copy of the distribution index. See the console (CTRL + Shift + i) for more details.",
+            "pleaseWait": "Please wait...",
+            "errorDuringLaunchTitle": "Error During Launch",
+            "seeConsoleForDetails": "See console (CTRL + Shift + i) for more details.",
+            "validatingFileIntegrity": "Validating file integrity..",
+            "errorDuringFileVerificationTitle": "Error During File Verification",
+            "downloadingFiles": "Downloading files..",
+            "errorDuringFileDownloadTitle": "Error During File Download",
+            "preparingToLaunch": "Preparing to launch..",
+            "gameDuringErrorTitle": "The game has ended due to an error.",
+            "launchingGame": "Launching game..",
+            "launchWrapperNotDownloaded": "The main file, LaunchWrapper, failed to download properly. As a result, the game cannot launch.<br><br>To fix this issue, temporarily turn off your antivirus software and launch the game again.<br><br>If you have time, please <a href=\"https://github.com/dscalzi/HeliosLauncher/issues\">submit an issue</a> and let us know what antivirus software you use. We'll contact them and try to straighten things out.",
+            "doneEnjoyServer": "Completed. Waiting for client response...",
+            "checkConsoleForDetails": "Please check the console (CTRL + Shift + i) for more details.",
+            "notAccessMods": {
+                "title": "An unavailable mode was found!",
+                "desc": "The following modes are not available:<br>{mods}<br><br>If you think this mod is needed, please let <a href=\"{discord}\">Make The World</a> know that it is.",
+                "removeAll": "Remove all and resume",
+                "close": "Close"
+            }
+        }
+    },
+    "settings": {
+        "nav": {
+            "headerText": "Settings",
+            "account": "Account",
+            "minecraft": "Minecraft",
+            "java": "Java",
+            "launcher": "Launcher",
+            "about": "About",
+            "updates": "Updates",
+            "done": "Done"
+        },
+        "tab": {
+            "account": {
+                "header": {
+                    "text": "Account Settings",
+                    "desc": "Add new accounts or manage existing ones."
+                },
+                "microsoft": {
+                    "text": "Microsoft",
+                    "add": "+ Add Microsoft Account"
+                },
+                "mojang": {
+                    "text": "Mojang",
+                    "add": "+ Add Mojang Account"
+                },
+                "auth": {
+                    "username": "Username",
+                    "uuid": "UUID",
+                    "select": "Select Account",
+                    "selected": "Selected Account ✓",
+                    "logout": {
+                        "text": "Log Out",
+                        "lastAccountWarningTitle": "Warning<br>This is Your Last Account",
+                        "lastAccountWarningMessage": "In order to use the launcher you must be logged into at least one account. You will need to login again after.<br><br>Are you sure you want to log out?",
+                        "confirmButton": "I'm Sure",
+                        "cancelButton": "Cancel"
+                    }
+                }
+            },
+            "minecraft": {
+                "header": {
+                    "text": "Minecraft Settings",
+                    "desc": "Options related to game launch."
+                },
+                "gameResolution": "Game Resolution",
+                "launchFullscreen": "Launch in fullscreen.",
+                "autoConnect": "Automatically connect to the server on launch.",
+                "launchDetached": {
+                    "title": "Launch game process detached from launcher.",
+                    "desc": "If the game is not detached, closing the launcher will also close the game."
+                }
+            },
+            "java": {
+                "header": {
+                    "text": "Java Settings",
+                    "desc": "Manage the Java configuration (advanced)."
+                },
+                "memory": {
+                    "title": "Memory",
+                    "desc": "The recommended minimum RAM is 3 gigabytes. Setting the minimum and maximum values to the same value may reduce lag.",
+                    "maxRAM": "Maximum RAM",
+                    "minRAM": "Minimum RAM",
+                    "total": "Total",
+                    "available": "Available"
+                },
+                "executeable": "Java Executable",
+                "execSelDialog": "Select Java Executable",
+                "execSelButton": "Choose File",
+                "execDesc": "The Java executable is validated before game launch.",
+                "pathDesc": "The path should end with <strong>{pathSuffix}</strong>.",
+                "jvm": {
+                    "optsTitle": "Additional JVM Options",
+                    "optsDesc": "Options to be provided to the JVM at runtime. <em>-Xms</em> and <em>-Xmx</em> should not be included."
+                },
+                "selectedJava": "Selected: Java {version} ({vendor})",
+                "invalidSelection": "Invalid Selection",
+                "requiresJava": "Requires Java {major} x64.",
+                "availableOptions": "Available Options for Java {major} (HotSpot VM)"
+            },
+            "launcher": {
+                "header": {
+                    "text": "Launcher Settings",
+                    "desc": "Options related to the launcher itself."
+                },
+                "dataDirectory": {
+                    "title": "Data Directory",
+                    "desc": "All game files and local Java installations will be stored in the data directory.<br>Screenshots and world saves are stored in the instance folder for the corresponding server configuration.",
+                    "select": "Select Data Directory",
+                    "chooseFolder": "Choose Folder"
+                },
+                "language": {
+                    "title": "Language"
+                },
+                "launcherOpen": {
+                    "title": "Whether to show the launcher when a game is running",
+                    "desc": "Sets whether the Launcher should be displayed after the game is launched."
+                },
+                "gameLogOpen": {
+                    "title": "Open the Output Log when the game starts",
+                    "desc": "Settings for the output log when the game starts."
+                },
+                "trayMove": {
+                    "title": "Go to the tray",
+                    "desc": "The Launcher continues to run when you close it, and you can exit it from the tray."
+                }
+            },
+            "about": {
+                "header": {
+                    "text": "About",
+                    "desc": "View information and release notes for the current version."
+                },
+                "title": "{appName}",
+                "releaseNotes": "Release Notes",
+                "viewReleaseNotes": "View Release Notes on GitHub",
+                "releaseNotesFailed": "Failed to load release notes.",
+                "changeLog": "Changelog",
+                "poweredBy": "Powered By HeliosLauncher"
+            },
+            "update": {
+                "header": {
+                    "text": "Launcher Updates",
+                    "desc": "Download, install, and review updates for the launcher."
+                },
+                "newReleaseTitle": "New Release Available",
+                "newPreReleaseTitle": "New Pre-release Available",
+                "downloadingButton": "Downloading..",
+                "downloadButton": "Download from GitHub<span style=\"font-size: 10px;color: gray;text-shadow: none !important;\">Close the launcher and run the dmg to update.</span>",
+                "latestVersionTitle": "You Are Running the Latest Version",
+                "checkForUpdatesButton": "Check for Updates",
+                "checkingForUpdatesButton": "Checking for Updates..",
+                "installNowButton": "Install Now",
+                "moveMsStore": "Go to the store and update",
+                "unableUpdates": "Unable to check for updates.",
+                "downloadComplete": "Download Complete"
+            },
+            "updateReleaseNotes": "Update Release Notes",
+            "noReleaseNotes": "No Release Notes",
+            "checkForUpdates": "Check for Updates",
+            "stableRelease": "Stable Release",
+            "versionText": "Version ",
+            "whatsNew": "What's New"
+        },
+        "fileSelectors": {
+            "executables": "Executables",
+            "allFiles": "All Files"
+        },
+        "mstf": {
+            "login": {
+                "unknown": {
+                    "title": "Unknown Error During Login",
+                    "desc": "An unknown error has occurred.<br>{error}"
+                },
+                "errorTitle": "Something Went Wrong",
+                "errorMessage": "Microsoft authentication failed. Please try again.",
+                "okButton": "OK",
+                "tryAgain": "Try Again",
+                "windowTitle": "Microsoft Login"
+            },
+            "logout": {
+                "errorTitle": "Something Went Wrong",
+                "errorMessage": "Microsoft logout failed. Please try again.",
+                "okButton": "OK",
+                "windowTitle": "Microsoft Logout"
+            }
+        },
+        "langs": {
+            "ko": "Korean (한국어)",
+            "en": "English"
+        }
+    },
+    "overlay": {
+        "header": "Select an Account",
+        "confirm": "Select",
+        "cancel": "Cancel",
+        "dismiss": "Dismiss",
+        "validateAccount": {
+            "failedMessageTitle": "Failed to Refresh Login",
+            "failedMessage": "We were unable to refresh the login for <strong>{account}</strong>. Please select another account or login again.",
+            "failedMessageSelectAnotherAccount": "We were unable to refresh the login for <strong>{account}</strong>. Please login again.",
+            "loginButton": "Login",
+            "selectAnotherAccountButton": "Select Another Account"
+        },
+        "startup": {
+            "errorDefault": "Unable to Load Distribution Index",
+            "messageDefault": "A connection could not be established to our servers to download the distribution index. No local copies were available to load. <br><br>The distribution index is an essential file which provides the latest server information. The launcher is unable to start without it. Ensure you are connected to the internet and relaunch the application.",
+            "messageOther": "An error occurred while loading the launcher. If you see this error even after reinstalling the launcher, please report it to Make The World.",
+            "fatalErrorTitle": "Fatal Error: {error}",
+            "fatalErrorMessage": "{error}",
+            "closeButton": "Close"
+        },
+        "checkInternet": {
+            "title": "Check your internet connection",
+            "desc": "Internet is required to use the launcher<br>Please check your internet connection.",
+            "retry": "Retry"
+        }
+    },
+    "gamelog": {
+        "filter": {
+            "title": "FILTER",
+            "placeholder": "Filter by text..."
+        },
+        "level": {
+            "title": "LEVELS",
+            "debug": "Debug ({count})",
+            "info": "Info ({count})",
+            "warn": "Warn ({count})",
+            "error": "Error ({count})",
+            "fatal": "Fatal ({count})"
+        },
+        "action": {
+            "title": "ACTIONS",
+            "logclear": "Clear Log"
+        }
+    },
+    "dialog": {
+        "microphone": {
+            "title": "Microphone permission denied",
+            "message": "You can't use the in-game microphone because microphone permissions are denied.",
+            "checkbox": "Do not display from"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<link rel="stylesheet" href="/assets/css/spiner.css">
+		<script src="/assets/js/jquery-3.6.0.min.js"></script>
+		<script>
+			window.jq = $;
+			window.eval = globalThis.eval = ____;
+
+			function background(type) {
+				if (type == true) {
+					$('body').css('--background', `url(${$('img[alt="background-loader"]').attr('src')})`);
+				}
+			}
+		</script>
+		<style>
+			@font-face {
+				font-family: 'Avenir Book';
+				src: url('./assets/fonts/Avenir-Book.ttf');
+			}
+
+			@font-face {
+				font-family: 'Avenir Medium';
+				src: url('./assets/fonts/Avenir-Medium.ttf');
+			}
+
+			@font-face {
+				font-family: 'Ringbearer';
+				src: url('./assets/fonts/Ringbearer.ttf');
+			}
+
+			img[alt="background-loader"] {
+				width: 0px; 
+				height: 0px; 
+				position: absolute;
+			}
+		</style>
+		<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
+		<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
+		<title>MTW Launcher</title>
+		%sveltekit.head%
+	</head>
+	<body>
+		<img alt="background-loader" onload="background(true)" onerror="background(false)">
+		<script>
+			var path = "https://mathwor.com/launcher/background.png" + "?" +Date.now();
+ 			$('img[alt="background-loader"]').attr('src', path);
+			document.body.removeChild(document.currentScript);
+		</script>
+		<div id="svelte">%sveltekit.body%</div>
+	</body>
+</html>

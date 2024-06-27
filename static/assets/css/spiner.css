@@ -1,0 +1,142 @@
+.stateful-spinner {
+    position: absolute;
+    top: 50%;
+    height: 96%;
+    height: calc(100% - 4px);
+    left: 50%;
+    width: 96%;
+    width: calc(100% - 4px);
+    transform: translateX(-50%) translateY(-50%);
+    background-color: inherit;
+    cursor: wait;
+    --spinner: #313866;
+    --sign: #ffffff;
+}
+.stateful-spinner .stateful-spinner-spacer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.stateful-spinner .stateful-spinner-spacer > svg {
+    min-width: 1em;
+    /* width: 40%; */
+}
+.stateful-spinner .outline {
+    display: none;
+    stroke-linecap: round;
+    transform-origin: 50% 50%;
+    transition-duration: 0.4s;
+    opacity: 1;
+}
+.stateful-spinner .background {
+    display: none;
+}
+.stateful-spinner .checkpath {
+    display: none;
+    stroke: var(--sign);
+    stroke-width: 40;
+}
+.stateful-spinner[data-state=LOADING] .outline {
+    display: block;
+    stroke: var(--spinner);
+    animation: outlineDash 1.5s ease-in-out infinite, outlineRotate 2s linear infinite;
+}
+.stateful-spinner[data-state=SUCCESS] {
+    animation: checkmarkFadeout 0.15s ease-in-out 0.6s forwards;
+}
+.stateful-spinner[data-state=SUCCESS] .outline {
+    display: block;
+    stroke: var(--sign);
+    opacity: 0;
+}
+.stateful-spinner[data-state=SUCCESS] .background {
+    display: block;
+    fill: var(--spinner);
+    animation: backgroundZoomin 0.2s ease-in forwards;
+}
+.stateful-spinner[data-state=SUCCESS] .checkpath {
+    display: block;
+    fill: var(--spinner);
+    animation: checkmarkdraw 0.3 linear forwards;
+}
+.stateful-spinner[data-state=ERROR] {
+    animation: checkmarkFadeout 0.15s ease-in-out forwards;
+}
+.stateful-spinner[data-state=ERROR] .outline {
+    display: block;
+    stroke: var(--error);
+    opacity: 0;
+}
+.stateful-spinner[data-state=ERROR] .background {
+    display: block;
+    stroke: var(--error);
+    animation: backgroundZoomin 0.2s ease-in forwards;
+}
+@media (prefers-color-scheme: dark) {
+    .stateful-spinner {
+    --spinner: #9491d9;
+    --sign: #ffffff;
+    }
+}
+
+@keyframes outlineRotate {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes outlineDash {
+    0% {
+        stroke-dasharray: 1, 150;
+        stroke-dashoffset: 0;
+    }
+
+    50% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -35;
+    }
+
+    100% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -124;
+    }
+}
+
+@keyframes backgroundZoomin {
+    0% {
+        r: 5;
+    }
+
+    75% {
+        r: 20;
+    }
+
+    100% {
+        r: 23;
+    }
+}
+
+@keyframes checkmarkdraw {
+    0% {
+        d: path('M -100,10 L -100,10 L -100,10');
+    }
+
+    50% {
+        d: path('M -100,10 L -26,70 L -26,70');
+    }
+
+    100% {
+        d: path('M -100,10 L -26,70 L 85,-65');
+    }
+}
+
+@keyframes checkmarkFadeout {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
