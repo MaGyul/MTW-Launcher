@@ -314,6 +314,10 @@ async function validateSelectedMicrosoftAccount(){
     const mcExpiresAt = current.expiresAt
     const mcExpired = now >= mcExpiresAt
 
+    if(!mcExpired) {
+        return true
+    }
+
     // MC token expired. Check MS token.
 
     const msExpiresAt = current.microsoft.expires_at
