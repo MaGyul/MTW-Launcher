@@ -721,7 +721,7 @@
                     "id": "fabric.mod:better-suggestions:1.2.6",
                     "name": "Better Suggestions",
                     "type": "File",
-                    "server": true
+                    "server": false
                 },
                 {
                     "artifact": {
