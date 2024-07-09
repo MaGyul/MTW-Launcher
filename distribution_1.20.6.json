@@ -833,12 +833,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "5af15c711a758d7fa76da39f9322a33d",
-                        "size": 7759422,
-                        "url": "https://cdn.modrinth.com/data/3s19I5jr/versions/jrZd7Dc1/SkinShuffle-2.0.3+1.20.6.jar",
-                        "path": "mods/SkinShuffle-2.0.3+1.20.6.jar"
+                        "MD5": "44cbb319932ad59ffdedfa42dbfed4f2",
+                        "size": 7764392,
+                        "url": "https://cdn.modrinth.com/data/3s19I5jr/versions/fWaSI0GP/SkinShuffle-2.0.4+1.20.6.jar",
+                        "path": "mods/SkinShuffle-2.0.4+1.20.6.jar"
                     },
-                    "id": "fabric.mod:skinshuffle:2.0.3",
+                    "id": "fabric.mod:skinshuffle:2.0.4",
                     "name": "Skin Shuffle",
                     "type": "File",
                     "server": false
