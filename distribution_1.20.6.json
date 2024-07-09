@@ -833,18 +833,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "44cbb319932ad59ffdedfa42dbfed4f2",
-                        "size": 7764392,
-                        "url": "https://cdn.modrinth.com/data/3s19I5jr/versions/fWaSI0GP/SkinShuffle-2.0.4+1.20.6.jar",
-                        "path": "mods/SkinShuffle-2.0.4+1.20.6.jar"
-                    },
-                    "id": "fabric.mod:skinshuffle:2.0.4",
-                    "name": "Skin Shuffle",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "227101f07650b2bf9eb3ead7be4f963c",
                         "size": 5276328,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.13.2/mtwmod-1.13.2.jar",
