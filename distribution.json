@@ -593,8 +593,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7a26a7d5d41401f2f028f42937b8a781",
-                        "size": 140945797,
+                        "MD5": "7e09c8b56f9b36e27111b6a7f8933d2e",
+                        "size": 140965497,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.4-resource/mtwmod-resource-1.0.4.jar",
                         "path": "mods/mtwmod-resource-1.0.4.jar"
                     },
