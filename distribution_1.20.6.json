@@ -126,8 +126,8 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "a0a9cf41df77d55ca303428cac7a6e07",
-                        "size": 931968,
+                        "MD5": "4443556b4e0d63394f0df1297e484454",
+                        "size": 954784,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/mtw-shaders/Make_The_World_ShadersBSL.zip",
                         "path": "shaderpacks/Make_The_World_ShadersBSL.zip"
                     },
