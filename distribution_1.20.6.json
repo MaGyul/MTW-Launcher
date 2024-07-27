@@ -173,12 +173,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "392396f99911da7497a27dad69fe7141",
-                        "size": 6553932,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CCbG02Ly/voicechat-fabric-1.20.6-2.5.18.jar",
-                        "path": "mods/voicechat-fabric-1.20.6-2.5.18.jar"
+                        "MD5": "10ea4d6e97a851c3fc3717d20f13f58b",
+                        "size": 6555699,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/C2VYJasz/voicechat-fabric-1.20.6-2.5.19.jar",
+                        "path": "mods/voicechat-fabric-1.20.6-2.5.19.jar"
                     },
-                    "id": "fabric.mod:voicechat:2.5.18",
+                    "id": "fabric.mod:voicechat:2.5.19",
                     "name": "Simple Voice Chat",
                     "type": "File",
                     "server": true
@@ -365,25 +365,25 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e819c05ab56c05b0ebf6e1cf6bc58ab4",
-                        "size": 172569,
-                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/dXkCBME4/dynamic-fps-3.6.0+minecraft-1.20.5-fabric.jar",
-                        "path": "mods/dynamic-fps-3.6.0+minecraft-1.20.5-fabric.jar"
+                        "MD5": "d535043f11f9cc78970cd34af0201066",
+                        "size": 173284,
+                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/4UrwSLvV/dynamic-fps-3.6.1+minecraft-1.20.5-fabric.jar",
+                        "path": "mods/dynamic-fps-3.6.1+minecraft-1.20.5-fabric.jar"
                     },
-                    "id": "fabric.mod:dynamic-fps:3.6.0",
+                    "id": "fabric.mod:dynamic-fps:3.6.1",
                     "name": "Dynamic Fps",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "bb7b46c38ac48718c38648f919be7a1e",
-                        "size": 77432,
-                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/JKZokbpT/reeses_sodium_options-1.7.2+mc1.20.5-build.103.jar",
-                        "path": "mods/reeses_sodium_options-1.7.2+mc1.20.5-build.103.jar"
+                        "MD5": "6d0100ca806afd837b6e9f161559c858",
+                        "size": 78232,
+                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/eVQOh2ku/reeses_sodium_options-1.7.3+mc1.20.6.jar",
+                        "path": "mods/reeses_sodium_options-1.7.3+mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:reeses_sodium_options:1.7.2",
-                    "name": "Reeses Sodium Options",
+                    "id": "fabric.mod:reeses_sodium_options:1.7.3",
+                    "name": "Reese's Sodium Options",
                     "type": "File",
                     "server": false
                 },
@@ -617,12 +617,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e08c8d7d07158d64c3333ff7eb2db88e",
-                        "size": 182161,
-                        "url": "https://mediafilez.forgecdn.net/files/5291/901/TrueDarknessFork-1.0.3-1.20.5.jar",
-                        "path": "mods/TrueDarknessFork-1.0.3-1.20.5.jar"
+                        "MD5": "85edcf63f78b9393791a8d68211016eb",
+                        "size": 136711,
+                        "url": "https://cdn.modrinth.com/data/Pf8PJBb5/versions/fWf5FuJp/darkness-fabric-1.0.6-mc1.20.6.jar",
+                        "path": "mods/truedarkness-fabric-1.0.6-mc1.20.6.jar"
                     },
-                    "id": "fabric.mod:truedarkness:1.0.3",
+                    "id": "fabric.mod:truedarkness:1.0.6",
                     "name": "True Darkness",
                     "type": "File",
                     "server": false
@@ -821,24 +821,24 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "453320f0624cfb01218d52d35f6b4293",
-                        "size": 244386,
-                        "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/JwEkiryX/NBTac-FABRIC-1.20.6-1.3.jar",
-                        "path": "mods/NBTac-FABRIC-1.20.6-1.3.jar"
+                        "MD5": "3da6c30556ba3e01d8523435ceb59863",
+                        "size": 244510,
+                        "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/9Z2uTzu8/NBTac-FABRIC-1.20.6-1.3.3.jar",
+                        "path": "mods/NBTac-FABRIC-1.20.6-1.3.3.jar"
                     },
-                    "id": "fabric.mod:nbtac:1.3",
+                    "id": "fabric.mod:nbtac:1.3.3",
                     "name": "NBT Autocomplete",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "227101f07650b2bf9eb3ead7be4f963c",
-                        "size": 5276328,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.13.2/mtwmod-1.13.2.jar",
-                        "path": "mods/mtwmod-1.13.2.jar"
+                        "MD5": "ed6d4de41469daa2f6e47163401afb9b",
+                        "size": 5312535,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.13.3/mtwmod-1.13.3.jar",
+                        "path": "mods/mtwmod-1.13.3.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.13.2",
+                    "id": "fabric.mod:mtwmod:1.13.3",
                     "name": "MTW Mod",
                     "type": "File",
                     "server": true
