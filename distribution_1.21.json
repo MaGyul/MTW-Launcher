@@ -14,7 +14,7 @@
             "icon": "",
             "version": "1.0.0",
             "address": "play.mathwor.com:25565",
-            "minecraftVersion": "1.21",
+            "minecraftVersion": "1.21.0",
             "mainServer": true,
             "autoconnect": true,
             "javaOptions": {
