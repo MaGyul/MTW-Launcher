@@ -809,42 +809,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "b89a2d2bcb6729af37e4a7fba0b706b0",
-                        "size": 1071146,
-                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar",
-                        "path": "mods/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:puzzleslib:21.0.22",
-                    "name": "Puzzles Lib",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "c75dbba2c5b8792b9f6373dc04fffc2a",
-                        "size": 165090,
-                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/Muht05v2/DiagonalFences-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/DiagonalFences-v21.0.0-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:diagonalfences:21.0.0",
-                    "name": "Diagonal Fences",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "e486607a9c3b2887467fd5037c0979eb",
-                        "size": 188292,
-                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/8GlyEr6o/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:betteranimationscollection:21.0.0",
-                    "name": "Better Animations Collection",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "e96c944d479fe95c997fc58f66f527c3",
                         "size": 5269354,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.0/mtwmod-1.14.0.jar",
