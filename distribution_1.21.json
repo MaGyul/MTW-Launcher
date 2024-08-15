@@ -809,8 +809,32 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e96c944d479fe95c997fc58f66f527c3",
-                        "size": 5269354,
+                        "MD5": "58cfe41fc4cd4cbf08cf72e323913949",
+                        "size": 79142,
+                        "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8zrcFuRP/Searchables-fabric-1.21-1.0.5.jar",
+                        "path": "mods/Searchables-fabric-1.21-1.0.5.jar"
+                    },
+                    "id": "fabric.mod:searchables:1.0.5",
+                    "name": "Searchables",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "0b097fe0d54e1f1683c803c1d12bf6dd",
+                        "size": 83976,
+                        "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/xl0PX3KR/Controlling-fabric-1.21-18.0.4.jar",
+                        "path": "mods/Controlling-fabric-1.21-18.0.4.jar"
+                    },
+                    "id": "fabric.mod:controlling:18.0.4",
+                    "name": "Controlling",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "b4e19ab145019c20a93dd3d8d660c699",
+                        "size": 5317377,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.0/mtwmod-1.14.0.jar",
                         "path": "mods/mtwmod-1.14.0.jar"
                     },
