@@ -617,12 +617,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "efa01c62bcdbf9c561aec8c93b4cc366",
-                        "size": 104921,
-                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34+mc1.21.jar",
-                        "path": "mods/indium-1.0.34+mc1.21.jar"
+                        "MD5": "db92c620cb72a41403b928a0b45955d0",
+                        "size": 105000,
+                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35+mc1.21.jar",
+                        "path": "mods/indium-1.0.35+mc1.21.jar"
                     },
-                    "id": "fabric.mod:indium:1.0.34",
+                    "id": "fabric.mod:indium:1.0.35",
                     "name": "Indium",
                     "type": "File",
                     "server": false
@@ -809,6 +809,42 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "b89a2d2bcb6729af37e4a7fba0b706b0",
+                        "size": 1071146,
+                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar",
+                        "path": "mods/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:puzzleslib:21.0.22",
+                    "name": "Puzzles Lib",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "c75dbba2c5b8792b9f6373dc04fffc2a",
+                        "size": 165090,
+                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/Muht05v2/DiagonalFences-v21.0.0-1.21-Fabric.jar",
+                        "path": "mods/DiagonalFences-v21.0.0-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:diagonalfences:21.0.0",
+                    "name": "Diagonal Fences",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "e486607a9c3b2887467fd5037c0979eb",
+                        "size": 188292,
+                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/8GlyEr6o/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar",
+                        "path": "mods/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:betteranimationscollection:21.0.0",
+                    "name": "Better Animations Collection",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
                         "MD5": "58cfe41fc4cd4cbf08cf72e323913949",
                         "size": 79142,
                         "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8zrcFuRP/Searchables-fabric-1.21-1.0.5.jar",
@@ -833,8 +869,164 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "b4e19ab145019c20a93dd3d8d660c699",
-                        "size": 5317377,
+                        "MD5": "b89a2d2bcb6729af37e4a7fba0b706b0",
+                        "size": 1071146,
+                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar",
+                        "path": "mods/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:puzzleslib:21.0.22",
+                    "name": "Puzzles Lib",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "c75dbba2c5b8792b9f6373dc04fffc2a",
+                        "size": 165090,
+                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/Muht05v2/DiagonalFences-v21.0.0-1.21-Fabric.jar",
+                        "path": "mods/DiagonalFences-v21.0.0-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:diagonalfences:21.0.0",
+                    "name": "Diagonal Fences",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "e486607a9c3b2887467fd5037c0979eb",
+                        "size": 188292,
+                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/8GlyEr6o/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar",
+                        "path": "mods/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar"
+                    },
+                    "id": "fabric.mod:betteranimationscollection:21.0.0",
+                    "name": "Better Animations Collection",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "9ba3d734dac0e59deb4721f2f23c65ad",
+                        "size": 161045,
+                        "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
+                        "path": "mods/krypton-0.2.8.jar"
+                    },
+                    "id": "fabric.mod:krypton:0.2.8",
+                    "name": "Krypton",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "7ac0ef5d5ed99c6ddd97173c02e30a76",
+                        "size": 1259958,
+                        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/fEWDAK3p/c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar",
+                        "path": "mods/c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar"
+                    },
+                    "id": "fabric.mod:c2me:0.2.0+alpha.11.109",
+                    "name": "Concurrent Chunk Management Engine",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "4f033db0c3d479a914b7eaa2f637520b",
+                        "size": 20718,
+                        "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fgAAuioX/Clumps-fabric-1.21-18.0.0.2.jar",
+                        "path": "mods/Clumps-fabric-1.21-18.0.0.2.jar"
+                    },
+                    "id": "fabric.mod:clumps:18.0.0.2",
+                    "name": "Clumps",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "fb3580013100e35e7186d7e191746fb4",
+                        "size": 157404,
+                        "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/cl0HrTL6/nvidium-0.2.9-beta.jar",
+                        "path": "mods/nvidium-0.2.9-beta.jar"
+                    },
+                    "id": "fabric.mod:nvidium:0.2.9-beta",
+                    "name": "Nvidium",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "7fe35ed16d8349112b0dd833839df763",
+                        "size": 439767,
+                        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QGcLqbQu/vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar",
+                        "path": "mods/vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar"
+                    },
+                    "id": "fabric.mod:vmp:0.2.0+beta.7.165",
+                    "name": "Very Many Players",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "8d01311f6789366bdf9425a9b90d8509",
+                        "size": 893264,
+                        "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/pdvZYDOA/servercore-fabric-1.5.4+1.21.jar",
+                        "path": "mods/servercore-fabric-1.5.4+1.21.jar"
+                    },
+                    "id": "fabric.mod:servercore:1.5.4",
+                    "name": "ServerCore",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "0fcf6c1674f99844ac20c6f259906ecb",
+                        "size": 471248,
+                        "url": "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/LQEZtIPA/noxesium-2.1.4.jar",
+                        "path": "mods/noxesium-2.1.4.jar"
+                    },
+                    "id": "fabric.mod:noxesium:2.1.4",
+                    "name": "Noxesium",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "287b5b24a48264d493f76db2a5db8411",
+                        "size": 26235,
+                        "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/QFfBwOwT/Ksyxis-1.3.2.jar",
+                        "path": "mods/Ksyxis-1.3.2.jar"
+                    },
+                    "id": "fabric.mod:ksyxis:1.3.2",
+                    "name": "Ksyxis",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "43f2c478059e3b2f7318a3d31ff69204",
+                        "size": 16551843,
+                        "url": "https://mediafilez.forgecdn.net/files/5474/798/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
+                        "path": "mods/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
+                    },
+                    "id": "fabric.mod:distanthorizons:2.1.2",
+                    "name": "Distant Horizons",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "31062ae55bf585dbb7d80df37828d1e5",
+                        "size": 1073803,
+                        "url": "https://cdn.modrinth.com/data/JV2wFevs/versions/JeMdli3W/DynamicSoundFilters-1.4.0+1.21.jar",
+                        "path": "mods/DynamicSoundFilters-1.4.0+1.21.jar"
+                    },
+                    "id": "fabric.mod:dynamicsoundfilters:1.4.0",
+                    "name": "Dynamic Sound Filters",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "dc699332f2857461d17e634faaeace13",
+                        "size": 1947400,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.0/mtwmod-1.14.0.jar",
                         "path": "mods/mtwmod-1.14.0.jar"
                     },
