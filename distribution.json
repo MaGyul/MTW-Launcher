@@ -917,18 +917,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7ac0ef5d5ed99c6ddd97173c02e30a76",
-                        "size": 1259958,
-                        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/fEWDAK3p/c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar",
-                        "path": "mods/c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar"
-                    },
-                    "id": "fabric.mod:c2me:0.2.0+alpha.11.109",
-                    "name": "Concurrent Chunk Management Engine",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
                         "MD5": "4f033db0c3d479a914b7eaa2f637520b",
                         "size": 20718,
                         "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fgAAuioX/Clumps-fabric-1.21-18.0.0.2.jar",
