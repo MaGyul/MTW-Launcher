@@ -149,12 +149,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "4b793d0d47bdb4d49335f547250ca7af",
-                        "size": 2277141,
-                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/iS2jNAxk/fabric-api-0.100.8+1.21.jar",
-                        "path": "mods/fabric-api-0.100.8+1.21.jar"
+                        "MD5": "3cbfc1a4a3776cc2ba74155150a28394",
+                        "size": 2285859,
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0+1.21.jar",
+                        "path": "mods/fabric-api-0.102.0+1.21.jar"
                     },
-                    "id": "fabric.mod:fabric-api:0.100.8",
+                    "id": "fabric.mod:fabric-api:0.102.0",
                     "name": "Fabric API",
                     "type": "File",
                     "server": true
