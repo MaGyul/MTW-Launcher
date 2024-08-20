@@ -989,18 +989,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "43f2c478059e3b2f7318a3d31ff69204",
-                        "size": 16551843,
-                        "url": "https://mediafilez.forgecdn.net/files/5474/798/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
-                        "path": "mods/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
-                    },
-                    "id": "fabric.mod:distanthorizons:2.1.2",
-                    "name": "Distant Horizons",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "31062ae55bf585dbb7d80df37828d1e5",
                         "size": 1073803,
                         "url": "https://cdn.modrinth.com/data/JV2wFevs/versions/JeMdli3W/DynamicSoundFilters-1.4.0+1.21.jar",
