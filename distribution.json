@@ -353,13 +353,13 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3a08ad4aaa101fa3e7ebe26d29cfd4ed",
-                        "size": 78230,
-                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3+mc1.21.jar",
-                        "path": "mods/reeses_sodium_options-1.7.3+mc1.21.jar"
+                        "MD5": "9a40805bf8ad2f6bca0627aa1fe52fa9",
+                        "size": 1263801,
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/oZOSEhyy/sodium-fabric-0.6.0-beta.1+mc1.21.jar",
+                        "path": "mods/sodium-fabric-0.6.0-beta.1+mc1.21.jar"
                     },
-                    "id": "fabric.mod:reeses_sodium_options:1.7.3",
-                    "name": "Reese's Sodium Options",
+                    "id": "fabric.mod:sodium:0.6.0-beta.1",
+                    "name": "Sodium",
                     "type": "File",
                     "server": false
                 },
@@ -545,12 +545,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "e7f9b97332d51d37530db0c71de7811b",
-                        "size": 1168065,
-                        "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/HXHXexC5/CreativeCore_FABRIC_v2.12.6_mc1.21.jar",
-                        "path": "mods/CreativeCore_FABRIC_v2.12.6_mc1.21.jar"
+                        "MD5": "532f7a78f80fe9886a8ffc2d163f94ad",
+                        "size": 1177772,
+                        "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ee9C5Y9X/CreativeCore_FABRIC_v2.12.9_mc1.21.jar",
+                        "path": "mods/CreativeCore_FABRIC_v2.12.9_mc1.21.jar"
                     },
-                    "id": "fabric.mod:creativecore:2.12.6",
+                    "id": "fabric.mod:creativecore:2.12.9",
                     "name": "CreativeCore",
                     "type": "File",
                     "server": true
