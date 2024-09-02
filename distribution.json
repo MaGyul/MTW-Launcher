@@ -185,12 +185,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "6c1f78cb7d596f5e4e50725bab6b7989",
-                        "size": 982671,
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11+mc1.21.jar",
-                        "path": "mods/sodium-fabric-0.5.11+mc1.21.jar"
+                        "MD5": "9a40805bf8ad2f6bca0627aa1fe52fa9",
+                        "size": 1263801,
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/oZOSEhyy/sodium-fabric-0.6.0-beta.1+mc1.21.jar",
+                        "path": "mods/sodium-fabric-0.6.0-beta.1+mc1.21.jar"
                     },
-                    "id": "fabric.mod:sodium:0.5.11",
+                    "id": "fabric.mod:sodium-fabric:0.6.0-beta.1",
                     "name": "Sodium",
                     "type": "File",
                     "server": false
@@ -353,13 +353,13 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "9a40805bf8ad2f6bca0627aa1fe52fa9",
-                        "size": 1263801,
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/oZOSEhyy/sodium-fabric-0.6.0-beta.1+mc1.21.jar",
-                        "path": "mods/sodium-fabric-0.6.0-beta.1+mc1.21.jar"
+                        "MD5": "3a08ad4aaa101fa3e7ebe26d29cfd4ed",
+                        "size": 78230,
+                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3+mc1.21.jar",
+                        "path": "mods/reeses_sodium_options-1.7.3+mc1.21.jar"
                     },
-                    "id": "fabric.mod:sodium:0.6.0-beta.1",
-                    "name": "Sodium",
+                    "id": "fabric.mod:reeses_sodium_options:1.7.3",
+                    "name": "Reese's Sodium Options",
                     "type": "File",
                     "server": false
                 },
