@@ -1001,6 +1001,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "bff9ecf95134c252705913dffa469ea3",
+                        "size": 1154103,
+                        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/AVkXApBi/owo-lib-0.12.11+1.21.jar",
+                        "path": "mods/owo-lib-0.12.11+1.21.jar"
+                    },
+                    "id": "fabric.mod:owo-lib:0.12.11",
+                    "name": "oωo (owo-lib)",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "0b08236a26688f4cf2c0d5ac600f2394",
                         "size": 1911991,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
