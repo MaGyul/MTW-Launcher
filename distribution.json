@@ -1013,6 +1013,18 @@
                 },
                 {
                     "artifact": {
+                        "size": 208987,
+                        "MD5": "ef8308b3117b874724f84b3c34a9a264",
+                        "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/4cUITzT8/fusion-1.1.1-fabric-mc1.21.jar",
+                        "path": "mods/fusion-1.1.1-fabric-mcl.21.jar"
+                    },
+                    "id": "fabric.mod:fusion:1.1.1",
+                    "name": "Fusion",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
