@@ -1013,6 +1013,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "e2cd19e68658258203894c8318145a7b",
+                        "size": 18950,
+                        "url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/yuNlrAGu/Fishingreal-1.21-1.9.0.jar",
+                        "path": "mods/fishingreal-1.21-1.9.0.jar"
+                    },
+                    "id": "fabric.mod:fishingreal-1.21-1.9.0",
+                    "name": "Fishing Real",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
