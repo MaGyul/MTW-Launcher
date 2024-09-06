@@ -1025,6 +1025,30 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "f2c42277c474797dd0a430fbbfc37c88",
+                        "size": 1144380,
+                        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7jtvrmVP/cloth-config-15.0.130-fabric.jar",
+                        "path": "fabric.mod:cloth-config-15.0.130-fabric.jar"
+                    },
+                    "id": "fabric.mod:cloth-config-15.0.130-fabric",
+                    "name": "Cloth Config Api",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "3dfd117080e09d0f2ddfcc43167ba37b",
+                        "size": 127197,
+                        "url": "https://cdn.modrinth.com/data/fYYSAh4R/versions/tC2FE4FT/realcamera-1.21-fabric-0.6.1-beta.jar",
+                        "path": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta.jar"
+                    },
+                    "id": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta",
+                    "name": "Real Camera",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
