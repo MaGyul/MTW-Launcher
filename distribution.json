@@ -1021,7 +1021,7 @@
                     "id": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta",
                     "name": "Real Camera",
                     "type": "File",
-                    "server": true
+                    "server": false
                 },
                 {
                     "artifact": {
