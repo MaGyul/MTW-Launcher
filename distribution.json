@@ -1013,6 +1013,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "e60587c19d119d0f9b59bd86119e9640",
+                        "size": 118029,
+                        "url": "https://cdn.modrinth.com/data/H5XMjpHi/versions/PxI34t92/firstperson-fabric-2.4.4-mc1.21.jar",
+                        "path": "mods/firstperson-fabric-2.4.4-mc1.21.jar"
+                    },
+                    "id": "fabric.mod:firstperson:2.4.4",
+                    "name": "First-person Model",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
                         "MD5": "3dfd117080e09d0f2ddfcc43167ba37b",
                         "size": 127197,
                         "url": "https://cdn.modrinth.com/data/fYYSAh4R/versions/tC2FE4FT/realcamera-1.21-fabric-0.6.1-beta.jar",
@@ -1022,6 +1034,18 @@
                     "name": "Real Camera",
                     "type": "File",
                     "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "41f96b153bc951f7e2daf4a783726083",
+                        "size": 147465,
+                        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/cb9rzzkK/connectiblechains-2.4.1+1.21.jar",
+                        "path": "mods/connectiblechains-2.4.1+1.21.jar"
+                    },
+                    "id": "fabric.mod:connectiblechains-2.4.1+1.21",
+                    "name": "Connectible Chains",
+                    "type": "File",
+                    "server": true
                 },
                 {
                     "artifact": {
