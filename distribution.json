@@ -4,7 +4,6 @@
     "discord": {
         "clientId": "0",
         "smallImageText": "",
-        
         "smallImageKey": ""
     },
     "servers": [
@@ -1035,6 +1034,30 @@
                     "name": "Connectible Chains",
                     "type": "File",
                     "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "f0aac5788e0c7ba08c068c495aefdbd2",
+                        "size": 87037,
+                        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/cIHtzziG/cicada-lib-0.8.3+1.21-and-above.jar",
+                        "path": "mods/cicada-lib-0.8.3+1.21-and-above.jar"
+                    },
+                    "id": "fabric.mod:cicada-lib-0.8.3+1.21-and-above",
+                    "name": "Cicada Lib",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "c464d9451dab8bf202b28915741edc3a",
+                        "size": 506915,
+                        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2+1.21.jar",
+                        "path": "mods/do_a_barrel_roll-fabric-3.6.2+1.21.jar"
+                    },
+                    "id": "fabric.mod:do_a_barrel_roll-fabric-3.6.2+1.21",
+                    "name": "Do A Barrel Roll",
+                    "type": "File",
+                    "server": false
                 },
                 {
                     "artifact": {
