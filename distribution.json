@@ -1016,7 +1016,7 @@
                         "MD5": "3dfd117080e09d0f2ddfcc43167ba37b",
                         "size": 127197,
                         "url": "https://cdn.modrinth.com/data/fYYSAh4R/versions/tC2FE4FT/realcamera-1.21-fabric-0.6.1-beta.jar",
-                        "path": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta.jar"
+                        "path": "mods/realcamera-1.21-fabric-0.6.1-beta.jar"
                     },
                     "id": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta",
                     "name": "Real Camera",
