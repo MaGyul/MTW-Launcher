@@ -1085,6 +1085,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "58069266ed3286d535ca0a5f1e085961",
+                        "size": 194588,
+                        "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1+1.21.jar",
+                        "path": "mods/player-animation-lib-fabric-2.0.0-alpha1+1.21.jar"
+                    },
+                    "id": "fabric.mod:player-animation-lib-fabric-2.0.0-alpha1+1.21",
+                    "name": "Player animation Lib",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
