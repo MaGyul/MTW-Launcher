@@ -1097,18 +1097,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "b536b678befae2687f87ca648b80471e",
-                        "size": 274579,
-                        "url": "https://cdn.modrinth.com/data/XmqpPthc/versions/IVv10wyr/FastMove-1.21-1.0.8.jar",
-                        "path": "mods/FastMove-1.21-1.0.8.jar"
-                    },
-                    "id": "fabric.mod:FastMove-1.21-1.0.8",
-                    "name": "Fast Move",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
