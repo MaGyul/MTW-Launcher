@@ -821,18 +821,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "0b097fe0d54e1f1683c803c1d12bf6dd",
-                        "size": 83976,
-                        "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/xl0PX3KR/Controlling-fabric-1.21-18.0.4.jar",
-                        "path": "mods/Controlling-fabric-1.21-18.0.4.jar"
-                    },
-                    "id": "fabric.mod:controlling:18.0.4",
-                    "name": "Controlling",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
                         "MD5": "f45409f9c8eb29bfa4079cc99d074aaf",
                         "size": 1947343,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.0/mtwmod-1.14.0.jar",
