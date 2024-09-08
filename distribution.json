@@ -1061,6 +1061,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "20119eae6f6aa14ff74399a9247c74eb",
+                        "size": 784317,
+                        "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/6z0WKPQn/bettercombat-fabric-2.0.1+1.21.1.jar",
+                        "path": "mods/bettercombat-fabric-2.0.1+1.21.1.jar"
+                    },
+                    "id": "fabric.mod:bettercombat-fabric-2.0.1+1.21.1",
+                    "name": "Better Combat",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
                         "MD5": "4d3b802ca071b92144e5599bd1f998a0",
                         "size": 223237,
                         "url": "https://cdn.modrinth.com/data/Sb5ypgDP/versions/m6cPF4yu/rocks-1.8.2.jar",
