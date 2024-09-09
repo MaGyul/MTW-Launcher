@@ -1109,6 +1109,18 @@
                 },
                 {
                     "artifact": {
+                        "MD5": "0e357d8b5653b2a563dc3878723d3291",
+                        "size": 57022,
+                        "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar",
+                        "path": "mods/CameraOverhaul-1.4.1-fabric-universal.jar"
+                    },
+                    "id": "fabric.mod:CameraOverhaul-1.4.1-fabric-universal",
+                    "name": "Camera Overhaul",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
                         "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
                         "size": 1912000,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
