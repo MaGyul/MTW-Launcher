@@ -24,71 +24,71 @@
             "modules": [
                 {
                     "artifact": {
-                        "MD5": "9e96a8f9424744e3e9b43f942975da34",
-                        "size": 1368445,
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
+                        "MD5": "27a6ef87676ce6316c777d81c1cd2962",
+                        "size": 1387357,
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.16.0",
+                    "id": "net.fabricmc:fabric-loader:0.16.9",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "074c9737c8e5574a9e2788ceb142c436",
-                                "size": 2841,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.16.0-1.21/fabric-loader-0.16.0-1.21.json"
+                                "MD5": "beac8c2ddcb76311af665a8c3f8768bd",
+                                "size": 3256,
+                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.16.9-1.20.1/fabric-loader-0.16.9-1.20.1.json"
                             },
-                            "id": "0.16.0-1.21",
+                            "id": "0.16.9-1.20.1",
                             "name": "Minecraft Fabric (version.json)",
                             "type": "VersionManifest"
                         },
                         {
                             "artifact": {
-                                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                                "size": 123598,
-                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                                "size": 126093,
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
                             },
-                            "id": "org.ow2.asm:asm:9.6",
+                            "id": "org.ow2.asm:asm:9.7.1",
                             "name": "Minecraft Fabric (asm)",
                             "type": "Library"
                         },
                         {
                             "artifact": {
-                                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                                "size": 34041,
-                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                                "size": 35126,
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
                             },
-                            "id": "org.ow2.asm:asm-analysis:9.6",
+                            "id": "org.ow2.asm:asm-analysis:9.7.1",
                             "name": "Minecraft Fabric (asm-analysis)",
                             "type": "Library"
                         },
                         {
                             "artifact": {
-                                "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                                "size": 72194,
-                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                                "size": 73459,
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
                             },
-                            "id": "org.ow2.asm:asm-commons:9.6",
+                            "id": "org.ow2.asm:asm-commons:9.7.1",
                             "name": "Minecraft Fabric (asm-commons)",
                             "type": "Library"
                         },
                         {
                             "artifact": {
-                                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                                "size": 51935,
-                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                                "size": 51939,
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
                             },
-                            "id": "org.ow2.asm:asm-tree:9.6",
+                            "id": "org.ow2.asm:asm-tree:9.7.1",
                             "name": "Minecraft Fabric (asm-tree)",
                             "type": "Library"
                         },
                         {
                             "artifact": {
-                                "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                                "size": 91131,
-                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                                "size": 94519,
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
                             },
-                            "id": "org.ow2.asm:asm-util:9.6",
+                            "id": "org.ow2.asm:asm-util:9.7.1",
                             "name": "Minecraft Fabric (asm-util)",
                             "type": "Library"
                         },
@@ -98,17 +98,17 @@
                                 "size": 1494859,
                                 "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
                             },
-                            "id": "net.fabricmc:sponge-mixin:0.15.0+mixin.0.8.7",
+                            "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
                             "name": "Minecraft Fabric (sponge-mixin)",
                             "type": "Library"
                         },
                         {
                             "artifact": {
-                                "MD5": "4698a01c8408c4033c8f24e199960b23",
-                                "size": 657632,
-                                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
+                                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                                "size": 573365,
+                                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
                             },
-                            "id": "net.fabricmc:intermediary:1.21",
+                            "id": "net.fabricmc:intermediary:1.20.1",
                             "name": "Minecraft Fabric (intermediary)",
                             "type": "Library"
                         },
@@ -149,262 +149,10 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3cbfc1a4a3776cc2ba74155150a28394",
-                        "size": 2285859,
-                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0+1.21.jar",
-                        "path": "mods/fabric-api-0.102.0+1.21.jar"
-                    },
-                    "id": "fabric.mod:fabric-api:0.102.0",
-                    "name": "Fabric API",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "2d6904baa4c36b0b1f5edf266464345c",
-                        "size": 470954,
-                        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/h12GehRH/skinlayers3d-fabric-1.6.7-mc1.21.jar",
-                        "path": "mods/skinlayers3d-fabric-1.6.7-mc1.21.jar"
-                    },
-                    "id": "fabric.mod:skinlayers3d:1.6.7",
-                    "name": "3D Skin Layers",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "b32b1a21807a7309f713d7bb1eae3023",
-                        "size": 6577267,
-                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/anabvqRL/voicechat-fabric-1.21.1-2.5.21.jar",
-                        "path": "mods/voicechat-fabric-1.21.1-2.5.21.jar"
-                    },
-                    "id": "fabric.mod:voicechat:2.5.21",
-                    "name": "Simple Voice Chat",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "6c1f78cb7d596f5e4e50725bab6b7989",
-                        "size": 982671,
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11+mc1.21.jar",
-                        "path": "mods/sodium-fabric-0.5.11+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:sodium-fabric:0.5.11",
-                    "name": "Sodium",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "98974dd3a3d06383327f215b7a3479e1",
-                        "size": 7151219,
-                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/kdDGGNEt/fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar",
-                        "path": "mods/fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar"
-                    },
-                    "id": "fabric.mod:fabric-language-kotlin:1.12.0",
-                    "name": "Fabric Language Kotlin",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "7c844412fec4efcf3e94d93c454bf068",
-                        "size": 601460,
-                        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2+1.21.jar",
-                        "path": "mods/optigui-2.3.0-beta.2+1.21.jar"
-                    },
-                    "id": "fabric.mod:optigui:2.3.0-beta.2",
-                    "name": "OptiGui",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "9ad5f7379354ca2eefdf4dd2ec3a1fa7",
-                        "size": 975323,
-                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3ib3Uvvv/modmenu-11.0.2.jar",
-                        "path": "mods/modmenu-11.0.2.jar"
-                    },
-                    "id": "fabric.mod:modmenu:11.0.2",
-                    "name": "Mod Menu",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "cbc77d11aa16e9b4a9f9e1f35ee21575",
-                        "size": 259071,
-                        "url": "https://cdn.modrinth.com/data/51shyZVL/versions/BUxgeDdf/moreculling-1.21-0.26.0.jar",
-                        "path": "mods/moreculling-1.21-0.26.0.jar"
-                    },
-                    "id": "fabric.mod:moreculling:0.26.0",
-                    "name": "More Culling",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "f2c42277c474797dd0a430fbbfc37c88",
-                        "size": 1144380,
-                        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7jtvrmVP/cloth-config-15.0.130-fabric.jar",
-                        "path": "mods/cloth-config-15.0.130-fabric.jar"
-                    },
-                    "id": "fabric.mod:cloth-config:15.0.130",
-                    "name": "Cloth Config API",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "800f68650b6b684705a19582f615585b",
-                        "size": 375625,
-                        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7+mc1.21.jar",
-                        "path": "mods/sodium-extra-0.5.7+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:sodium-extra:0.5.7",
-                    "name": "Sodium Extra",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "0316245b17bfa2298808802c2efc33f4",
-                        "size": 247961,
-                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ahszC7KU/ImmediatelyFast-Fabric-1.2.21+1.21.1.jar",
-                        "path": "mods/ImmediatelyFast-Fabric-1.2.21+1.21.1.jar"
-                    },
-                    "id": "fabric.mod:immediatelyfast:1.2.21",
-                    "name": "ImmediatelyFast",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "16c9b91d058d1a4be4e2c3cff5ad8102",
-                        "size": 2707610,
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3+mc1.21.jar",
-                        "path": "mods/iris-1.7.3+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:iris:1.7.3",
-                    "name": "Iris Shaders",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "248e6c461c2ded43a73964ba27bf798b",
-                        "size": 423938,
-                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hux9vLhA/entity_model_features_fabric_1.21-2.2.2.jar",
-                        "path": "mods/entity_model_features_fabric_1.21-2.2.2.jar"
-                    },
-                    "id": "fabric.mod:entity_model_features:2.2.2",
-                    "name": "Entity Model Features",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "1ddbbc01996bb1af521b1ca292cb627e",
-                        "size": 809543,
-                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/vg7GaKbh/Zoomify-2.14.0+1.21.jar",
-                        "path": "mods/Zoomify-2.14.0+1.21.jar"
-                    },
-                    "id": "fabric.mod:zoomify:2.14.0",
-                    "name": "Zoomify",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "e174262d1ef8ace21ea2c1c0fa80fca8",
-                        "size": 117333,
-                        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
-                        "path": "mods/ferritecore-7.0.0-fabric.jar"
-                    },
-                    "id": "fabric.mod:ferritecore:7.0.0",
-                    "name": "Ferrite Core",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "41e1871f48bd4d9b8221021897b0274b",
-                        "size": 1150467,
-                        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0+1.21-fabric.jar",
-                        "path": "mods/YetAnotherConfigLib-3.5.0+1.21-fabric.jar"
-                    },
-                    "id": "fabric.mod:yetanotherconfiglib:3.5.0",
-                    "name": "YetAnotherConfigLib",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "c1428c62088f2c5599d49925b9de850c",
-                        "size": 175578,
-                        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RZDYy0mt/dynamic-fps-3.6.3+minecraft-1.21.0-fabric.jar",
-                        "path": "mods/dynamic-fps-3.6.3+minecraft-1.21.0-fabric.jar"
-                    },
-                    "id": "fabric.mod:dynamic-fps:3.6.3",
-                    "name": "Dynamic Fps",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "3a08ad4aaa101fa3e7ebe26d29cfd4ed",
-                        "size": 78230,
-                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3+mc1.21.jar",
-                        "path": "mods/reeses_sodium_options-1.7.3+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:reeses_sodium_options:1.7.3",
-                    "name": "Reese's Sodium Options",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "6111a16df08f28af48e5086cc6ed4ec3",
-                        "size": 73307,
-                        "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0+mc1.21-build.54.jar",
-                        "path": "mods/fsb-interop-1.4.0+mc1.21-build.54.jar"
-                    },
-                    "id": "fabric.mod:fsb-interop:1.4.0",
-                    "name": "FabricSkyBoxes Interop",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "bfcac046e1b6a6b4f9177e39319b3d85",
-                        "size": 206127,
-                        "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4+mc1.21.jar",
-                        "path": "mods/fabricskyboxes-0.7.4+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:skyboxes:0.7.4",
-                    "name": "FabricSkyboxes",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "f605159edee9a7b52950a3c6ac669f00",
-                        "size": 752743,
-                        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NTZCh7rb/lithium-fabric-mc1.21-0.13.0.jar",
-                        "path": "mods/lithium-fabric-mc1.21-0.13.0.jar"
-                    },
-                    "id": "fabric.mod:lithium:0.13.0",
-                    "name": "Lithium",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "b66525f1766280f5460c9536b08a243e",
-                        "size": 71502,
-                        "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/LHBm6fEV/animatica-0.6.1+1.21.jar",
-                        "path": "mods/animatica-0.6.1+1.21.jar"
+                        "MD5": "62f56949e2f934073f5576fc4758ff4f",
+                        "size": 71415,
+                        "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/M2xzBL7h/animatica-0.6.1+1.20.4.jar",
+                        "path": "mods/animatica-0.6.1.jar"
                     },
                     "id": "fabric.mod:animatica:0.6.1",
                     "name": "Animatica",
@@ -413,322 +161,454 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "9fcce225f25b6fd17921c87ff1c720f1",
-                        "size": 17373,
-                        "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar",
-                        "path": "mods/yosbr-0.1.2.jar"
+                        "MD5": "bbe92bbeebb56317ccbc8102ff53acaf",
+                        "size": 1327308,
+                        "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/69OXbLTn/Armor%20of%20the%20Ages-fabric-1.20.1-1.3.2.jar",
+                        "path": "mods/armor-of-the-ages-1.3.2.jar"
                     },
-                    "id": "fabric.mod:yosbr:0.1.2",
-                    "name": "Yosbr",
+                    "id": "fabric.mod:armor-of-the-ages:1.3.2",
+                    "name": "Armor of the Ages",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "58404924cc65c754cea959b2921d76fd",
-                        "size": 421567,
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/i8GSONFm/modernfix-fabric-5.19.1+mc1.21.jar",
-                        "path": "mods/modernfix-fabric-5.19.1+mc1.21.jar"
+                        "MD5": "8f9e0fbb3cee3f2b491d5ce3adde9bbc",
+                        "size": 39327844,
+                        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jGbJ87UX/Axiom-4.6.2-for-MC1.20.1.jar",
+                        "path": "mods/axiom-4.6.2.jar"
                     },
-                    "id": "fabric.mod:modernfix:5.19.1",
-                    "name": "Modernfix",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "3521292b60a550e76c63147e40bd1f74",
-                        "size": 65591,
-                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/kPbJu8eF/entityculling-fabric-1.7.0-mc1.21.jar",
-                        "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar"
-                    },
-                    "id": "fabric.mod:entityculling:1.7.0",
-                    "name": "Entity Culling",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "f8fb8a06169fa0013fcfe339d2a0792b",
-                        "size": 606369,
-                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/7SQiYQty/entity_texture_features_fabric_1.21-6.2.2.jar",
-                        "path": "mods/entity_texture_features_fabric_1.21-6.2.2.jar"
-                    },
-                    "id": "fabric.mod:entity_texture_features:6.2.2",
-                    "name": "Entity Texture Features",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "4cf57d8c0b73d6a00b22224384953de8",
-                        "size": 627640,
-                        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/GOreNSW6/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
-                        "path": "mods/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:forgeconfigapiport:21.0.8",
-                    "name": "Forge Config API Port",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "ad0111a45f40b6d3f75f409104a82976",
-                        "size": 6105795,
-                        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/vBzkrSYP/worldedit-mod-7.3.6.jar",
-                        "path": "mods/worldedit-mod-7.3.6.jar"
-                    },
-                    "id": "fabric.mod:worldedit:7.3.6",
-                    "name": "WorldEdit",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "ec9dfd607097e4388afc239161c362b4",
-                        "size": 39186087,
-                        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/D3uDJmiB/Axiom-3.2.1-for-MC1.21.jar",
-                        "path": "mods/Axiom-3.2.1-for-MC1.21.jar"
-                    },
-                    "id": "fabric.mod:axiom:3.2.1",
+                    "id": "fabric.mod:axiom:4.6.2",
                     "name": "Axiom",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "756ab57b8423d5f28075d2dbe30467c3",
-                        "size": 1195569,
-                        "url": "https://cdn.modrinth.com/data/cXzT4g5D/versions/SUvTiY2B/Axiom-Korean-Support-1.0.3.jar",
-                        "path": "mods/Axiom-Korean-Support-1.0.3.jar"
+                        "MD5": "bf84b545ff5169cec045c718badd4d23",
+                        "size": 288901,
+                        "url": "https://cdn.modrinth.com/data/sc2Pektv/versions/P2kARD78/basicweapons-1.2.5+1.20.1.jar",
+                        "path": "mods/basicweapons-1.2.5.jar"
                     },
-                    "id": "fabric.mod:axiom-korean-support:1.0.3",
-                    "name": "Axiom Korean Support",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "248b5a8b794066ea61dec98ebcf7d6c4",
-                        "size": 195316,
-                        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar",
-                        "path": "mods/sound-physics-remastered-fabric-1.21.1-1.4.6.jar"
-                    },
-                    "id": "fabric.mod:sound-physics-remastered:1.4.6",
-                    "name": "Sound Physics Remastered",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "2a07285b326c0d9734517f16f2cace81",
-                        "size": 4262,
-                        "url": "https://cdn.modrinth.com/data/rWWg19G8/versions/BPHLorm7/noblockoverlay-1.0.jar",
-                        "path": "mods/noblockoverlay-1.0.jar"
-                    },
-                    "id": "fabric.mod:noblockoverlay:1.0",
-                    "name": "No Block Overlay",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "af2ed062c76b8a91c73be3fee2e51896",
-                        "size": 139952157,
-                        "url": "https://www.patreon.com/file?h=109708653&i=20080240",
-                        "path": "mods/physics-mod-1.21.0-fabric.jar"
-                    },
-                    "id": "fabric.mod:physics-mod:1.7.1",
-                    "name": "Physics Mod",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "532f7a78f80fe9886a8ffc2d163f94ad",
-                        "size": 1177772,
-                        "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ee9C5Y9X/CreativeCore_FABRIC_v2.12.9_mc1.21.jar",
-                        "path": "mods/CreativeCore_FABRIC_v2.12.9_mc1.21.jar"
-                    },
-                    "id": "fabric.mod:creativecore:2.12.9",
-                    "name": "CreativeCore",
+                    "id": "fabric.mod:basicweapons:1.2.5",
+                    "name": "Basic Weapons",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "161eb65cebcd1238a4d914ab5cf79f67",
-                        "size": 4732796,
-                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/cUpDhzdD/EnhancedVisuals_FABRIC_v1.8.9_mc1.21.jar",
-                        "path": "mods/EnhancedVisuals_FABRIC_v1.8.9_mc1.21.jar"
+                        "MD5": "22bf7c885e2e3362eb21266d852318bc",
+                        "size": 189405,
+                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/MHbM03Bv/BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar",
+                        "path": "mods/better-animations-collection-8.0.0.jar"
                     },
-                    "id": "fabric.mod:enhancedvisuals:1.8.9",
-                    "name": "EnhancedVisuals",
+                    "id": "fabric.mod:better-animations-collection:8.0.0",
+                    "name": "Better Animations Collection",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "8d474709e691da55e5d3bd6169184dbc",
+                        "size": 902833,
+                        "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/qxfX3jsR/bettercombat-fabric-1.8.6+1.20.1.jar",
+                        "path": "mods/better-combat-1.8.6.jar"
+                    },
+                    "id": "fabric.mod:better-combat:1.8.6",
+                    "name": "Better Combat",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "1106a5eca3555e9be35719bd2210b080",
-                        "size": 140965748,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.5-resource/mtwmod-resource-1.0.5.jar",
-                        "path": "mods/mtwmod-resource-1.0.5.jar"
+                        "MD5": "06ab59e58889f48558a7c64585b19540",
+                        "size": 152505,
+                        "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/xJ2DDo8e/CameraOverhaul-v2.0.3-fabric+mc%5B1.20.0-1.20.5%5D.jar",
+                        "path": "mods/cameraoverhaul-2.0.3.jar"
                     },
-                    "id": "fabric.mod:mtwmod-resource:1.0.5",
-                    "name": "MTW Mod (resource)",
+                    "id": "fabric.mod:cameraoverhaul:2.0.3",
+                    "name": "Camera Overhaul",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "45d8bada7797af61d1f5543313b1f9f0",
+                        "size": 1172214,
+                        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+                        "path": "mods/cloth-config-11.1.136.jar"
+                    },
+                    "id": "fabric.mod:cloth-config:11.1.136",
+                    "name": "Cloth Config API",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "8d5392421a382029833394912a0a418d",
-                        "size": 164478,
-                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/ue2maFEp/fallingleaves-1.16.2+1.21.jar",
-                        "path": "mods/fallingleaves-1.16.2+1.21.jar"
+                        "MD5": "96f6261f2e2153f195785d6836813f1d",
+                        "size": 191873,
+                        "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3+1.20.1.jar",
+                        "path": "mods/combat-roll-1.3.3.jar"
                     },
-                    "id": "fabric.mod:fallingleaves:1.16.2",
-                    "name": "Falling Leaves",
+                    "id": "fabric.mod:combat-roll:1.3.3",
+                    "name": "Combat Roll",
                     "type": "File",
-                    "server": false
+                    "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "beec4b69f405f1551ad0208be04b5c53",
-                        "size": 157974,
-                        "url": "https://cdn.modrinth.com/data/Pf8PJBb5/versions/vQCDu463/darkness-fabric-1.1.2-mc1.21.jar",
-                        "path": "mods/darkness-fabric-1.1.2-mc1.21.jar"
+                        "MD5": "96f2929ef2171dae22b807bb3d4b46a7",
+                        "size": 138285,
+                        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/qSAa0vuB/connectiblechains-2.2.1+1.20.1.jar",
+                        "path": "mods/connectiblechains-2.2.1.jar"
                     },
-                    "id": "fabric.mod:truedarkness:1.1.2",
-                    "name": "True Darkness Refabricated",
+                    "id": "fabric.mod:connectiblechains:2.2.1",
+                    "name": "Connectible Chains",
                     "type": "File",
-                    "server": false
+                    "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "2f842ec35ec49b869047786de5551420",
-                        "size": 863192,
-                        "url": "https://cdn.modrinth.com/data/M08ruV16/versions/oeSOphtG/bobby-5.2.4+mc1.21.jar",
-                        "path": "mods/bobby-5.2.4+mc1.21.jar"
+                        "MD5": "d180631d4db7588393f1d0c280593bc3",
+                        "size": 1016063,
+                        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/qGTDcjHM/continuity-3.0.0+1.20.1.jar",
+                        "path": "mods/continuity-3.0.0.jar"
                     },
-                    "id": "fabric.mod:bobby:5.2.4",
-                    "name": "Bobby",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "db92c620cb72a41403b928a0b45955d0",
-                        "size": 105000,
-                        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35+mc1.21.jar",
-                        "path": "mods/indium-1.0.35+mc1.21.jar"
-                    },
-                    "id": "fabric.mod:indium:1.0.35",
-                    "name": "Indium",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "5dbddb03e65aab36602eb780453ec9f0",
-                        "size": 142150,
-                        "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/2pBwdDy2/puzzle-1.6.3+1.21.jar",
-                        "path": "mods/puzzle-1.6.3+1.21.jar"
-                    },
-                    "id": "fabric.mod:puzzle:1.6.3",
-                    "name": "Puzzle",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "76cc5ef070333d867512fcf2cc6286ac",
-                        "size": 55827,
-                        "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/fbzkv9Iu/cubes-without-borders-2.1.1+1.21.jar",
-                        "path": "mods/cubes-without-borders-2.1.1+1.21.jar"
-                    },
-                    "id": "fabric.mod:cubes-without-borders:2.1.1",
-                    "name": "Cubes Without Borders",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "2d03b07fcacb211ff80f34f25b4e2ff5",
-                        "size": 68960,
-                        "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/fpDBBXvT/language-reload-1.6.1+1.21.jar",
-                        "path": "mods/language-reload-1.6.1+1.21.jar"
-                    },
-                    "id": "fabric.mod:language-reload:1.6.1",
-                    "name": "Language Reload",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "cd7dbc5efe7f19078ef7609a323e347a",
-                        "size": 1007136,
-                        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5+1.21.jar",
-                        "path": "mods/continuity-3.0.0-beta.5+1.21.jar"
-                    },
-                    "id": "fabric.mod:continuity:3.0.0-beta.5",
+                    "id": "fabric.mod:continuity:3.0.0",
                     "name": "Continuity",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "85ef161678a4eef2b779c9cf9f2e027b",
-                        "size": 144266,
-                        "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/INOJp2Dt/threadtweak-fabric-0.1.4+mc1.21.jar",
-                        "path": "mods/threadtweak-fabric-0.1.4+mc1.21.jar"
+                        "MD5": "693b2f07bf2b8280507f32d52bca388e",
+                        "size": 97866,
+                        "url": "https://cdn.modrinth.com/data/H1JOVjhn/versions/G7rwJQKo/crawl-0.12.0.jar",
+                        "path": "mods/crawl-0.12.0.jar"
                     },
-                    "id": "fabric.mod:threadtweak:0.1.4",
-                    "name": "ThreadTweak",
+                    "id": "fabric.mod:crawl:0.12.0",
+                    "name": "Crawl",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "884e3ff8c615f4a8c62c2c703c7af3f1",
-                        "size": 130441,
-                        "url": "https://cdn.modrinth.com/data/HfZKWsjM/versions/iDbz9ykR/better-suggestions-1.21-1.2.7.1.jar",
-                        "path": "mods/better-suggestions-1.21-1.2.7.1.jar"
+                        "MD5": "ab044fdd2ad3dbba64f4000777dc973d",
+                        "size": 1208841,
+                        "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ex1iqbF5/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
+                        "path": "mods/creativecore-2.12.24.jar"
                     },
-                    "id": "fabric.mod:better-suggestions:1.2.7.1",
-                    "name": "Better Suggestions",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "53c2c34b7b12a817c7816ca388081ab9",
-                        "size": 425981,
-                        "url": "https://cdn.modrinth.com/data/h3r1moh7/versions/918HsaTO/cmdkeybind-1.6.3-1.20.4.jar",
-                        "path": "mods/cmdkeybind-1.6.3-1.20.4.jar"
-                    },
-                    "id": "fabric.mod:cmdkeybind:1.6.3",
-                    "name": "Command Macros",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "fc3c1757e7c7275a891ec69b4b763a80",
-                        "size": 3213931,
-                        "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/7vcXYdsz/journeymap-fabric-1.21-6.0.0-beta.20.jar",
-                        "path": "mods/journeymap-fabric-1.21-6.0.0-beta.20.jar"
-                    },
-                    "id": "fabric.mod:journeymap:6.0.0-beta.20",
-                    "name": "JourneyMap",
+                    "id": "fabric.mod:creativecore:2.12.24",
+                    "name": "CreativeCore",
                     "type": "File",
                     "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "9db484c9f7c3df4170bb0ea9a93fb2fd",
+                        "size": 1411246,
+                        "url": "https://cdn.modrinth.com/data/meZK2DCX/versions/J6b05anw/dawn-5.0.0.jar",
+                        "path": "mods/dawn-5.0.0.jar"
+                    },
+                    "id": "fabric.mod:dawn:5.0.0",
+                    "name": "Dawn API",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "e76d148e4681fd3e8911cbe54375dddd",
+                        "size": 167185,
+                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/eJNY2Ah4/DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+                        "path": "mods/diagonal-fences-8.1.5.jar"
+                    },
+                    "id": "fabric.mod:diagonal-fences:8.1.5",
+                    "name": "Diagonal Fences",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "a9383871df3fdb963542070ad775700c",
+                        "size": 167797,
+                        "url": "https://cdn.modrinth.com/data/oOi0CKes/versions/mwIl45jn/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar",
+                        "path": "mods/diagonal-windows-8.1.5.jar"
+                    },
+                    "id": "fabric.mod:diagonal-windows:8.1.5",
+                    "name": "Diagonal Windows",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "934fbe9ae66ec15a451936fbd40e8d67",
+                        "size": 158486,
+                        "url": "https://cdn.modrinth.com/data/FQgc8dib/versions/uAsQHTvk/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar",
+                        "path": "mods/diagonal-wallse-8.0.4.jar"
+                    },
+                    "id": "fabric.mod:diagonal-wallse:8.0.4",
+                    "name": "Diagonal Walls",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "ce2a31ed552ae0d8aa0fc9aeed363aea",
+                        "size": 1414664,
+                        "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/kJkE9dfS/embeddium-fabric-0.3.25+mc1.20.1.jar",
+                        "path": "mods/embeddium-0.3.25.jar"
+                    },
+                    "id": "fabric.mod:embeddium:0.3.25",
+                    "name": "Embedduim",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "011a6dc5c8062c7a8501e54deb06b0fd",
+                        "size": 4728243,
+                        "url": "https://cdn.modrinth.com/data/KjL0jE2w/versions/xuNOlNeS/EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar",
+                        "path": "mods/enhancedvisuals-1.8.2.jar"
+                    },
+                    "id": "fabric.mod:enhancedvisuals:1.8.2",
+                    "name": "EnhancedVisuals",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "9979ce497513b57a72175d80167a3fe5",
+                        "size": 444272,
+                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/X2NBK99f/entity_model_features_fabric_1.20.1-2.4.1.jar",
+                        "path": "mods/entity-model-features-2.4.1.jar"
+                    },
+                    "id": "fabric.mod:entity-model-features:2.4.1",
+                    "name": "Entity Model Features",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "69e81059aa60c49bc9c97918d4640edd",
+                        "size": 652400,
+                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/WvkMQbYb/entity_texture_features_fabric_1.20.1-6.2.9.jar",
+                        "path": "mods/entitytexturefeatures-6.2.9.jar"
+                    },
+                    "id": "fabric.mod:entitytexturefeatures:6.2.9",
+                    "name": "Entity Texture Features",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "53aea705ac36c53780106bde3e22ab86",
+                        "size": 480907,
+                        "url": "https://cdn.modrinth.com/data/EO8aSHxh/versions/sXx5EPib/eureka-1201-1.5.1-beta.3.jar",
+                        "path": "mods/eureka-1.5.1.jar"
+                    },
+                    "id": "fabric.mod:eureka:1.5.1",
+                    "name": "Eureka",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "9d6b286586e9d6b40ee161dee1dd271f",
+                        "size": 2107841,
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PB9Kjpo3/fabric-api-0.92.5+1.20.1.jar",
+                        "path": "mods/fabric-api-0.92.5.jar"
+                    },
+                    "id": "fabric.mod:fabric-api:0.92.5",
+                    "name": "Fabric API",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "1d13a592b3c329e2bc10b658161e8429",
+                        "size": 156773,
+                        "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6+1.20.1.jar",
+                        "path": "mods/Ffallingleaves-1.15.6.jar"
+                    },
+                    "id": "fabric.mod:Ffallingleaves:1.15.6",
+                    "name": "Falling Leaves",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "7dd3394a0da1c3b768631d7c7ec47a30",
+                        "size": 397239,
+                        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/1aKtMQZE/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+                        "path": "mods/forge-config-api-port-8.0.2.jar"
+                    },
+                    "id": "fabric.mod:forge-config-api-port:8.0.2",
+                    "name": "Forge Config API Port",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "7b11752ea39c98fd58519756f4643d81",
+                        "size": 19418,
+                        "url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/wajSCh7f/Fishingreal-1.20.1-1.7.2.jar",
+                        "path": "mods/fishing-real-1.7.2.jar"
+                    },
+                    "id": "fabric.mod:fishing-real:1.7.2",
+                    "name": "Fishing Real",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "45577adb5ab16505572c6ea4b1006e58",
+                        "size": 2726899,
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6+mc1.20.1.jar",
+                        "path": "mods/iris-1.7.6.jar"
+                    },
+                    "id": "fabric.mod:iris:1.7.6",
+                    "name": "Iris Shaders",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "9f91779d5d6e318a3037367428aa0c11",
+                        "size": 1498450,
+                        "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/vXiIlQ0y/Kiwi-1.20.1-Fabric-11.8.28.jar",
+                        "path": "mods/kiwi-11.8.28.jar"
+                    },
+                    "id": "fabric.mod:kiwi:11.8.28",
+                    "name": "Kiwi",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "99be4d4c675810c095aafff54528aaf5",
+                        "size": 1086351,
+                        "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/B4DKgMlC/lambdynamiclights-4.1.0+1.20.1.jar",
+                        "path": "mods/lambdynamiclights-4.1.0.jar"
+                    },
+                    "id": "fabric.mod:lambdynamiclights:4.1.0",
+                    "name": "LambDynamicLights",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "2629511a2d3b141d9f2a24dc9685637e",
+                        "size": 721366,
+                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
+                        "path": "mods/modmenu-7.2.2.jar"
+                    },
+                    "id": "fabric.mod:modmenu:7.2.2",
+                    "name": "Mod Menu",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "3a62d62b4ec9160d019883ec54bccf78",
+                        "size": 2027734,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.15.2/mtwmod-1.15.2.jar",
+                        "path": "mods/mtwmod-1.15.2.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.15.2",
+                    "name": "MTWMod",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "6178dd23fc510a42d32708c0c2e0f52d",
+                        "size": 140966076,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.6-resource/mtwmod-resource-1.0.6.jar",
+                        "path": "mods/mtwmod-resource-1.0.6.jar"
+                    },
+                    "id": "fabric.mod:mtwmod-resource:1.0.6",
+                    "name": "MTWMod Resource",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "e38a3d26ec2246667afb418630438daa",
+                        "size": 37533,
+                        "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/bgc6xYvl/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+                        "path": "mods/necronomicon-1.6.0.jar"
+                    },
+                    "id": "fabric.mod:necronomicon:1.6.0",
+                    "name": "Necronomicon API",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "2a07285b326c0d9734517f16f2cace81",
+                        "size": 4262,
+                        "url": "https://cdn.modrinth.com/data/rWWg19G8/versions/BPHLorm7/noblockoverlay-1.0.jar",
+                        "path": "mods/noblockoverlay-1.0.0.jar"
+                    },
+                    "id": "fabric.mod:noblockoverlay:1.0.0",
+                    "name": "No Block Overlay",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "15f87235b083421c427f01ee5c153366",
+                        "size": 450578,
+                        "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/sXmCy47p/notenoughanimations-fabric-1.9.2-mc1.20.1.jar",
+                        "path": "mods/not-enough-animations-1.9.2.jar"
+                    },
+                    "id": "fabric.mod:not-enough-animations:1.9.2",
+                    "name": "Not Enough Animations",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "7221d7f4693a98421306db222f9628ca",
+                        "size": 78415,
+                        "url": "https://cdn.modrinth.com/data/M10XRh3H/versions/rvIJXFqJ/one_slot-1.20.1-1.1.0.jar",
+                        "path": "mods/one-slot-1.1.0.jar"
+                    },
+                    "id": "fabric.mod:one-slot:1.1.0",
+                    "name": "One Slot",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "9150f588f732ae38c0320a17fa340626",
+                        "size": 905421,
+                        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2+1.20.jar",
+                        "path": "mods/owo-lib-0.11.2.jar"
+                    },
+                    "id": "fabric.mod:owo-lib:0.11.2",
+                    "name": "Owo Lib",
+                    "type": "File",
+                    "server": false
+                },
+                {
+                    "artifact": {
+                        "MD5": "aa7066de8717d57abadfd218a7327dd6",
+                        "size": 298988,
+                        "url": "https://cdn.modrinth.com/data/IlGAhsOM/versions/yIqUGQwi/ParticleTweaks-1.1.3-1.20.x.jar",
+                        "path": "mods/particle-tweaks-1.1.3.jar"
+                    },
+                    "id": "fabric.mod:particle-tweaks:1.1.3",
+                    "name": "Particle Tweaks",
+                    "type": "File",
+                    "server": false
                 },
                 {
                     "artifact": {
                         "MD5": "c28dbac324e13836c2c15e47bfcd9e45",
                         "size": 555041,
                         "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3+1.14.4-1.21.jar",
-                        "path": "mods/pehkui-3.8.3+1.14.4-1.21.jar"
+                        "path": "mods/pehkui-3.8.3.jar"
                     },
                     "id": "fabric.mod:pehkui:3.8.3",
                     "name": "Pehkui",
@@ -737,409 +617,169 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "afa702d090a9e905d188fb0b6f8b4e8e",
-                        "size": 200698,
-                        "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/8OuTJDGd/enhancedblockentities-0.10.1+1.21.jar",
-                        "path": "mods/enhancedblockentities-0.10.1+1.21.jar"
+                        "MD5": "d4836bdbe7297d5bb93070ca9b6ad8ed",
+                        "size": 139266201,
+                        "url": "https://www.patreon.com/file?h=114047283&m=366094397",
+                        "path": "mods/physics-mod-pro-172.jar"
                     },
-                    "id": "fabric.mod:enhancedblockentities:0.10.1",
-                    "name": "Enhanced Block Entities",
+                    "id": "fabric.mod:physics-mod-pro:172",
+                    "name": "Physics Mod Pro",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "f4871c2770d5b4e6e1734eee3e3eb0e0",
-                        "size": 252153,
-                        "url": "https://cdn.modrinth.com/data/IDOSfa6c/versions/uB6CeMT7/command-block-ide-0.4.8.jar",
-                        "path": "mods/command-block-ide-0.4.8.jar"
+                        "MD5": "03dfb09aabe5c2c8167568cd5c32666b",
+                        "size": 181008,
+                        "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+                        "path": "mods/playeranimator-1.0.2.jar"
                     },
-                    "id": "fabric.mod:command-block-ide:0.4.8",
-                    "name": "Command Block IDE",
+                    "id": "fabric.mod:playeranimator:1.0.2",
+                    "name": "playerAnimator",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "ac2f793d0c3547f9166bc2f58f0198f2",
-                        "size": 177689,
-                        "url": "https://cdn.modrinth.com/data/sc2Pektv/versions/BufbXYSe/basicweapons-1.2.9+1.21.jar",
-                        "path": "mods/basicweapons-1.2.9+1.21.jar"
+                        "MD5": "b3e1ba8407ea6ca144a54270b399a672",
+                        "size": 4374815,
+                        "url": "https://cdn.modrinth.com/data/GuE5FpvB/versions/A5YD9uS3/promenade-4.1.1.jar",
+                        "path": "mods/promenade-4.1.1.jar"
                     },
-                    "id": "fabric.mod:basicweapons:1.2.9",
-                    "name": "Basic Weapons",
+                    "id": "fabric.mod:promenade:4.1.1",
+                    "name": "Promenade",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "3dc856b4f678e519a5fd5147c36871f5",
-                        "size": 245434,
-                        "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/aPcyUwtm/NBTac-FABRIC-1.21-1.3.3.jar",
-                        "path": "mods/NBTac-FABRIC-1.21-1.3.3.jar"
+                        "MD5": "398c46e49c5225266262fbb06a8bea07",
+                        "size": 133463,
+                        "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/F5UKlslF/puzzle-1.5.2+1.20.jar",
+                        "path": "mods/puzzle-1.5.2.jar"
                     },
-                    "id": "fabric.mod:nbtac:1.3.3",
-                    "name": "NBT Autocomplete",
+                    "id": "fabric.mod:puzzle:1.5.2",
+                    "name": "Puzzle",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "b7da9a2c46863debb24fd345f6652a28",
-                        "size": 308224,
-                        "url": "https://cdn.modrinth.com/data/Guh4HXen/versions/tjbSaxbm/ItemsDisplayed - v1.2.2-1.21.jar",
-                        "path": "mods/ItemsDisplayed - v1.2.2-1.21.jar"
+                        "MD5": "8f4364eba0f85bdd8267d494aedb11d9",
+                        "size": 1064665,
+                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/6dQXvzl5/PuzzlesLib-v8.1.29-1.20.1-Fabric.jar",
+                        "path": "mods/puzzles-lib-8.1.29.jar"
                     },
-                    "id": "fabric.mod:itemsdisplayed:1.2.2",
-                    "name": "Items Displayed",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "b89a2d2bcb6729af37e4a7fba0b706b0",
-                        "size": 1071146,
-                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar",
-                        "path": "mods/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:puzzleslib:21.0.22",
+                    "id": "fabric.mod:puzzles-lib:8.1.29",
                     "name": "Puzzles Lib",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "c75dbba2c5b8792b9f6373dc04fffc2a",
-                        "size": 165090,
-                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/Muht05v2/DiagonalFences-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/DiagonalFences-v21.0.0-1.21-Fabric.jar"
+                        "MD5": "c1e28b7477cc37f95b79561603dbfacf",
+                        "size": 128127,
+                        "url": "https://cdn.modrinth.com/data/fYYSAh4R/versions/zNuo1rxQ/realcamera-1.20.1-fabric-0.6.1-beta.jar",
+                        "path": "mods/real-camera-0.6.1.jar"
                     },
-                    "id": "fabric.mod:diagonalfences:21.0.0",
-                    "name": "Diagonal Fences",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "e486607a9c3b2887467fd5037c0979eb",
-                        "size": 188292,
-                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/8GlyEr6o/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:betteranimationscollection:21.0.0",
-                    "name": "Better Animations Collection",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "58cfe41fc4cd4cbf08cf72e323913949",
-                        "size": 79142,
-                        "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8zrcFuRP/Searchables-fabric-1.21-1.0.5.jar",
-                        "path": "mods/Searchables-fabric-1.21-1.0.5.jar"
-                    },
-                    "id": "fabric.mod:searchables:1.0.5",
-                    "name": "Searchables",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "0b097fe0d54e1f1683c803c1d12bf6dd",
-                        "size": 83976,
-                        "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/xl0PX3KR/Controlling-fabric-1.21-18.0.4.jar",
-                        "path": "mods/Controlling-fabric-1.21-18.0.4.jar"
-                    },
-                    "id": "fabric.mod:controlling:18.0.4",
-                    "name": "Controlling",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "b89a2d2bcb6729af37e4a7fba0b706b0",
-                        "size": 1071146,
-                        "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/Rzc9NmZd/PuzzlesLib-v21.0.22-1.21-Fabric.jar",
-                        "path": "mods/PuzzlesLib-v21.0.22-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:puzzleslib:21.0.22",
-                    "name": "Puzzles Lib",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "c75dbba2c5b8792b9f6373dc04fffc2a",
-                        "size": 165090,
-                        "url": "https://cdn.modrinth.com/data/IKARgflD/versions/Muht05v2/DiagonalFences-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/DiagonalFences-v21.0.0-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:diagonalfences:21.0.0",
-                    "name": "Diagonal Fences",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "e486607a9c3b2887467fd5037c0979eb",
-                        "size": 188292,
-                        "url": "https://cdn.modrinth.com/data/OoOVj3J3/versions/8GlyEr6o/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar",
-                        "path": "mods/BetterAnimationsCollection-v21.0.0-1.21-Fabric.jar"
-                    },
-                    "id": "fabric.mod:betteranimationscollection:21.0.0",
-                    "name": "Better Animations Collection",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "9ba3d734dac0e59deb4721f2f23c65ad",
-                        "size": 161045,
-                        "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
-                        "path": "mods/krypton-0.2.8.jar"
-                    },
-                    "id": "fabric.mod:krypton:0.2.8",
-                    "name": "Krypton",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "4f033db0c3d479a914b7eaa2f637520b",
-                        "size": 20718,
-                        "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fgAAuioX/Clumps-fabric-1.21-18.0.0.2.jar",
-                        "path": "mods/Clumps-fabric-1.21-18.0.0.2.jar"
-                    },
-                    "id": "fabric.mod:clumps:18.0.0.2",
-                    "name": "Clumps",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "fb3580013100e35e7186d7e191746fb4",
-                        "size": 157404,
-                        "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/cl0HrTL6/nvidium-0.2.9-beta.jar",
-                        "path": "mods/nvidium-0.2.9-beta.jar"
-                    },
-                    "id": "fabric.mod:nvidium:0.2.9-beta",
-                    "name": "Nvidium",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "7fe35ed16d8349112b0dd833839df763",
-                        "size": 439767,
-                        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QGcLqbQu/vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar",
-                        "path": "mods/vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar"
-                    },
-                    "id": "fabric.mod:vmp:0.2.0+beta.7.165",
-                    "name": "Very Many Players",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "8d01311f6789366bdf9425a9b90d8509",
-                        "size": 893264,
-                        "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/pdvZYDOA/servercore-fabric-1.5.4+1.21.jar",
-                        "path": "mods/servercore-fabric-1.5.4+1.21.jar"
-                    },
-                    "id": "fabric.mod:servercore:1.5.4",
-                    "name": "ServerCore",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "c1fead6591efc0c2dc899a2d10a6a375",
-                        "size": 528276,
-                        "url": "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/Lawzyi4R/noxesium-2.2.0.jar",
-                        "path": "mods/noxesium-2.2.0.jar"
-                    },
-                    "id": "fabric.mod:noxesium:2.2.0",
-                    "name": "Noxesium",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "287b5b24a48264d493f76db2a5db8411",
-                        "size": 26235,
-                        "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/QFfBwOwT/Ksyxis-1.3.2.jar",
-                        "path": "mods/Ksyxis-1.3.2.jar"
-                    },
-                    "id": "fabric.mod:ksyxis:1.3.2",
-                    "name": "Ksyxis",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "31062ae55bf585dbb7d80df37828d1e5",
-                        "size": 1073803,
-                        "url": "https://cdn.modrinth.com/data/JV2wFevs/versions/JeMdli3W/DynamicSoundFilters-1.4.0+1.21.jar",
-                        "path": "mods/DynamicSoundFilters-1.4.0+1.21.jar"
-                    },
-                    "id": "fabric.mod:dynamicsoundfilters:1.4.0",
-                    "name": "Dynamic Sound Filters",
-                    "type": "File",
-                    "server": false
-                },
-                {
-                    "artifact": {
-                        "MD5": "bff9ecf95134c252705913dffa469ea3",
-                        "size": 1154103,
-                        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/AVkXApBi/owo-lib-0.12.11+1.21.jar",
-                        "path": "mods/owo-lib-0.12.11+1.21.jar"
-                    },
-                    "id": "fabric.mod:owo-lib:0.12.11",
-                    "name": "oωo (owo-lib)",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "e2cd19e68658258203894c8318145a7b",
-                        "size": 18950,
-                        "url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/yuNlrAGu/Fishingreal-1.21-1.9.0.jar",
-                        "path": "mods/fishingreal-1.21-1.9.0.jar"
-                    },
-                    "id": "fabric.mod:fishingreal-1.21-1.9.0",
-                    "name": "Fishing Real",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "3dfd117080e09d0f2ddfcc43167ba37b",
-                        "size": 127197,
-                        "url": "https://cdn.modrinth.com/data/fYYSAh4R/versions/tC2FE4FT/realcamera-1.21-fabric-0.6.1-beta.jar",
-                        "path": "mods/realcamera-1.21-fabric-0.6.1-beta.jar"
-                    },
-                    "id": "fabric.mod:realcamera-1.21-fabric-0.6.1-beta",
+                    "id": "fabric.mod:real-camera:0.6.1",
                     "name": "Real Camera",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "41f96b153bc951f7e2daf4a783726083",
-                        "size": 147465,
-                        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/cb9rzzkK/connectiblechains-2.4.1+1.21.jar",
-                        "path": "mods/connectiblechains-2.4.1+1.21.jar"
+                        "MD5": "3b847e15a1342937733226036b6bc583",
+                        "size": 480015,
+                        "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/5edNc5ga/skinlayers3d-fabric-1.7.4-mc1.20.1.jar",
+                        "path": "mods/3dskinlayers-1.7.4.jar"
                     },
-                    "id": "fabric.mod:connectiblechains-2.4.1+1.21",
-                    "name": "Connectible Chains",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "f0aac5788e0c7ba08c068c495aefdbd2",
-                        "size": 87037,
-                        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/cIHtzziG/cicada-lib-0.8.3+1.21-and-above.jar",
-                        "path": "mods/cicada-lib-0.8.3+1.21-and-above.jar"
-                    },
-                    "id": "fabric.mod:cicada-lib-0.8.3+1.21-and-above",
-                    "name": "Cicada Lib",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "c464d9451dab8bf202b28915741edc3a",
-                        "size": 506915,
-                        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2+1.21.jar",
-                        "path": "mods/do_a_barrel_roll-fabric-3.6.2+1.21.jar"
-                    },
-                    "id": "fabric.mod:do_a_barrel_roll-fabric-3.6.2+1.21",
-                    "name": "Do A Barrel Roll",
+                    "id": "fabric.mod:3dskinlayers:1.7.4",
+                    "name": "3D Skin Layers",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "20119eae6f6aa14ff74399a9247c74eb",
-                        "size": 784317,
-                        "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/6z0WKPQn/bettercombat-fabric-2.0.1+1.21.1.jar",
-                        "path": "mods/bettercombat-fabric-2.0.1+1.21.1.jar"
+                        "MD5": "3fcd7cad4da53c5cfe9cc7b028f00785",
+                        "size": 10424707,
+                        "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/EoAqSkiW/Sounds-2.2.1+1.20.1%2Bfabric.jar",
+                        "path": "mods/sound-2.2.1.jar"
                     },
-                    "id": "fabric.mod:bettercombat-fabric-2.0.1+1.21.1",
-                    "name": "Better Combat",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "4d3b802ca071b92144e5599bd1f998a0",
-                        "size": 223237,
-                        "url": "https://cdn.modrinth.com/data/Sb5ypgDP/versions/m6cPF4yu/rocks-1.8.2.jar",
-                        "path": "mods/rocks-1.8.2.jar"
-                    },
-                    "id": "fabric.mod:rocks-1.8.2",
-                    "name": "Rocks",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "58069266ed3286d535ca0a5f1e085961",
-                        "size": 194588,
-                        "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/c6DQKGQp/player-animation-lib-fabric-2.0.0-alpha1+1.21.jar",
-                        "path": "mods/player-animation-lib-fabric-2.0.0-alpha1+1.21.jar"
-                    },
-                    "id": "fabric.mod:player-animation-lib-fabric-2.0.0-alpha1+1.21",
-                    "name": "Player animation Lib",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "ac22b0f0babe6fe59c9dec5265de2a1b",
-                        "size": 98973,
-                        "url": "https://cdn.modrinth.com/data/BwPeriwJ/versions/mxSw6cXj/a_good_place-1.21-1.2.4-fabric.jar",
-                        "path": "mods/a_good_place-1.21-1.2.4-fabric.jar"
-                    },
-                    "id": "fabric.mod:a_good_place-1.21-1.2.4-fabric",
-                    "name": "A Good Place",
+                    "id": "fabric.mod:sound:2.2.1",
+                    "name": "Sounds",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "0e357d8b5653b2a563dc3878723d3291",
-                        "size": 57022,
-                        "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar",
-                        "path": "mods/CameraOverhaul-1.4.1-fabric-universal.jar"
+                        "MD5": "0a7627607b9285d870ff80c0ec212104",
+                        "size": 195673,
+                        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/hxEab3Tk/sound-physics-remastered-fabric-1.20.1-1.4.8.jar",
+                        "path": "mods/sound-physics-remastered-1.4.8.jar"
                     },
-                    "id": "fabric.mod:CameraOverhaul-1.4.1-fabric-universal",
-                    "name": "Camera Overhaul",
+                    "id": "fabric.mod:sound-physics-remastered:1.4.8",
+                    "name": "Sound Physics Remastered",
                     "type": "File",
                     "server": false
                 },
                 {
                     "artifact": {
-                        "MD5": "bdcc436d54bd59e413a893d7d29caa71",
-                        "size": 256797,
-                        "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/eRGKagZq/armoroftheages-fabric-1.21-1.4.3.jar",
-                        "path": "mods/armoroftheages-fabric-1.21-1.4.3.jar"
+                        "MD5": "d5449b12c2d38b54b6541018d844944e",
+                        "size": 190419,
+                        "url": "https://cdn.modrinth.com/data/4v5Na7b9/versions/doX5BlP7/SwordBlockingMechanics-v8.0.2-1.20.1-Fabric.jar",
+                        "path": "mods/sword-blocking-mechanics-8.0.2.jar"
                     },
-                    "id": "fabric.mod:armoroftheages-fabric-1.21-1.4.3",
-                    "name": "Armor Of Theages",
+                    "id": "fabric.mod:sword-blocking-mechanics:8.0.2",
+                    "name": "Sword Blocking Mechanics",
                     "type": "File",
                     "server": true
                 },
                 {
                     "artifact": {
-                        "MD5": "25ccdf67d2b2b57baf35131acbe4690d",
-                        "size": 1912000,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.14.2/mtwmod-1.14.2.jar",
-                        "path": "mods/mtwmod-1.14.2.jar"
+                        "MD5": "41c064e5845b6e334877b9060aa15e2e",
+                        "size": 20688696,
+                        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wDYLclLS/valkyrienskies-120-2.3.0-beta.5.jar",
+                        "path": "mods/valkyrien-skies-2.3.0.jar"
                     },
-                    "id": "fabric.mod:mtwmod:1.14.2",
-                    "name": "MTW Mod",
+                    "id": "fabric.mod:valkyrien-skies:2.3.0",
+                    "name": "Valkyrien Skies",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "5b415e2a7775375e3be999d262341ba0",
+                        "size": 8098760,
+                        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pPL5s4GQ/voicechat-fabric-1.20.1-2.5.28.jar",
+                        "path": "mods/simple-voice-chat-2.5.28.jar"
+                    },
+                    "id": "fabric.mod:simple-voice-chat:2.5.28",
+                    "name": "Simple Voice Chat",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "363e5e8b6b5bf6ece3b1f4c5639d6ac8",
+                        "size": 314034,
+                        "url": "https://cdn.modrinth.com/data/q3tICGpu/versions/uTtVzTDf/wiretap-1.20.1-1.0.3.jar",
+                        "path": "mods/wiretap-1.0.3.jar"
+                    },
+                    "id": "fabric.mod:wiretap:1.0.3",
+                    "name": "Wiretap",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "bd0e7cff7896348faab92e43300d0639",
+                        "size": 5825402,
+                        "url": "https://mediafilez.forgecdn.net/files/4586/218/worldedit-mod-7.2.15.jar",
+                        "path": "mods/worldedit-7.2.15.jar"
+                    },
+                    "id": "fabric.mod:worldedit:7.2.15",
+                    "name": "WorldEdit:",
                     "type": "File",
                     "server": true
                 }
