@@ -14,12 +14,12 @@
             "icon": "",
             "version": "1.0.0",
             "address": "play.mathwor.com:25565",
-            "minecraftVersion": "1.21",
+            "minecraftVersion": "1.20.1",
             "mainServer": true,
             "autoconnect": true,
             "javaOptions": {
-                "supported": ">=21",
-                "suggestedMajor": 21
+                "supported": ">=17",
+                "suggestedMajor": 17
             },
             "modules": [
                 {
@@ -780,18 +780,6 @@
                     },
                     "id": "fabric.mod:worldedit:7.2.15",
                     "name": "WorldEdit:",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
-                        "MD5": "194e77e23269db24c45a74695e633fc8",
-                        "size": 1288845,
-                        "url": "https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar",
-                        "path": "mods/mod-loading-screen-1.0.5.jar"
-                    },
-                    "id": "fabric.mod:mod-loading-screen:1.0.5",
-                    "name": "Mod Loading Screen",
                     "type": "File",
                     "server": true
                 }
