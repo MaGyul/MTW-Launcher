@@ -782,6 +782,18 @@
                     "name": "WorldEdit:",
                     "type": "File",
                     "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "194e77e23269db24c45a74695e633fc8",
+                        "size": 1288845,
+                        "url": "https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar",
+                        "path": "mods/mod-loading-screen-1.0.5.jar"
+                    },
+                    "id": "fabric.mod:mod-loading-screen:1.0.5",
+                    "name": "Mod Loading Screen",
+                    "type": "File",
+                    "server": true
                 }
             ]
         }
