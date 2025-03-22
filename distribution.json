@@ -461,12 +461,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "45577adb5ab16505572c6ea4b1006e58",
-                        "size": 2726899,
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6+mc1.20.1.jar",
-                        "path": "mods/iris-1.7.6.jar"
+                        "MD5": "902528a82a843300ecf9027af9f8fb8c",
+                        "size": 2730664,
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Bi9nvICq/iris-1.7.5+mc1.20.1.jar",
+                        "path": "mods/iris-1.7.5.jar"
                     },
-                    "id": "fabric.mod:iris:1.7.6",
+                    "id": "fabric.mod:iris:1.7.5",
                     "name": "Iris Shaders",
                     "type": "File",
                     "server": false
