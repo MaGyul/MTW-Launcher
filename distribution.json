@@ -28,7 +28,7 @@
                         "size": 1387408,
                         "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.16.9",
+                    "id": "net.fabricmc:fabric-loader:0.16.10",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
@@ -780,6 +780,18 @@
                     },
                     "id": "fabric.mod:worldedit:7.2.15",
                     "name": "WorldEdit",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "d79bfcbc7d9dc74c632a36c120f11182",
+                        "size": 104277,
+                        "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/iug2Tybf/MRU-1.0.4+1.20.1%2Bfabric.jar",
+                        "path": "mods/mru-1.0.4.jar"
+                    },
+                    "id": "fabric.mod:mru:1.0.4",
+                    "name": "MRU",
                     "type": "File",
                     "server": true
                 }
