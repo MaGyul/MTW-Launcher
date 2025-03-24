@@ -24,21 +24,21 @@
             "modules": [
                 {
                     "artifact": {
-                        "MD5": "239d59118dec4324672b3d9e9d75efef",
-                        "size": 1387408,
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+                        "MD5": "27a6ef87676ce6316c777d81c1cd2962",
+                        "size": 1387357,
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
                     },
-                    "id": "net.fabricmc:fabric-loader:0.16.10",
+                    "id": "net.fabricmc:fabric-loader:0.16.9",
                     "name": "Minecraft Fabric (loader)",
                     "type": "Fabric",
                     "subModules": [
                         {
                             "artifact": {
-                                "MD5": "0d777d504e4104a030513c1262005d5a",
-                                "size": 2859,
-                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.16.10-1.20.1/fabric-loader-0.16.10-1.20.1.json"
+                                "MD5": "beac8c2ddcb76311af665a8c3f8768bd",
+                                "size": 3256,
+                                "url": "https://raw.githubusercontent.com/MaGyul/MTW-Launcher/main/versions/fabric-loader-0.16.9-1.20.1/fabric-loader-0.16.9-1.20.1.json"
                             },
-                            "id": "0.16.10-1.20.1",
+                            "id": "0.16.9-1.20.1",
                             "name": "Minecraft Fabric (version.json)",
                             "type": "VersionManifest"
                         },
@@ -94,9 +94,9 @@
                         },
                         {
                             "artifact": {
-                                "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                                "size": 1494834,
-                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                                "MD5": "65ff9052ede9283e70770e0cd4eccdf4",
+                                "size": 1494859,
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
                             },
                             "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
                             "name": "Minecraft Fabric (sponge-mixin)",
