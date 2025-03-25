@@ -413,12 +413,12 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "9d6b286586e9d6b40ee161dee1dd271f",
-                        "size": 2107841,
-                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PB9Kjpo3/fabric-api-0.92.5+1.20.1.jar",
-                        "path": "mods/fabric-api-0.92.5.jar"
+                        "MD5": "dc37eff29b709467379bc41ae4f721b4",
+                        "size": 2107985,
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3+1.20.1.jar",
+                        "path": "mods/fabric-api-0.92.3.jar"
                     },
-                    "id": "fabric.mod:fabric-api:0.92.5",
+                    "id": "fabric.mod:fabric-api:0.92.3",
                     "name": "Fabric API",
                     "type": "File",
                     "server": true
@@ -569,9 +569,9 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "7221d7f4693a98421306db222f9628ca",
-                        "size": 78415,
-                        "url": "https://cdn.modrinth.com/data/M10XRh3H/versions/rvIJXFqJ/one_slot-1.20.1-1.1.0.jar",
+                        "MD5": "027ffd9ec511acd11da460a9e1880815",
+                        "size": 177984,
+                        "url": "https://cdn.modrinth.com/data/ggGEL8P2/versions/mODTEtdx/one_slot-1.1.0.jar",
                         "path": "mods/one-slot-1.1.0.jar"
                     },
                     "id": "fabric.mod:one-slot:1.1.0",
