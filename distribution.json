@@ -509,18 +509,6 @@
                 },
                 {
                     "artifact": {
-                        "MD5": "3a62d62b4ec9160d019883ec54bccf78",
-                        "size": 2027734,
-                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.15.2/mtwmod-1.15.2.jar",
-                        "path": "mods/mtwmod-1.15.2.jar"
-                    },
-                    "id": "fabric.mod:mtwmod:1.15.2",
-                    "name": "MTWMod",
-                    "type": "File",
-                    "server": true
-                },
-                {
-                    "artifact": {
                         "MD5": "8830faf3c741e33628515216f6e0adbd",
                         "size": 141250949,
                         "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.0.7-resource/mtwmod-resource-1.0.7.jar",
@@ -792,6 +780,18 @@
                     },
                     "id": "fabric.mod:mru:1.0.4",
                     "name": "MRU",
+                    "type": "File",
+                    "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "ad2bdb7abc6fcab656ba63ae3e94aa9e",
+                        "size": 2034115,
+                        "url": "https://github.com/MaGyul/MTW-Mod/releases/download/1.15.4/mtwmod-1.15.4.jar",
+                        "path": "mods/mtwmod-1.15.4.jar"
+                    },
+                    "id": "fabric.mod:mtwmod:1.15.4",
+                    "name": "MTWMod",
                     "type": "File",
                     "server": true
                 }
