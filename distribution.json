@@ -794,6 +794,18 @@
                     "name": "MTWMod",
                     "type": "File",
                     "server": true
+                },
+                {
+                    "artifact": {
+                        "MD5": "825c1f7b1e1e11d8658a2c890baadb5a",
+                        "size": 290605,
+                        "url": "https://cdn.modrinth.com/data/w3bbwFYU/versions/iQ51hdFz/NoCubes-fabric-1.20.1-0.5.2-dev-38904f7.jar",
+                        "path": "mods/nocubes-0.5.2.jar"
+                    },
+                    "id": "fabric.mod:nocubes:0.5.2",
+                    "name": "No Cubes",
+                    "type": "File",
+                    "server": true
                 }
             ]
         }
